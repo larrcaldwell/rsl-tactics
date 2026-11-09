@@ -1,0 +1,432 @@
+{
+ "table": [
+  {
+   "team": "RSL",
+   "side": "home",
+   "key": "poss",
+   "label": "Possession %",
+   "norm": 55.7,
+   "actual": 63,
+   "dev_pct": 13
+  },
+  {
+   "team": "RSL",
+   "side": "home",
+   "key": "shots",
+   "label": "Shots (per half)",
+   "norm": 6.8,
+   "actual": 9,
+   "dev_pct": 33
+  },
+  {
+   "team": "RSL",
+   "side": "home",
+   "key": "sot",
+   "label": "Shots on target (per half)",
+   "norm": 2.3,
+   "actual": 2,
+   "dev_pct": -12
+  },
+  {
+   "team": "RSL",
+   "side": "home",
+   "key": "crosses",
+   "label": "Crosses (per half)",
+   "norm": 12.0,
+   "actual": 13,
+   "dev_pct": 8
+  },
+  {
+   "team": "RSL",
+   "side": "home",
+   "key": "passes",
+   "label": "Passes (per half)",
+   "norm": 268.2,
+   "actual": 290,
+   "dev_pct": 8
+  },
+  {
+   "team": "RSL",
+   "side": "home",
+   "key": "pass_pct",
+   "label": "Pass accuracy %",
+   "norm": 82.9,
+   "actual": 85.8,
+   "dev_pct": 3
+  },
+  {
+   "team": "RSL",
+   "side": "home",
+   "key": "tackles",
+   "label": "Tackles (per half)",
+   "norm": 7.6,
+   "actual": 6,
+   "dev_pct": -21
+  },
+  {
+   "team": "RSL",
+   "side": "home",
+   "key": "xg",
+   "label": "xG (per half)",
+   "norm": 0.6,
+   "actual": 0.6,
+   "dev_pct": -4
+  },
+  {
+   "team": "Demo United",
+   "side": "away",
+   "key": "poss",
+   "label": "Possession %",
+   "norm": 44.9,
+   "actual": 37,
+   "dev_pct": -18
+  },
+  {
+   "team": "Demo United",
+   "side": "away",
+   "key": "shots",
+   "label": "Shots (per half)",
+   "norm": 4.4,
+   "actual": 4,
+   "dev_pct": -10
+  },
+  {
+   "team": "Demo United",
+   "side": "away",
+   "key": "sot",
+   "label": "Shots on target (per half)",
+   "norm": 1.6,
+   "actual": 2,
+   "dev_pct": 25
+  },
+  {
+   "team": "Demo United",
+   "side": "away",
+   "key": "crosses",
+   "label": "Crosses (per half)",
+   "norm": 8.4,
+   "actual": 3,
+   "dev_pct": -64
+  },
+  {
+   "team": "Demo United",
+   "side": "away",
+   "key": "passes",
+   "label": "Passes (per half)",
+   "norm": 243.8,
+   "actual": 170,
+   "dev_pct": -30
+  },
+  {
+   "team": "Demo United",
+   "side": "away",
+   "key": "pass_pct",
+   "label": "Pass accuracy %",
+   "norm": 81.1,
+   "actual": 76.0,
+   "dev_pct": -6
+  },
+  {
+   "team": "Demo United",
+   "side": "away",
+   "key": "tackles",
+   "label": "Tackles (per half)",
+   "norm": 10.5,
+   "actual": 11,
+   "dev_pct": 5
+  },
+  {
+   "team": "Demo United",
+   "side": "away",
+   "key": "xg",
+   "label": "xG (per half)",
+   "norm": 0.4,
+   "actual": 0.9,
+   "dev_pct": 127
+  }
+ ],
+ "cards": [
+  {
+   "id": "ht_cross_bad_home",
+   "scope": "effectiveness",
+   "confidence": "Measured",
+   "title": "RSL crossing is not working",
+   "data": "13 crosses, 15% completed.",
+   "meaning": "High volume, low return. The delivery is poor or the defense is winning the ball in the air.",
+   "watch": "Expect a change: cutbacks, play through the middle, or a target forward off the bench.",
+   "impact": 0.9,
+   "numbers": [
+    {
+     "team": "RSL",
+     "key": "crosses",
+     "label": "Crosses",
+     "value": 13,
+     "rank": "",
+     "pct": null,
+     "term": "crosses"
+    }
+   ],
+   "rule": "Crosses >= 5 and completion < 25% in the first half."
+  },
+  {
+   "id": "ht_trail_home",
+   "scope": "adjustment",
+   "confidence": "Inference",
+   "title": "RSL are trailing and will push",
+   "data": "Score 0-1 at halftime. Shots 9 to 4.",
+   "meaning": "Teams that are behind commit more players forward and take more risk.",
+   "watch": "RSL fullbacks higher, an extra attacker on, more crosses. That also leaves space behind them for a counter.",
+   "impact": 0.9,
+   "numbers": [],
+   "rule": "Team is behind at halftime."
+  },
+  {
+   "id": "ht_xg_good_away",
+   "scope": "effectiveness",
+   "confidence": "Measured",
+   "title": "Demo United are creating real chances with few shots",
+   "data": "0.90 xG on 4 shots.",
+   "meaning": "What they are doing works. Expect more of it.",
+   "watch": "The same pattern of attack repeating, the opponent forced to change shape.",
+   "impact": 0.85,
+   "numbers": [
+    {
+     "team": "Demo United",
+     "key": "xg",
+     "label": "xG",
+     "value": 0.9,
+     "rank": "",
+     "pct": null,
+     "term": "xg"
+    }
+   ],
+   "rule": "xG >= 0.8 on 5 or fewer shots."
+  },
+  {
+   "id": "ht_shots_bad_home",
+   "scope": "effectiveness",
+   "confidence": "Measured",
+   "title": "RSL shots are not testing the keeper",
+   "data": "9 shots, 2 on target.",
+   "meaning": "Volume without threat. Likely long shots or blocked attempts.",
+   "watch": "More patience in the final third, or a change of player to create better shots.",
+   "impact": 0.75,
+   "numbers": [
+    {
+     "team": "RSL",
+     "key": "shots",
+     "label": "Shots",
+     "value": 9,
+     "rank": "",
+     "pct": null,
+     "term": "shots"
+    }
+   ],
+   "rule": "Shots >= 6 and shots on target share < 25%."
+  },
+  {
+   "id": "ht_lead_away",
+   "scope": "adjustment",
+   "confidence": "Inference",
+   "title": "Demo United are ahead and may sit deeper",
+   "data": "Score 1-0 at halftime. Possession 37%.",
+   "meaning": "Teams that are ahead protect the lead and let the opponent have the ball.",
+   "watch": "A lower Demo United line, fewer players forward, counters when they win it. Possession tends to shift toward the opponent.",
+   "impact": 0.75,
+   "numbers": [],
+   "rule": "Team is ahead at halftime."
+  },
+  {
+   "id": "ht_target_home",
+   "scope": "adjustment",
+   "confidence": "Inference",
+   "title": "RSL may bring on a target forward",
+   "data": "13 first-half crosses while trailing.",
+   "meaning": "A team crossing this much and behind often adds a tall striker to use the deliveries.",
+   "watch": "A substitution around minute 55 to 65 for a big forward, crosses aimed at the penalty spot.",
+   "impact": 0.7,
+   "numbers": [],
+   "rule": "Trailing and crosses >= 6."
+  },
+  {
+   "id": "ht_protect_away",
+   "scope": "adjustment",
+   "confidence": "Inference",
+   "title": "Demo United are under pressure and may add a defender",
+   "data": "Opponent shots 9 in the first half.",
+   "meaning": "A team being outshot like this often changes shape to protect the box.",
+   "watch": "A back five or an extra holding midfielder for Demo United, a winger dropping in to track the fullback.",
+   "impact": 0.7,
+   "numbers": [],
+   "rule": "Opponent shots >= 8 and team is not behind."
+  },
+  {
+   "id": "ht_dev_crosses_away",
+   "scope": "deviation",
+   "confidence": "Measured",
+   "title": "Demo United are crossing less than normal",
+   "data": "Demo United first half crosses: 3 vs season norm 8 per half.",
+   "meaning": "They are not reaching the byline.",
+   "watch": "Play through the middle, fullbacks held back.",
+   "impact": 0.514,
+   "numbers": [
+    {
+     "team": "Demo United",
+     "key": "crosses",
+     "label": "Crosses",
+     "value": 3,
+     "rank": "norm 8.4",
+     "pct": null,
+     "term": "crosses"
+    }
+   ],
+   "rule": "First half value differs from the season half-norm by 15% or more (8 points for possession)."
+  },
+  {
+   "id": "ht_dev_shots_home",
+   "scope": "deviation",
+   "confidence": "Measured",
+   "title": "RSL are shooting more than normal",
+   "data": "RSL first half shots: 9 vs season norm 7 per half.",
+   "meaning": "They are getting into shooting positions more often.",
+   "watch": "More box entries, the opponent blocking and clearing more.",
+   "impact": 0.263,
+   "numbers": [
+    {
+     "team": "RSL",
+     "key": "shots",
+     "label": "Shots",
+     "value": 9,
+     "rank": "norm 6.8",
+     "pct": null,
+     "term": "shots"
+    }
+   ],
+   "rule": "First half value differs from the season half-norm by 15% or more (8 points for possession)."
+  },
+  {
+   "id": "ht_dev_passes_away",
+   "scope": "deviation",
+   "confidence": "Measured",
+   "title": "Demo United are passing less than normal",
+   "data": "Demo United first half passes: 170 vs season norm 244 per half.",
+   "meaning": "The game is stretched, more direct, or they are under pressure.",
+   "watch": "Long balls, quick transitions, fewer long possessions.",
+   "impact": 0.242,
+   "numbers": [
+    {
+     "team": "Demo United",
+     "key": "passes",
+     "label": "Passes",
+     "value": 170,
+     "rank": "norm 243.8",
+     "pct": null,
+     "term": "passes"
+    }
+   ],
+   "rule": "First half value differs from the season half-norm by 15% or more (8 points for possession)."
+  }
+ ],
+ "working": [
+  {
+   "id": "ht_xg_good_away",
+   "scope": "effectiveness",
+   "confidence": "Measured",
+   "title": "Demo United are creating real chances with few shots",
+   "data": "0.90 xG on 4 shots.",
+   "meaning": "What they are doing works. Expect more of it.",
+   "watch": "The same pattern of attack repeating, the opponent forced to change shape.",
+   "impact": 0.85,
+   "numbers": [
+    {
+     "team": "Demo United",
+     "key": "xg",
+     "label": "xG",
+     "value": 0.9,
+     "rank": "",
+     "pct": null,
+     "term": "xg"
+    }
+   ],
+   "rule": "xG >= 0.8 on 5 or fewer shots."
+  }
+ ],
+ "not_working": [
+  {
+   "id": "ht_cross_bad_home",
+   "scope": "effectiveness",
+   "confidence": "Measured",
+   "title": "RSL crossing is not working",
+   "data": "13 crosses, 15% completed.",
+   "meaning": "High volume, low return. The delivery is poor or the defense is winning the ball in the air.",
+   "watch": "Expect a change: cutbacks, play through the middle, or a target forward off the bench.",
+   "impact": 0.9,
+   "numbers": [
+    {
+     "team": "RSL",
+     "key": "crosses",
+     "label": "Crosses",
+     "value": 13,
+     "rank": "",
+     "pct": null,
+     "term": "crosses"
+    }
+   ],
+   "rule": "Crosses >= 5 and completion < 25% in the first half."
+  },
+  {
+   "id": "ht_shots_bad_home",
+   "scope": "effectiveness",
+   "confidence": "Measured",
+   "title": "RSL shots are not testing the keeper",
+   "data": "9 shots, 2 on target.",
+   "meaning": "Volume without threat. Likely long shots or blocked attempts.",
+   "watch": "More patience in the final third, or a change of player to create better shots.",
+   "impact": 0.75,
+   "numbers": [
+    {
+     "team": "RSL",
+     "key": "shots",
+     "label": "Shots",
+     "value": 9,
+     "rank": "",
+     "pct": null,
+     "term": "shots"
+    }
+   ],
+   "rule": "Shots >= 6 and shots on target share < 25%."
+  }
+ ],
+ "score": {
+  "home": 0,
+  "away": 1
+ },
+ "teams": {
+  "home": "RSL",
+  "away": "Demo United"
+ },
+ "rsl_side": "home",
+ "generated_at": "2026-11-09T04:07:27+00:00",
+ "match_id": "demo1",
+ "source": "fotmob",
+ "source_role": "primary",
+ "snapshot_at": "2026-11-09T04:07:27+00:00",
+ "note": "",
+ "has_xg": true,
+ "has_shot_map": false,
+ "shots": [],
+ "attack_side": {
+  "home": {
+   "left_pct": 19,
+   "center_pct": 26,
+   "right_pct": 55
+  },
+  "away": {
+   "left_pct": 48,
+   "center_pct": 30,
+   "right_pct": 22
+  }
+ },
+ "minute": 45,
+ "demo": true
+}

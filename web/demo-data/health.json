@@ -1,0 +1,22 @@
+{
+ "sources": {
+  "fotmob": {
+   "ok": true,
+   "detail": "demo"
+  },
+  "espn": {
+   "ok": true,
+   "detail": "demo"
+  },
+  "asa": {
+   "ok": true,
+   "detail": "demo"
+  },
+  "api-football": {
+   "ok": null,
+   "detail": "no key"
+  }
+ },
+ "events": [],
+ "updated_at": "2026-11-09T04:07:27+00:00"
+}

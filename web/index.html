@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0a0c11">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="RSL Tactics">
+<title>RSL Tactics</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header><div class="wrap">
+  <div class="brand"><i></i>RSL TACTICS</div>
+  <div class="matchline"><div class="teams" id="teams">Loading</div><div class="when" id="when"></div></div>
+</div></header>
+
+<main class="wrap">
+  <div class="chips" id="chips"></div>
+  <div id="banners"></div>
+  <section class="tab on" id="t-rsl"></section>
+  <section class="tab" id="t-opp"></section>
+  <section class="tab" id="t-match"></section>
+  <section class="tab" id="t-ht"></section>
+  <section class="tab" id="t-learn"></section>
+</main>
+
+<nav><div class="in">
+  <button data-tab="rsl" class="on"><svg viewBox="0 0 24 24"><path d="M12 3l8 3v6c0 5-3.5 8-8 9-4.5-1-8-4-8-9V6z"/></svg>RSL</button>
+  <button data-tab="opp"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><path d="M12 8v4l3 2"/></svg>Opponent</button>
+  <button data-tab="match"><svg viewBox="0 0 24 24"><path d="M4 12h16M4 6h10M4 18h10"/><path d="M17 4l3 2-3 2M17 16l3 2-3 2"/></svg>Matchup</button>
+  <button data-tab="ht" id="htbtn"><svg viewBox="0 0 24 24"><rect x="4" y="5" width="16" height="14" rx="2"/><path d="M12 5v14M4 12h16"/></svg>Halftime</button>
+  <button data-tab="learn"><svg viewBox="0 0 24 24"><path d="M4 5h7a3 3 0 013 3v11a2 2 0 00-2-2H4zM20 5h-7"/><path d="M20 5v12h-6"/></svg>Learn</button>
+</div></nav>
+
+<div class="sheet-bg" id="sbg"></div>
+<div class="sheet" id="sheet"></div>
+
+<script src="glossary.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

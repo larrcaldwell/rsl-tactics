@@ -1,0 +1,27 @@
+// Learn Mode glossary. Keys match the "term" field on metrics and cards.
+window.GLOSSARY = {
+  possession: { name: "Possession %", short: "Share of the time a team has the ball.", why: "High possession usually means a team wants to control tempo. It is not the same as being dangerous: check shots and xG to see if the ball is being used." },
+  passes: { name: "Passes", short: "Passes attempted per game.", why: "Lots of passes means a team circulates the ball and builds slowly. Few passes means direct play or a team that sits back." },
+  pass_accuracy: { name: "Pass accuracy %", short: "Share of passes that reach a teammate.", why: "High accuracy fits a short passing team. A drop at halftime often means the opponent is pressing well." },
+  long_ball_share: { name: "Long ball share", short: "Long balls as a percent of all passes.", why: "A high share means the team skips the midfield. Low share means short build-up from the back." },
+  shots: { name: "Shots", short: "Shots per game.", why: "Volume of attempts. Pair it with xG: many shots from poor spots is not the same as a few from good ones." },
+  sot: { name: "Shots on target", short: "Shots that would score if not saved or blocked by the keeper.", why: "A low on-target share means shots from range or under pressure." },
+  xg: { name: "xG (expected goals)", short: "The chance of each shot becoming a goal, added up. A 0.3 xG shot goes in about 3 times in 10.", why: "It measures chance quality, not just count. A team beating its xG is finishing hot and may cool off. A team under its xG is likely to score more soon." },
+  xpass: { name: "xPass (expected pass completion)", short: "How likely a pass is to be completed given distance, direction and location.", why: "Beating xPass means a team is more secure than the difficulty of its passes suggests. It shows who plays safe and who takes risks." },
+  goals_added: { name: "g+ (goals added)", short: "American Soccer Analysis metric that values every on-ball action by how much it raises the chance of scoring.", why: "It credits players for passing, dribbling, shooting and defending, so it shows who actually moves games, not just who scores." },
+  crosses: { name: "Crosses", short: "Balls played from wide areas into the box, per game.", why: "A crossing team attacks the flanks and wants a target in the box. Check cross accuracy to see if it works." },
+  cross_accuracy: { name: "Cross accuracy %", short: "Share of crosses that find a teammate.", why: "Low accuracy with high volume means the crossing plan is not paying off." },
+  corners: { name: "Corners", short: "Corners won per game.", why: "A proxy for pressure in the final third and a set-piece chance source." },
+  tackles: { name: "Tackles", short: "Tackles made per game.", why: "More tackles means more defending without the ball. In a game, a spike can mean a team is pinned back or pressing harder." },
+  interceptions: { name: "Interceptions", short: "Passes cut out by a defender.", why: "Shows how well a team reads the game and how often it wins the ball in the middle." },
+  fouls: { name: "Fouls", short: "Fouls committed per game.", why: "Fouls near the opponent's box can be a sign of pressing. Many fouls also hand the opponent set pieces." },
+  goals: { name: "Goals", short: "Goals per game.", why: "The outcome. Compare it with xG to see if the scoring is sustainable." },
+  conversion: { name: "Shot conversion %", short: "Goals divided by shots.", why: "A high rate can mean great finishers or luck. A very high rate over a short span usually drops." },
+  ppda: { name: "PPDA (passes per defensive action)", short: "How many passes the opponent makes before this team challenges. Low means an aggressive press. In this app it is approximated as opponent passes divided by (tackles + interceptions + fouls).", why: "Low PPDA teams win the ball high and force mistakes. High PPDA teams let the opponent pass and defend deeper. Because it is approximate here, cards using it are labeled Inference." },
+  progressive_passes: { name: "Progressive passes", short: "Passes that move the ball a long way toward the opponent's goal.", why: "Shows who actually advances play, not just recycles it. Not in the free data used here, but worth watching for live." },
+  field_tilt: { name: "Field tilt", short: "Share of a team's possession that happens in the final third compared to the opponent.", why: "A high tilt means a team is camped in the opponent's half. Not in the free data used here." },
+  attack_zones: { name: "Attack zones", short: "How much of a team's attacking play goes down the left, center or right.", why: "A big skew shows where a team wants to attack, and where the opponent should defend. Shown when a source provides it." },
+  rank: { name: "Rank and percentile", short: "Rank 1 means the highest value in MLS. Percentile shows where the value sits from 0 to 100.", why: "A number only means something next to the league. Rank turns 54% possession into 'third in MLS'." },
+  measured: { name: "Measured", short: "The claim follows directly from numbers shown on the card.", why: "You can check it. If the numbers are right, the card is right." },
+  inference: { name: "Inference", short: "The numbers are real, but the conclusion about behavior on the field is reasoned, not directly measured.", why: "Free data cannot see off-ball movement or exact positioning, so cards about shape, pressing intent or substitutions are labeled Inference." }
+};

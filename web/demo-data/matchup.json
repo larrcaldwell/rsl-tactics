@@ -1,0 +1,653 @@
+{
+ "generated_at": "2026-11-09T04:07:27+00:00",
+ "mode": "upcoming",
+ "profiles_generated_at": "2026-11-09T04:07:27+00:00",
+ "profile_source": "DEMO (synthetic)",
+ "xg_available": true,
+ "match": {
+  "id": "demo1",
+  "date": "2026-11-11T04:07:27+00:00",
+  "home": "Real Salt Lake",
+  "away": "Demo United",
+  "rsl_is_home": true,
+  "opponent": "Demo United"
+ },
+ "rsl": {
+  "name": "RSL",
+  "profile_key": "Real Salt Lake",
+  "games": 20,
+  "form": {
+   "season": {
+    "ppg": 1.2,
+    "gf": 1.35,
+    "ga": 1.4,
+    "shot_diff": 1.35
+   },
+   "last5": {
+    "ppg": 0.4,
+    "gf": 0.8,
+    "ga": 1.6,
+    "shot_diff": 3.0,
+    "results": [
+     "D",
+     "L",
+     "L",
+     "D",
+     "L"
+    ]
+   }
+  },
+  "recent": [
+   {
+    "date": "2026-06-14",
+    "opp": "Demo Club 15",
+    "score": "1-1",
+    "venue": "home"
+   },
+   {
+    "date": "2026-06-21",
+    "opp": "Demo United",
+    "score": "0-1",
+    "venue": "away"
+   },
+   {
+    "date": "2026-06-28",
+    "opp": "Demo Club 17",
+    "score": "0-2",
+    "venue": "away"
+   },
+   {
+    "date": "2026-07-05",
+    "opp": "Demo Club 07",
+    "score": "2-2",
+    "venue": "away"
+   },
+   {
+    "date": "2026-07-13",
+    "opp": "Demo Club 19",
+    "score": "1-2",
+    "venue": "away"
+   }
+  ],
+  "cards": [
+   {
+    "id": "vuln_crosses",
+    "scope": "vulnerability",
+    "confidence": "Measured",
+    "title": "RSL concede a lot of crosses",
+    "data": "19.9 crosses conceded per game (#2 of 30, #1 = concedes the most).",
+    "meaning": "Opponents reach the flanks easily, and the box gets tested in the air.",
+    "watch": "Opposing fullbacks and wingers free to deliver, a long ball to the far post, set-piece pressure after blocked crosses.",
+    "impact": 0.873,
+    "numbers": [
+     {
+      "team": "RSL",
+      "key": "crosses_ag",
+      "label": "Crosses conceded",
+      "value": 19.9,
+      "rank": "2/30",
+      "pct": 97.0,
+      "term": "crosses"
+     }
+    ],
+    "rule": "Crosses conceded percentile >= 75."
+   },
+   {
+    "id": "style_possession",
+    "scope": "style",
+    "confidence": "Measured",
+    "title": "RSL build through the middle with the ball",
+    "data": "55.7% possession (#7 of 30). Long balls are 10.6% of passes (#25 of 30, low = short passing).",
+    "meaning": "They keep the ball and build short. They want to dictate tempo and make the opponent chase.",
+    "watch": "Goalkeeper and center backs passing short, patient circulation, fullbacks high. The opponent sitting in a mid or low block.",
+    "impact": 0.81,
+    "numbers": [
+     {
+      "team": "RSL",
+      "key": "poss",
+      "label": "Possession %",
+      "value": 55.65,
+      "rank": "7/30",
+      "pct": 79.0,
+      "term": "possession"
+     },
+     {
+      "team": "RSL",
+      "key": "long_pct",
+      "label": "Long ball share of passes %",
+      "value": 10.58,
+      "rank": "25/30",
+      "pct": 17.0,
+      "term": "long_ball_share"
+     }
+    ],
+    "rule": "Possession pct >= 70 and long ball share pct <= 40 (percentile vs MLS)."
+   },
+   {
+    "id": "vuln_corners",
+    "scope": "vulnerability",
+    "confidence": "Measured",
+    "title": "RSL concede a lot of corners",
+    "data": "5.2 corners conceded per game (#7 of 30, #1 = concedes the most).",
+    "meaning": "They are pushed back and clear the ball behind. Set pieces become a real chance source.",
+    "watch": "Opponents winning corners in bunches, mark-up and second balls decide it.",
+    "impact": 0.711,
+    "numbers": [
+     {
+      "team": "RSL",
+      "key": "corners_ag",
+      "label": "Corners conceded",
+      "value": 5.2,
+      "rank": "7/30",
+      "pct": 79.0,
+      "term": "corners"
+     }
+    ],
+    "rule": "Corners conceded percentile >= 75."
+   },
+   {
+    "id": "form",
+    "scope": "form",
+    "confidence": "Measured",
+    "title": "RSL are out of form",
+    "data": "Last 5: 0.4 points per game (DLLDL) vs 1.2 on the season.",
+    "meaning": "Recent results are well below their season level.",
+    "watch": "Confidence and shape. Hot teams press and attack with energy early, cold teams tighten up and wait for mistakes.",
+    "impact": 0.32,
+    "numbers": [],
+    "rule": "|last 5 ppg - season ppg| >= 0.6."
+   }
+  ],
+  "style": "possession",
+  "press": "mid",
+  "attack_side": {
+   "left_pct": 24,
+   "center_pct": 31,
+   "right_pct": 45
+  }
+ },
+ "opp": {
+  "name": "Demo United",
+  "profile_key": "Demo United",
+  "games": 20,
+  "form": {
+   "season": {
+    "ppg": 0.95,
+    "gf": 1.05,
+    "ga": 1.5,
+    "shot_diff": -5.05
+   },
+   "last5": {
+    "ppg": 1.6,
+    "gf": 1.0,
+    "ga": 0.6,
+    "shot_diff": -4.4,
+    "results": [
+     "D",
+     "W",
+     "L",
+     "D",
+     "W"
+    ]
+   }
+  },
+  "recent": [
+   {
+    "date": "2026-06-15",
+    "opp": "Demo Club 03",
+    "score": "2-2",
+    "venue": "home"
+   },
+   {
+    "date": "2026-06-21",
+    "opp": "Real Salt Lake",
+    "score": "1-0",
+    "venue": "home"
+   },
+   {
+    "date": "2026-06-29",
+    "opp": "Demo Club 05",
+    "score": "0-1",
+    "venue": "home"
+   },
+   {
+    "date": "2026-07-05",
+    "opp": "Demo Club 16",
+    "score": "0-0",
+    "venue": "away"
+   },
+   {
+    "date": "2026-07-12",
+    "opp": "Demo Club 06",
+    "score": "2-0",
+    "venue": "away"
+   }
+  ],
+  "cards": [
+   {
+    "id": "press_high",
+    "scope": "press",
+    "confidence": "Inference",
+    "title": "Demo United press high",
+    "data": "Approx PPDA 13.0 (#27 of 30, #1 = most passive). Opponents get few passes per defensive action.",
+    "meaning": "They squeeze the opponent early and try to win it high. This is a proxy built from tackles, interceptions and fouls, so treat it as likely, not certain.",
+    "watch": "Forwards closing the goalkeeper and center backs, a compact line pushed up, fouls in the opponent's half.",
+    "impact": 0.9,
+    "numbers": [
+     {
+      "team": "Demo United",
+      "key": "ppda",
+      "label": "PPDA (approx)",
+      "value": 13.01,
+      "rank": "27/30",
+      "pct": 10.0,
+      "term": "ppda"
+     }
+    ],
+    "rule": "PPDA percentile <= 30. PPDA here = opponent passes / (tackles + interceptions + fouls)."
+   },
+   {
+    "id": "vuln_crosses",
+    "scope": "vulnerability",
+    "confidence": "Measured",
+    "title": "Demo United concede a lot of crosses",
+    "data": "20.9 crosses conceded per game (#1 of 30, #1 = concedes the most).",
+    "meaning": "Opponents reach the flanks easily, and the box gets tested in the air.",
+    "watch": "Opposing fullbacks and wingers free to deliver, a long ball to the far post, set-piece pressure after blocked crosses.",
+    "impact": 0.9,
+    "numbers": [
+     {
+      "team": "Demo United",
+      "key": "crosses_ag",
+      "label": "Crosses conceded",
+      "value": 20.9,
+      "rank": "1/30",
+      "pct": 100.0,
+      "term": "crosses"
+     }
+    ],
+    "rule": "Crosses conceded percentile >= 75."
+   },
+   {
+    "id": "style_direct",
+    "scope": "style",
+    "confidence": "Measured",
+    "title": "Demo United play direct",
+    "data": "Long balls are 20.0% of passes (#3 of 30). Possession 44.9% (#22 of 30).",
+    "meaning": "They skip the build-up. They are comfortable without the ball and look to win it and go forward fast.",
+    "watch": "Goal kicks and center back passes going long, second-ball fights in midfield, quick forward runs after a turnover.",
+    "impact": 0.825,
+    "numbers": [
+     {
+      "team": "Demo United",
+      "key": "long_pct",
+      "label": "Long ball share of passes %",
+      "value": 19.98,
+      "rank": "3/30",
+      "pct": 93.0,
+      "term": "long_ball_share"
+     },
+     {
+      "team": "Demo United",
+      "key": "poss",
+      "label": "Possession %",
+      "value": 44.91,
+      "rank": "22/30",
+      "pct": 28.0,
+      "term": "possession"
+     }
+    ],
+    "rule": "Long ball share pct >= 70 and possession pct <= 50."
+   },
+   {
+    "id": "vuln_shots",
+    "scope": "vulnerability",
+    "confidence": "Measured",
+    "title": "Demo United concede a lot of shots",
+    "data": "13.9 shots conceded per game (#6 of 30, #1 = concedes the most).",
+    "meaning": "Their structure lets opponents get shots away.",
+    "watch": "Opponents shooting from the edge of the box, midfield not tracking runners.",
+    "impact": 0.747,
+    "numbers": [
+     {
+      "team": "Demo United",
+      "key": "shots_ag",
+      "label": "Shots conceded",
+      "value": 13.9,
+      "rank": "6/30",
+      "pct": 83.0,
+      "term": "shots"
+     }
+    ],
+    "rule": "Shots conceded percentile >= 75."
+   },
+   {
+    "id": "finishing",
+    "scope": "finishing",
+    "confidence": "Measured",
+    "title": "Demo United are outscoring their chances",
+    "data": "1.05 goals vs 0.79 xG per game.",
+    "meaning": "They are scoring more than their chances suggest, which tends to cool off.",
+    "watch": "Look at shot quality: long shots and low-angle finishes mean the numbers are flattering.",
+    "impact": 0.299,
+    "numbers": [
+     {
+      "team": "Demo United",
+      "key": "goals",
+      "label": "Goals",
+      "value": 1.05,
+      "rank": "25/30",
+      "pct": 17.0,
+      "term": "goals"
+     },
+     {
+      "team": "Demo United",
+      "key": "xg",
+      "label": "xG",
+      "value": 0.79,
+      "rank": "23/30",
+      "pct": 24.0,
+      "term": "xg"
+     }
+    ],
+    "rule": "|goals - xG| per game >= 0.2."
+   },
+   {
+    "id": "form",
+    "scope": "form",
+    "confidence": "Measured",
+    "title": "Demo United are in form",
+    "data": "Last 5: 1.6 points per game (DWLDW) vs 0.9 on the season.",
+    "meaning": "Recent results are well above their season level.",
+    "watch": "Confidence and shape. Hot teams press and attack with energy early, cold teams tighten up and wait for mistakes.",
+    "impact": 0.26,
+    "numbers": [],
+    "rule": "|last 5 ppg - season ppg| >= 0.6."
+   }
+  ],
+  "style": "direct",
+  "press": "aggressive",
+  "attack_side": {
+   "left_pct": 41,
+   "center_pct": 33,
+   "right_pct": 26
+  }
+ },
+ "compare": [
+  {
+   "key": "poss",
+   "label": "Possession %",
+   "term": "possession",
+   "rsl": 55.65,
+   "opp": 44.91,
+   "rsl_rank": "7/30",
+   "opp_rank": "22/30"
+  },
+  {
+   "key": "passes",
+   "label": "Passes",
+   "term": "passes",
+   "rsl": 536.45,
+   "opp": 487.7,
+   "rsl_rank": "6/30",
+   "opp_rank": "22/30"
+  },
+  {
+   "key": "long_pct",
+   "label": "Long ball share of passes %",
+   "term": "long_ball_share",
+   "rsl": 10.58,
+   "opp": 19.98,
+   "rsl_rank": "25/30",
+   "opp_rank": "3/30"
+  },
+  {
+   "key": "shots",
+   "label": "Shots",
+   "term": "shots",
+   "rsl": 13.55,
+   "opp": 8.85,
+   "rsl_rank": "8/30",
+   "opp_rank": "28/30"
+  },
+  {
+   "key": "sot",
+   "label": "Shots on target",
+   "term": "sot",
+   "rsl": 4.55,
+   "opp": 3.2,
+   "rsl_rank": "11/30",
+   "opp_rank": "27/30"
+  },
+  {
+   "key": "xg",
+   "label": "xG",
+   "term": "xg",
+   "rsl": 1.29,
+   "opp": 0.79,
+   "rsl_rank": "4/30",
+   "opp_rank": "23/30"
+  },
+  {
+   "key": "crosses",
+   "label": "Crosses",
+   "term": "crosses",
+   "rsl": 24.0,
+   "opp": 16.8,
+   "rsl_rank": "2/30",
+   "opp_rank": "19/30"
+  },
+  {
+   "key": "cross_pct",
+   "label": "Cross accuracy %",
+   "term": "cross_accuracy",
+   "rsl": 28.62,
+   "opp": 26.38,
+   "rsl_rank": "8/30",
+   "opp_rank": "29/30"
+  },
+  {
+   "key": "corners",
+   "label": "Corners",
+   "term": "corners",
+   "rsl": 6.45,
+   "opp": 4.0,
+   "rsl_rank": "1/30",
+   "opp_rank": "24/30"
+  },
+  {
+   "key": "ppda",
+   "label": "PPDA (approx)",
+   "term": "ppda",
+   "rsl": 13.89,
+   "opp": 13.01,
+   "rsl_rank": "17/30",
+   "opp_rank": "27/30"
+  },
+  {
+   "key": "shots_ag",
+   "label": "Shots conceded",
+   "term": "shots",
+   "rsl": 12.2,
+   "opp": 13.9,
+   "rsl_rank": "14/30",
+   "opp_rank": "6/30"
+  },
+  {
+   "key": "xg_ag",
+   "label": "xG conceded",
+   "term": "xg",
+   "rsl": 1.2,
+   "opp": 1.36,
+   "rsl_rank": "17/30",
+   "opp_rank": "9/30"
+  },
+  {
+   "key": "crosses_ag",
+   "label": "Crosses conceded",
+   "term": "crosses",
+   "rsl": 19.9,
+   "opp": 20.9,
+   "rsl_rank": "2/30",
+   "opp_rank": "1/30"
+  },
+  {
+   "key": "goals",
+   "label": "Goals",
+   "term": "goals",
+   "rsl": 1.35,
+   "opp": 1.05,
+   "rsl_rank": "14/30",
+   "opp_rank": "25/30"
+  },
+  {
+   "key": "goals_ag",
+   "label": "Goals conceded",
+   "term": "goals",
+   "rsl": 1.4,
+   "opp": 1.5,
+   "rsl_rank": "13/30",
+   "opp_rank": "7/30"
+  }
+ ],
+ "matchup": {
+  "keys": [
+   {
+    "id": "k_wide_RSL",
+    "scope": "key",
+    "confidence": "Measured",
+    "title": "RSL will cross, and Demo United allow it",
+    "data": "RSL average 24.0 crosses (#2 of 30). Demo United concede 20.9 (#1 of 30, #1 = most).",
+    "meaning": "RSL lean on crosses and Demo United do little to stop them.",
+    "watch": "RSL fullbacks and wingers getting to the byline, early deliveries, Demo United defenders clearing under pressure and giving up corners.",
+    "impact": 0.985,
+    "numbers": [
+     {
+      "team": "RSL",
+      "key": "crosses",
+      "label": "Crosses",
+      "value": 24.0,
+      "rank": "2/30",
+      "pct": 97.0,
+      "term": "crosses"
+     },
+     {
+      "team": "Demo United",
+      "key": "crosses_ag",
+      "label": "Crosses conceded",
+      "value": 20.9,
+      "rank": "1/30",
+      "pct": 100.0,
+      "term": "crosses"
+     }
+    ],
+    "rule": "A crosses pct >= 65 and B crosses conceded pct >= 60."
+   },
+   {
+    "id": "k_xg_RSL",
+    "scope": "key",
+    "confidence": "Measured",
+    "title": "RSL create quality against a leaky Demo United defense",
+    "data": "RSL generate 1.29 xG per game (#4 of 30). Demo United concede 1.36 (#9 of 30, #1 = most).",
+    "meaning": "RSL get good chances and Demo United give them up.",
+    "watch": "RSL through balls and cutbacks, Demo United back line dropping or getting split.",
+    "impact": 0.81,
+    "numbers": [
+     {
+      "team": "RSL",
+      "key": "xg",
+      "label": "xG",
+      "value": 1.29,
+      "rank": "4/30",
+      "pct": 90.0,
+      "term": "xg"
+     },
+     {
+      "team": "Demo United",
+      "key": "xg_ag",
+      "label": "xG conceded",
+      "value": 1.36,
+      "rank": "9/30",
+      "pct": 72.0,
+      "term": "xg"
+     }
+    ],
+    "rule": "A xG pct >= 65 and B xG conceded pct >= 60."
+   },
+   {
+    "id": "k_press_Demo United",
+    "scope": "key",
+    "confidence": "Inference",
+    "title": "Demo United's press meets RSL's short build-up",
+    "data": "Demo United approx PPDA 13.0 (#27 of 30). RSL possession 55.7%, long balls 10.6% (#25 of 30).",
+    "meaning": "RSL want to play out from the back and Demo United want to win it high. Whoever wins that fight sets the game.",
+    "watch": "Demo United forwards jumping on RSL goalkeeper and center backs, RSL either splitting the press with a quick pass or bailing out long.",
+    "impact": 0.803,
+    "numbers": [
+     {
+      "team": "Demo United",
+      "key": "ppda",
+      "label": "PPDA (approx)",
+      "value": 13.01,
+      "rank": "27/30",
+      "pct": 10.0,
+      "term": "ppda"
+     },
+     {
+      "team": "RSL",
+      "key": "poss",
+      "label": "Possession %",
+      "value": 55.65,
+      "rank": "7/30",
+      "pct": 79.0,
+      "term": "possession"
+     },
+     {
+      "team": "RSL",
+      "key": "long_pct",
+      "label": "Long ball share of passes %",
+      "value": 10.58,
+      "rank": "25/30",
+      "pct": 17.0,
+      "term": "long_ball_share"
+     }
+    ],
+    "rule": "A PPDA pct <= 35 (aggressive), B possession pct >= 60 and B long ball share pct <= 40."
+   },
+   {
+    "id": "k_shots_RSL",
+    "scope": "key",
+    "confidence": "Measured",
+    "title": "RSL shoot a lot against a team that concedes shots",
+    "data": "RSL take 13.6 shots (#8 of 30). Demo United concede 13.9 (#6 of 30, #1 = most).",
+    "meaning": "Expect plenty of RSL attempts. Volume is likely, quality is the question.",
+    "watch": "RSL shooting from outside the box, Demo United goalkeeper busy, blocked shots and rebounds.",
+    "impact": 0.755,
+    "numbers": [
+     {
+      "team": "RSL",
+      "key": "shots",
+      "label": "Shots",
+      "value": 13.55,
+      "rank": "8/30",
+      "pct": 76.0,
+      "term": "shots"
+     },
+     {
+      "team": "Demo United",
+      "key": "shots_ag",
+      "label": "Shots conceded",
+      "value": 13.9,
+      "rank": "6/30",
+      "pct": 83.0,
+      "term": "shots"
+     }
+    ],
+    "rule": "A shots pct >= 65 and B shots conceded pct >= 60."
+   }
+  ],
+  "script": "RSL average 56% possession and Demo United average 45%, so expect RSL to see roughly 55% of the ball. RSL should have more of it. RSL look like a possession side, Demo United like a direct side. Demo United will try to go over the top of RSL, so watch the space behind the RSL line after turnovers. The main battle: RSL will cross, and Demo United allow it.",
+  "all_candidates": 4
+ },
+ "demo": true
+}

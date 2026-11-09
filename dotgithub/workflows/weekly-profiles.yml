@@ -1,0 +1,29 @@
+name: weekly-profiles
+on:
+  schedule: [{ cron: '17 9 * * 1' }]   # Mondays 09:17 UTC
+  workflow_dispatch:
+permissions: { contents: write }
+concurrency: { group: data-writes, cancel-in-progress: false }
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12', cache: pip }
+      - run: pip install -r requirements.txt
+      - name: Fixtures, season profiles, matchup
+        env: { API_FOOTBALL_KEY: '${{ secrets.API_FOOTBALL_KEY }}' }
+        run: |
+          python scripts/schedule.py
+          python scripts/profiles.py
+          python scripts/prematch.py
+      - name: Commit data
+        run: |
+          git config user.name "rsl-bot"; git config user.email "rsl-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || (git commit -m "weekly profiles" && git pull --rebase && git push)
+  deploy:
+    needs: update
+    permissions: { contents: read, pages: write, id-token: write }
+    uses: ./.github/workflows/pages.yml

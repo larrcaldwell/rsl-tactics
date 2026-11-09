@@ -1,0 +1,5720 @@
+{
+ "season": 2026,
+ "generated_at": "2026-11-09T04:07:27+00:00",
+ "matches_used": 300,
+ "new_matches": 0,
+ "source": "DEMO (synthetic)",
+ "xg_available": true,
+ "teams": {
+  "Demo Club 24": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 56.004999999999995,
+     "rank": 5,
+     "of": 30,
+     "pct": 86.0
+    },
+    "passes": {
+     "v": 534.5,
+     "rank": 7,
+     "of": 30,
+     "pct": 79.0
+    },
+    "pass_pct": {
+     "v": 83.125,
+     "rank": 5,
+     "of": 30,
+     "pct": 86.0
+    },
+    "long_pct": {
+     "v": 10.588564844090829,
+     "rank": 24,
+     "of": 30,
+     "pct": 21.0
+    },
+    "shots": {
+     "v": 9.5,
+     "rank": 25,
+     "of": 30,
+     "pct": 17.0
+    },
+    "sot": {
+     "v": 3.35,
+     "rank": 24,
+     "of": 30,
+     "pct": 21.0
+    },
+    "crosses": {
+     "v": 17.6,
+     "rank": 16,
+     "of": 30,
+     "pct": 48.0
+    },
+    "cross_pct": {
+     "v": 27.20674801634554,
+     "rank": 19,
+     "of": 30,
+     "pct": 38.0
+    },
+    "corners": {
+     "v": 3.0,
+     "rank": 30,
+     "of": 30,
+     "pct": 0.0
+    },
+    "tackles": {
+     "v": 19.0,
+     "rank": 6,
+     "of": 30,
+     "pct": 83.0
+    },
+    "interceptions": {
+     "v": 9.25,
+     "rank": 10,
+     "of": 30,
+     "pct": 69.0
+    },
+    "fouls": {
+     "v": 11.2,
+     "rank": 12,
+     "of": 30,
+     "pct": 62.0
+    },
+    "goals": {
+     "v": 1.3,
+     "rank": 18,
+     "of": 30,
+     "pct": 41.0
+    },
+    "xg": {
+     "v": 0.7504758676484703,
+     "rank": 26,
+     "of": 30,
+     "pct": 14.0
+    },
+    "shots_ag": {
+     "v": 13.2,
+     "rank": 7,
+     "of": 30,
+     "pct": 79.0
+    },
+    "sot_ag": {
+     "v": 4.6,
+     "rank": 7,
+     "of": 30,
+     "pct": 79.0
+    },
+    "crosses_ag": {
+     "v": 17.55,
+     "rank": 21,
+     "of": 30,
+     "pct": 31.0
+    },
+    "corners_ag": {
+     "v": 5.25,
+     "rank": 6,
+     "of": 30,
+     "pct": 83.0
+    },
+    "goals_ag": {
+     "v": 1.3,
+     "rank": 16,
+     "of": 30,
+     "pct": 48.0
+    },
+    "xg_ag": {
+     "v": 1.3904976296498566,
+     "rank": 4,
+     "of": 30,
+     "pct": 90.0
+    },
+    "ppda": {
+     "v": 12.33231974158944,
+     "rank": 29,
+     "of": 30,
+     "pct": 3.0
+    },
+    "conv": {
+     "v": 14.53653291153291,
+     "rank": 2,
+     "of": 30,
+     "pct": 97.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.4,
+     "gf": 1.3,
+     "ga": 1.3,
+     "shot_diff": -3.7
+    },
+    "last5": {
+     "ppg": 1.6,
+     "gf": 1.6,
+     "ga": 1.4,
+     "shot_diff": -0.8,
+     "results": [
+      "L",
+      "D",
+      "D",
+      "W",
+      "W"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-15",
+     "opp": "Demo Club 25",
+     "score": "0-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-21",
+     "opp": "Demo Club 01",
+     "score": "3-3",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-28",
+     "opp": "Demo Club 11",
+     "score": "1-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-05",
+     "opp": "Demo Club 10",
+     "score": "1-0",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-12",
+     "opp": "Demo Club 27",
+     "score": "3-2",
+     "venue": "home"
+    }
+   ]
+  },
+  "Demo Club 04": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 48.725,
+     "rank": 16,
+     "of": 30,
+     "pct": 48.0
+    },
+    "passes": {
+     "v": 498.75,
+     "rank": 19,
+     "of": 30,
+     "pct": 38.0
+    },
+    "pass_pct": {
+     "v": 82.115,
+     "rank": 13,
+     "of": 30,
+     "pct": 59.0
+    },
+    "long_pct": {
+     "v": 15.13200166495299,
+     "rank": 14,
+     "of": 30,
+     "pct": 55.0
+    },
+    "shots": {
+     "v": 10.75,
+     "rank": 17,
+     "of": 30,
+     "pct": 45.0
+    },
+    "sot": {
+     "v": 3.65,
+     "rank": 21,
+     "of": 30,
+     "pct": 31.0
+    },
+    "crosses": {
+     "v": 17.0,
+     "rank": 17,
+     "of": 30,
+     "pct": 45.0
+    },
+    "cross_pct": {
+     "v": 26.66138784489168,
+     "rank": 25,
+     "of": 30,
+     "pct": 17.0
+    },
+    "corners": {
+     "v": 5.15,
+     "rank": 12,
+     "of": 30,
+     "pct": 62.0
+    },
+    "tackles": {
+     "v": 16.1,
+     "rank": 20,
+     "of": 30,
+     "pct": 34.0
+    },
+    "interceptions": {
+     "v": 8.85,
+     "rank": 22,
+     "of": 30,
+     "pct": 28.0
+    },
+    "fouls": {
+     "v": 10.9,
+     "rank": 19,
+     "of": 30,
+     "pct": 38.0
+    },
+    "goals": {
+     "v": 1.35,
+     "rank": 17,
+     "of": 30,
+     "pct": 45.0
+    },
+    "xg": {
+     "v": 0.9511982941562072,
+     "rank": 14,
+     "of": 30,
+     "pct": 55.0
+    },
+    "shots_ag": {
+     "v": 10.95,
+     "rank": 20,
+     "of": 30,
+     "pct": 34.0
+    },
+    "sot_ag": {
+     "v": 3.8,
+     "rank": 20,
+     "of": 30,
+     "pct": 34.0
+    },
+    "crosses_ag": {
+     "v": 18.6,
+     "rank": 11,
+     "of": 30,
+     "pct": 66.0
+    },
+    "corners_ag": {
+     "v": 4.05,
+     "rank": 29,
+     "of": 30,
+     "pct": 3.0
+    },
+    "goals_ag": {
+     "v": 1.15,
+     "rank": 23,
+     "of": 30,
+     "pct": 24.0
+    },
+    "xg_ag": {
+     "v": 1.0907033139056346,
+     "rank": 22,
+     "of": 30,
+     "pct": 28.0
+    },
+    "ppda": {
+     "v": 14.884004141771797,
+     "rank": 5,
+     "of": 30,
+     "pct": 86.0
+    },
+    "conv": {
+     "v": 13.132020757020758,
+     "rank": 7,
+     "of": 30,
+     "pct": 79.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.5,
+     "gf": 1.35,
+     "ga": 1.15,
+     "shot_diff": -0.2
+    },
+    "last5": {
+     "ppg": 1.4,
+     "gf": 1.4,
+     "ga": 1.4,
+     "shot_diff": -0.6,
+     "results": [
+      "L",
+      "W",
+      "W",
+      "D",
+      "L"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-14",
+     "opp": "Demo Club 08",
+     "score": "0-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-21",
+     "opp": "Demo Club 16",
+     "score": "2-1",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-28",
+     "opp": "Demo Club 27",
+     "score": "2-1",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-05",
+     "opp": "Demo Club 19",
+     "score": "2-2",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-12",
+     "opp": "Demo Club 16",
+     "score": "1-2",
+     "venue": "home"
+    }
+   ]
+  },
+  "Demo Club 22": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 43.82,
+     "rank": 26,
+     "of": 30,
+     "pct": 14.0
+    },
+    "passes": {
+     "v": 487.7,
+     "rank": 23,
+     "of": 30,
+     "pct": 24.0
+    },
+    "pass_pct": {
+     "v": 81.34,
+     "rank": 21,
+     "of": 30,
+     "pct": 31.0
+    },
+    "long_pct": {
+     "v": 14.01610392467779,
+     "rank": 15,
+     "of": 30,
+     "pct": 52.0
+    },
+    "shots": {
+     "v": 8.7,
+     "rank": 29,
+     "of": 30,
+     "pct": 3.0
+    },
+    "sot": {
+     "v": 3.05,
+     "rank": 29,
+     "of": 30,
+     "pct": 3.0
+    },
+    "crosses": {
+     "v": 14.1,
+     "rank": 26,
+     "of": 30,
+     "pct": 14.0
+    },
+    "cross_pct": {
+     "v": 26.700014038249332,
+     "rank": 24,
+     "of": 30,
+     "pct": 21.0
+    },
+    "corners": {
+     "v": 3.15,
+     "rank": 29,
+     "of": 30,
+     "pct": 3.0
+    },
+    "tackles": {
+     "v": 20.1,
+     "rank": 5,
+     "of": 30,
+     "pct": 86.0
+    },
+    "interceptions": {
+     "v": 8.45,
+     "rank": 29,
+     "of": 30,
+     "pct": 3.0
+    },
+    "fouls": {
+     "v": 11.15,
+     "rank": 14,
+     "of": 30,
+     "pct": 55.0
+    },
+    "goals": {
+     "v": 0.75,
+     "rank": 30,
+     "of": 30,
+     "pct": 0.0
+    },
+    "xg": {
+     "v": 0.6456462698924945,
+     "rank": 30,
+     "of": 30,
+     "pct": 0.0
+    },
+    "shots_ag": {
+     "v": 12.2,
+     "rank": 15,
+     "of": 30,
+     "pct": 52.0
+    },
+    "sot_ag": {
+     "v": 4.05,
+     "rank": 17,
+     "of": 30,
+     "pct": 45.0
+    },
+    "crosses_ag": {
+     "v": 18.05,
+     "rank": 17,
+     "of": 30,
+     "pct": 45.0
+    },
+    "corners_ag": {
+     "v": 4.25,
+     "rank": 26,
+     "of": 30,
+     "pct": 14.0
+    },
+    "goals_ag": {
+     "v": 1.5,
+     "rank": 9,
+     "of": 30,
+     "pct": 72.0
+    },
+    "xg_ag": {
+     "v": 1.1396695387463416,
+     "rank": 20,
+     "of": 30,
+     "pct": 34.0
+    },
+    "ppda": {
+     "v": 13.469348920960517,
+     "rank": 23,
+     "of": 30,
+     "pct": 24.0
+    },
+    "conv": {
+     "v": 8.563242313242313,
+     "rank": 30,
+     "of": 30,
+     "pct": 0.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 0.65,
+     "gf": 0.75,
+     "ga": 1.5,
+     "shot_diff": -3.5
+    },
+    "last5": {
+     "ppg": 0.2,
+     "gf": 0.4,
+     "ga": 1.8,
+     "shot_diff": -5.2,
+     "results": [
+      "L",
+      "L",
+      "L",
+      "D",
+      "L"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-14",
+     "opp": "Demo Club 21",
+     "score": "1-3",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-21",
+     "opp": "Demo Club 10",
+     "score": "0-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-28",
+     "opp": "Demo Club 18",
+     "score": "0-2",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-05",
+     "opp": "Demo Club 02",
+     "score": "0-0",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-12",
+     "opp": "Demo Club 13",
+     "score": "1-3",
+     "venue": "home"
+    }
+   ]
+  },
+  "Demo Club 19": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 39.94,
+     "rank": 30,
+     "of": 30,
+     "pct": 0.0
+    },
+    "passes": {
+     "v": 468.9,
+     "rank": 30,
+     "of": 30,
+     "pct": 0.0
+    },
+    "pass_pct": {
+     "v": 79.505,
+     "rank": 30,
+     "of": 30,
+     "pct": 0.0
+    },
+    "long_pct": {
+     "v": 12.267195723339437,
+     "rank": 18,
+     "of": 30,
+     "pct": 41.0
+    },
+    "shots": {
+     "v": 8.4,
+     "rank": 30,
+     "of": 30,
+     "pct": 0.0
+    },
+    "sot": {
+     "v": 3.0,
+     "rank": 30,
+     "of": 30,
+     "pct": 0.0
+    },
+    "crosses": {
+     "v": 22.1,
+     "rank": 8,
+     "of": 30,
+     "pct": 76.0
+    },
+    "cross_pct": {
+     "v": 27.761836695707338,
+     "rank": 14,
+     "of": 30,
+     "pct": 55.0
+    },
+    "corners": {
+     "v": 4.6,
+     "rank": 19,
+     "of": 30,
+     "pct": 38.0
+    },
+    "tackles": {
+     "v": 16.2,
+     "rank": 19,
+     "of": 30,
+     "pct": 38.0
+    },
+    "interceptions": {
+     "v": 9.25,
+     "rank": 11,
+     "of": 30,
+     "pct": 66.0
+    },
+    "fouls": {
+     "v": 10.5,
+     "rank": 26,
+     "of": 30,
+     "pct": 14.0
+    },
+    "goals": {
+     "v": 0.8,
+     "rank": 29,
+     "of": 30,
+     "pct": 3.0
+    },
+    "xg": {
+     "v": 0.7789289251051636,
+     "rank": 25,
+     "of": 30,
+     "pct": 17.0
+    },
+    "shots_ag": {
+     "v": 15.05,
+     "rank": 1,
+     "of": 30,
+     "pct": 100.0
+    },
+    "sot_ag": {
+     "v": 5.2,
+     "rank": 3,
+     "of": 30,
+     "pct": 93.0
+    },
+    "crosses_ag": {
+     "v": 18.65,
+     "rank": 10,
+     "of": 30,
+     "pct": 69.0
+    },
+    "corners_ag": {
+     "v": 5.05,
+     "rank": 11,
+     "of": 30,
+     "pct": 66.0
+    },
+    "goals_ag": {
+     "v": 1.8,
+     "rank": 1,
+     "of": 30,
+     "pct": 100.0
+    },
+    "xg_ag": {
+     "v": 1.4099210746910942,
+     "rank": 3,
+     "of": 30,
+     "pct": 93.0
+    },
+    "ppda": {
+     "v": 15.398142674037762,
+     "rank": 3,
+     "of": 30,
+     "pct": 93.0
+    },
+    "conv": {
+     "v": 9.200757575757576,
+     "rank": 27,
+     "of": 30,
+     "pct": 10.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 0.75,
+     "gf": 0.8,
+     "ga": 1.8,
+     "shot_diff": -6.65
+    },
+    "last5": {
+     "ppg": 2.0,
+     "gf": 1.6,
+     "ga": 1.2,
+     "shot_diff": -6.0,
+     "results": [
+      "W",
+      "W",
+      "L",
+      "D",
+      "W"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-14",
+     "opp": "Demo Club 07",
+     "score": "2-0",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-22",
+     "opp": "Demo Club 08",
+     "score": "1-0",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-28",
+     "opp": "Demo Club 16",
+     "score": "1-3",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-05",
+     "opp": "Demo Club 04",
+     "score": "2-2",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-13",
+     "opp": "Real Salt Lake",
+     "score": "2-1",
+     "venue": "home"
+    }
+   ]
+  },
+  "Demo Club 23": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 52.879999999999995,
+     "rank": 11,
+     "of": 30,
+     "pct": 66.0
+    },
+    "passes": {
+     "v": 521.75,
+     "rank": 10,
+     "of": 30,
+     "pct": 69.0
+    },
+    "pass_pct": {
+     "v": 81.985,
+     "rank": 16,
+     "of": 30,
+     "pct": 48.0
+    },
+    "long_pct": {
+     "v": 13.787564083927506,
+     "rank": 16,
+     "of": 30,
+     "pct": 48.0
+    },
+    "shots": {
+     "v": 15.65,
+     "rank": 2,
+     "of": 30,
+     "pct": 97.0
+    },
+    "sot": {
+     "v": 5.55,
+     "rank": 1,
+     "of": 30,
+     "pct": 100.0
+    },
+    "crosses": {
+     "v": 12.35,
+     "rank": 29,
+     "of": 30,
+     "pct": 3.0
+    },
+    "cross_pct": {
+     "v": 30.147180670206986,
+     "rank": 2,
+     "of": 30,
+     "pct": 97.0
+    },
+    "corners": {
+     "v": 5.65,
+     "rank": 7,
+     "of": 30,
+     "pct": 79.0
+    },
+    "tackles": {
+     "v": 13.85,
+     "rank": 28,
+     "of": 30,
+     "pct": 7.0
+    },
+    "interceptions": {
+     "v": 9.8,
+     "rank": 1,
+     "of": 30,
+     "pct": 100.0
+    },
+    "fouls": {
+     "v": 10.65,
+     "rank": 22,
+     "of": 30,
+     "pct": 28.0
+    },
+    "goals": {
+     "v": 1.7,
+     "rank": 2,
+     "of": 30,
+     "pct": 97.0
+    },
+    "xg": {
+     "v": 1.3256533300998645,
+     "rank": 1,
+     "of": 30,
+     "pct": 100.0
+    },
+    "shots_ag": {
+     "v": 11.9,
+     "rank": 16,
+     "of": 30,
+     "pct": 48.0
+    },
+    "sot_ag": {
+     "v": 4.0,
+     "rank": 19,
+     "of": 30,
+     "pct": 38.0
+    },
+    "crosses_ag": {
+     "v": 17.45,
+     "rank": 22,
+     "of": 30,
+     "pct": 28.0
+    },
+    "corners_ag": {
+     "v": 5.15,
+     "rank": 9,
+     "of": 30,
+     "pct": 72.0
+    },
+    "goals_ag": {
+     "v": 1.05,
+     "rank": 26,
+     "of": 30,
+     "pct": 14.0
+    },
+    "xg_ag": {
+     "v": 1.2862802584479915,
+     "rank": 13,
+     "of": 30,
+     "pct": 59.0
+    },
+    "ppda": {
+     "v": 14.470573516941702,
+     "rank": 8,
+     "of": 30,
+     "pct": 76.0
+    },
+    "conv": {
+     "v": 10.82968521416664,
+     "rank": 13,
+     "of": 30,
+     "pct": 59.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.75,
+     "gf": 1.7,
+     "ga": 1.05,
+     "shot_diff": 3.75
+    },
+    "last5": {
+     "ppg": 1.6,
+     "gf": 1.6,
+     "ga": 0.8,
+     "shot_diff": 5.2,
+     "results": [
+      "W",
+      "D",
+      "L",
+      "D",
+      "W"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-14",
+     "opp": "Demo Club 11",
+     "score": "3-0",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-21",
+     "opp": "Demo Club 14",
+     "score": "1-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-29",
+     "opp": "Demo Club 14",
+     "score": "1-2",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-05",
+     "opp": "Demo Club 26",
+     "score": "1-1",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-13",
+     "opp": "Demo Club 26",
+     "score": "2-0",
+     "venue": "home"
+    }
+   ]
+  },
+  "Demo Club 05": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 58.36,
+     "rank": 4,
+     "of": 30,
+     "pct": 90.0
+    },
+    "passes": {
+     "v": 549.35,
+     "rank": 1,
+     "of": 30,
+     "pct": 100.0
+    },
+    "pass_pct": {
+     "v": 83.02000000000001,
+     "rank": 6,
+     "of": 30,
+     "pct": 83.0
+    },
+    "long_pct": {
+     "v": 19.08643055264585,
+     "rank": 7,
+     "of": 30,
+     "pct": 79.0
+    },
+    "shots": {
+     "v": 11.35,
+     "rank": 15,
+     "of": 30,
+     "pct": 52.0
+    },
+    "sot": {
+     "v": 3.65,
+     "rank": 20,
+     "of": 30,
+     "pct": 34.0
+    },
+    "crosses": {
+     "v": 23.15,
+     "rank": 3,
+     "of": 30,
+     "pct": 93.0
+    },
+    "cross_pct": {
+     "v": 27.8273299471114,
+     "rank": 13,
+     "of": 30,
+     "pct": 59.0
+    },
+    "corners": {
+     "v": 4.45,
+     "rank": 20,
+     "of": 30,
+     "pct": 34.0
+    },
+    "tackles": {
+     "v": 15.25,
+     "rank": 25,
+     "of": 30,
+     "pct": 17.0
+    },
+    "interceptions": {
+     "v": 8.55,
+     "rank": 28,
+     "of": 30,
+     "pct": 7.0
+    },
+    "fouls": {
+     "v": 11.4,
+     "rank": 4,
+     "of": 30,
+     "pct": 90.0
+    },
+    "goals": {
+     "v": 1.2,
+     "rank": 21,
+     "of": 30,
+     "pct": 31.0
+    },
+    "xg": {
+     "v": 1.0503259459545273,
+     "rank": 12,
+     "of": 30,
+     "pct": 62.0
+    },
+    "shots_ag": {
+     "v": 9.9,
+     "rank": 25,
+     "of": 30,
+     "pct": 17.0
+    },
+    "sot_ag": {
+     "v": 3.4,
+     "rank": 27,
+     "of": 30,
+     "pct": 10.0
+    },
+    "crosses_ag": {
+     "v": 16.85,
+     "rank": 28,
+     "of": 30,
+     "pct": 7.0
+    },
+    "corners_ag": {
+     "v": 4.05,
+     "rank": 28,
+     "of": 30,
+     "pct": 7.0
+    },
+    "goals_ag": {
+     "v": 1.25,
+     "rank": 18,
+     "of": 30,
+     "pct": 41.0
+    },
+    "xg_ag": {
+     "v": 1.068234860791846,
+     "rank": 23,
+     "of": 30,
+     "pct": 24.0
+    },
+    "ppda": {
+     "v": 13.584890763887026,
+     "rank": 21,
+     "of": 30,
+     "pct": 31.0
+    },
+    "conv": {
+     "v": 9.990924108571168,
+     "rank": 22,
+     "of": 30,
+     "pct": 28.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.3,
+     "gf": 1.2,
+     "ga": 1.25,
+     "shot_diff": 1.45
+    },
+    "last5": {
+     "ppg": 2.0,
+     "gf": 1.4,
+     "ga": 1.0,
+     "shot_diff": 2.2,
+     "results": [
+      "W",
+      "L",
+      "W",
+      "W",
+      "D"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-14",
+     "opp": "Demo Club 17",
+     "score": "3-1",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-22",
+     "opp": "Demo Club 26",
+     "score": "0-2",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-29",
+     "opp": "Demo United",
+     "score": "1-0",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-06",
+     "opp": "Demo Club 28",
+     "score": "2-1",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-13",
+     "opp": "Demo Club 03",
+     "score": "1-1",
+     "venue": "away"
+    }
+   ]
+  },
+  "Demo Club 03": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 47.885000000000005,
+     "rank": 19,
+     "of": 30,
+     "pct": 38.0
+    },
+    "passes": {
+     "v": 502.0,
+     "rank": 17,
+     "of": 30,
+     "pct": 45.0
+    },
+    "pass_pct": {
+     "v": 82.2,
+     "rank": 12,
+     "of": 30,
+     "pct": 62.0
+    },
+    "long_pct": {
+     "v": 9.135982776906904,
+     "rank": 30,
+     "of": 30,
+     "pct": 0.0
+    },
+    "shots": {
+     "v": 12.0,
+     "rank": 14,
+     "of": 30,
+     "pct": 55.0
+    },
+    "sot": {
+     "v": 4.2,
+     "rank": 14,
+     "of": 30,
+     "pct": 55.0
+    },
+    "crosses": {
+     "v": 14.7,
+     "rank": 25,
+     "of": 30,
+     "pct": 17.0
+    },
+    "cross_pct": {
+     "v": 29.86609660119722,
+     "rank": 3,
+     "of": 30,
+     "pct": 93.0
+    },
+    "corners": {
+     "v": 5.15,
+     "rank": 13,
+     "of": 30,
+     "pct": 59.0
+    },
+    "tackles": {
+     "v": 16.9,
+     "rank": 13,
+     "of": 30,
+     "pct": 59.0
+    },
+    "interceptions": {
+     "v": 9.3,
+     "rank": 9,
+     "of": 30,
+     "pct": 72.0
+    },
+    "fouls": {
+     "v": 11.45,
+     "rank": 3,
+     "of": 30,
+     "pct": 93.0
+    },
+    "goals": {
+     "v": 1.2,
+     "rank": 22,
+     "of": 30,
+     "pct": 28.0
+    },
+    "xg": {
+     "v": 0.8739771354087682,
+     "rank": 20,
+     "of": 30,
+     "pct": 34.0
+    },
+    "shots_ag": {
+     "v": 13.2,
+     "rank": 8,
+     "of": 30,
+     "pct": 76.0
+    },
+    "sot_ag": {
+     "v": 4.5,
+     "rank": 9,
+     "of": 30,
+     "pct": 72.0
+    },
+    "crosses_ag": {
+     "v": 18.55,
+     "rank": 13,
+     "of": 30,
+     "pct": 59.0
+    },
+    "corners_ag": {
+     "v": 4.05,
+     "rank": 30,
+     "of": 30,
+     "pct": 0.0
+    },
+    "goals_ag": {
+     "v": 1.6,
+     "rank": 5,
+     "of": 30,
+     "pct": 86.0
+    },
+    "xg_ag": {
+     "v": 1.367194707878679,
+     "rank": 7,
+     "of": 30,
+     "pct": 79.0
+    },
+    "ppda": {
+     "v": 13.87558652518095,
+     "rank": 18,
+     "of": 30,
+     "pct": 41.0
+    },
+    "conv": {
+     "v": 9.85465922965923,
+     "rank": 23,
+     "of": 30,
+     "pct": 24.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 0.8,
+     "gf": 1.2,
+     "ga": 1.6,
+     "shot_diff": -1.2
+    },
+    "last5": {
+     "ppg": 0.6,
+     "gf": 1.2,
+     "ga": 1.8,
+     "shot_diff": 0.6,
+     "results": [
+      "D",
+      "L",
+      "D",
+      "L",
+      "D"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-15",
+     "opp": "Demo United",
+     "score": "2-2",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-21",
+     "opp": "Demo Club 18",
+     "score": "1-2",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-29",
+     "opp": "Demo Club 15",
+     "score": "2-2",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-06",
+     "opp": "Demo Club 14",
+     "score": "0-2",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-13",
+     "opp": "Demo Club 05",
+     "score": "1-1",
+     "venue": "home"
+    }
+   ]
+  },
+  "Demo United": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 44.910000000000004,
+     "rank": 22,
+     "of": 30,
+     "pct": 28.0
+    },
+    "passes": {
+     "v": 487.7,
+     "rank": 22,
+     "of": 30,
+     "pct": 28.0
+    },
+    "pass_pct": {
+     "v": 81.075,
+     "rank": 25,
+     "of": 30,
+     "pct": 17.0
+    },
+    "long_pct": {
+     "v": 19.982671225972762,
+     "rank": 3,
+     "of": 30,
+     "pct": 93.0
+    },
+    "shots": {
+     "v": 8.85,
+     "rank": 28,
+     "of": 30,
+     "pct": 7.0
+    },
+    "sot": {
+     "v": 3.2,
+     "rank": 27,
+     "of": 30,
+     "pct": 10.0
+    },
+    "crosses": {
+     "v": 16.8,
+     "rank": 19,
+     "of": 30,
+     "pct": 38.0
+    },
+    "cross_pct": {
+     "v": 26.378134835169767,
+     "rank": 29,
+     "of": 30,
+     "pct": 3.0
+    },
+    "corners": {
+     "v": 4.0,
+     "rank": 24,
+     "of": 30,
+     "pct": 21.0
+    },
+    "tackles": {
+     "v": 20.95,
+     "rank": 2,
+     "of": 30,
+     "pct": 97.0
+    },
+    "interceptions": {
+     "v": 9.65,
+     "rank": 3,
+     "of": 30,
+     "pct": 93.0
+    },
+    "fouls": {
+     "v": 10.75,
+     "rank": 20,
+     "of": 30,
+     "pct": 34.0
+    },
+    "goals": {
+     "v": 1.05,
+     "rank": 25,
+     "of": 30,
+     "pct": 17.0
+    },
+    "xg": {
+     "v": 0.7936269176229132,
+     "rank": 23,
+     "of": 30,
+     "pct": 24.0
+    },
+    "shots_ag": {
+     "v": 13.9,
+     "rank": 6,
+     "of": 30,
+     "pct": 83.0
+    },
+    "sot_ag": {
+     "v": 5.1,
+     "rank": 4,
+     "of": 30,
+     "pct": 90.0
+    },
+    "crosses_ag": {
+     "v": 20.9,
+     "rank": 1,
+     "of": 30,
+     "pct": 100.0
+    },
+    "corners_ag": {
+     "v": 4.7,
+     "rank": 19,
+     "of": 30,
+     "pct": 38.0
+    },
+    "goals_ag": {
+     "v": 1.5,
+     "rank": 7,
+     "of": 30,
+     "pct": 79.0
+    },
+    "xg_ag": {
+     "v": 1.3562239138208123,
+     "rank": 9,
+     "of": 30,
+     "pct": 72.0
+    },
+    "ppda": {
+     "v": 13.006611272743962,
+     "rank": 27,
+     "of": 30,
+     "pct": 10.0
+    },
+    "conv": {
+     "v": 11.476245976245977,
+     "rank": 12,
+     "of": 30,
+     "pct": 62.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 0.95,
+     "gf": 1.05,
+     "ga": 1.5,
+     "shot_diff": -5.05
+    },
+    "last5": {
+     "ppg": 1.6,
+     "gf": 1.0,
+     "ga": 0.6,
+     "shot_diff": -4.4,
+     "results": [
+      "D",
+      "W",
+      "L",
+      "D",
+      "W"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-15",
+     "opp": "Demo Club 03",
+     "score": "2-2",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-21",
+     "opp": "Real Salt Lake",
+     "score": "1-0",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-29",
+     "opp": "Demo Club 05",
+     "score": "0-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-05",
+     "opp": "Demo Club 16",
+     "score": "0-0",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-12",
+     "opp": "Demo Club 06",
+     "score": "2-0",
+     "venue": "away"
+    }
+   ],
+   "attack_side": {
+    "left_pct": 41,
+    "center_pct": 33,
+    "right_pct": 26
+   }
+  },
+  "Demo Club 14": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 45.785000000000004,
+     "rank": 20,
+     "of": 30,
+     "pct": 34.0
+    },
+    "passes": {
+     "v": 494.3,
+     "rank": 21,
+     "of": 30,
+     "pct": 31.0
+    },
+    "pass_pct": {
+     "v": 81.175,
+     "rank": 23,
+     "of": 30,
+     "pct": 24.0
+    },
+    "long_pct": {
+     "v": 18.21579100396571,
+     "rank": 10,
+     "of": 30,
+     "pct": 69.0
+    },
+    "shots": {
+     "v": 10.65,
+     "rank": 19,
+     "of": 30,
+     "pct": 38.0
+    },
+    "sot": {
+     "v": 3.75,
+     "rank": 18,
+     "of": 30,
+     "pct": 41.0
+    },
+    "crosses": {
+     "v": 15.1,
+     "rank": 22,
+     "of": 30,
+     "pct": 28.0
+    },
+    "cross_pct": {
+     "v": 26.84418497440102,
+     "rank": 22,
+     "of": 30,
+     "pct": 28.0
+    },
+    "corners": {
+     "v": 3.85,
+     "rank": 28,
+     "of": 30,
+     "pct": 7.0
+    },
+    "tackles": {
+     "v": 18.2,
+     "rank": 7,
+     "of": 30,
+     "pct": 79.0
+    },
+    "interceptions": {
+     "v": 8.75,
+     "rank": 25,
+     "of": 30,
+     "pct": 17.0
+    },
+    "fouls": {
+     "v": 11.15,
+     "rank": 16,
+     "of": 30,
+     "pct": 48.0
+    },
+    "goals": {
+     "v": 1.45,
+     "rank": 10,
+     "of": 30,
+     "pct": 69.0
+    },
+    "xg": {
+     "v": 0.8336300378518209,
+     "rank": 22,
+     "of": 30,
+     "pct": 28.0
+    },
+    "shots_ag": {
+     "v": 10.55,
+     "rank": 22,
+     "of": 30,
+     "pct": 28.0
+    },
+    "sot_ag": {
+     "v": 3.75,
+     "rank": 21,
+     "of": 30,
+     "pct": 31.0
+    },
+    "crosses_ag": {
+     "v": 17.35,
+     "rank": 25,
+     "of": 30,
+     "pct": 17.0
+    },
+    "corners_ag": {
+     "v": 4.95,
+     "rank": 15,
+     "of": 30,
+     "pct": 52.0
+    },
+    "goals_ag": {
+     "v": 1.2,
+     "rank": 21,
+     "of": 30,
+     "pct": 31.0
+    },
+    "xg_ag": {
+     "v": 1.0112121047299376,
+     "rank": 26,
+     "of": 30,
+     "pct": 14.0
+    },
+    "ppda": {
+     "v": 14.208789843529058,
+     "rank": 10,
+     "of": 30,
+     "pct": 69.0
+    },
+    "conv": {
+     "v": 13.443514818514819,
+     "rank": 5,
+     "of": 30,
+     "pct": 86.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.6,
+     "gf": 1.45,
+     "ga": 1.2,
+     "shot_diff": 0.1
+    },
+    "last5": {
+     "ppg": 1.6,
+     "gf": 1.6,
+     "ga": 1.2,
+     "shot_diff": -1.4,
+     "results": [
+      "L",
+      "D",
+      "W",
+      "W",
+      "D"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-14",
+     "opp": "Demo Club 20",
+     "score": "1-2",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-21",
+     "opp": "Demo Club 23",
+     "score": "1-1",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-29",
+     "opp": "Demo Club 23",
+     "score": "2-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-06",
+     "opp": "Demo Club 03",
+     "score": "2-0",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-12",
+     "opp": "Demo Club 21",
+     "score": "2-2",
+     "venue": "away"
+    }
+   ]
+  },
+  "Demo Club 15": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 43.739999999999995,
+     "rank": 27,
+     "of": 30,
+     "pct": 10.0
+    },
+    "passes": {
+     "v": 477.8,
+     "rank": 28,
+     "of": 30,
+     "pct": 7.0
+    },
+    "pass_pct": {
+     "v": 80.63,
+     "rank": 28,
+     "of": 30,
+     "pct": 7.0
+    },
+    "long_pct": {
+     "v": 11.63375250671138,
+     "rank": 20,
+     "of": 30,
+     "pct": 34.0
+    },
+    "shots": {
+     "v": 10.2,
+     "rank": 22,
+     "of": 30,
+     "pct": 28.0
+    },
+    "sot": {
+     "v": 3.45,
+     "rank": 23,
+     "of": 30,
+     "pct": 24.0
+    },
+    "crosses": {
+     "v": 18.1,
+     "rank": 14,
+     "of": 30,
+     "pct": 55.0
+    },
+    "cross_pct": {
+     "v": 26.48262236129883,
+     "rank": 28,
+     "of": 30,
+     "pct": 7.0
+    },
+    "corners": {
+     "v": 4.75,
+     "rank": 17,
+     "of": 30,
+     "pct": 45.0
+    },
+    "tackles": {
+     "v": 16.6,
+     "rank": 14,
+     "of": 30,
+     "pct": 55.0
+    },
+    "interceptions": {
+     "v": 7.75,
+     "rank": 30,
+     "of": 30,
+     "pct": 0.0
+    },
+    "fouls": {
+     "v": 10.1,
+     "rank": 29,
+     "of": 30,
+     "pct": 3.0
+    },
+    "goals": {
+     "v": 0.85,
+     "rank": 28,
+     "of": 30,
+     "pct": 7.0
+    },
+    "xg": {
+     "v": 0.780448891439173,
+     "rank": 24,
+     "of": 30,
+     "pct": 21.0
+    },
+    "shots_ag": {
+     "v": 12.75,
+     "rank": 11,
+     "of": 30,
+     "pct": 66.0
+    },
+    "sot_ag": {
+     "v": 4.6,
+     "rank": 8,
+     "of": 30,
+     "pct": 76.0
+    },
+    "crosses_ag": {
+     "v": 17.45,
+     "rank": 23,
+     "of": 30,
+     "pct": 24.0
+    },
+    "corners_ag": {
+     "v": 5.2,
+     "rank": 8,
+     "of": 30,
+     "pct": 76.0
+    },
+    "goals_ag": {
+     "v": 1.2,
+     "rank": 20,
+     "of": 30,
+     "pct": 34.0
+    },
+    "xg_ag": {
+     "v": 1.1731125215638512,
+     "rank": 18,
+     "of": 30,
+     "pct": 41.0
+    },
+    "ppda": {
+     "v": 15.768819552268194,
+     "rank": 1,
+     "of": 30,
+     "pct": 100.0
+    },
+    "conv": {
+     "v": 9.477826911650443,
+     "rank": 26,
+     "of": 30,
+     "pct": 14.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.1,
+     "gf": 0.85,
+     "ga": 1.2,
+     "shot_diff": -2.55
+    },
+    "last5": {
+     "ppg": 1.0,
+     "gf": 1.2,
+     "ga": 1.2,
+     "shot_diff": -2.0,
+     "results": [
+      "D",
+      "D",
+      "D",
+      "D",
+      "D"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-14",
+     "opp": "Real Salt Lake",
+     "score": "1-1",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-21",
+     "opp": "Demo Club 13",
+     "score": "1-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-29",
+     "opp": "Demo Club 03",
+     "score": "2-2",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-05",
+     "opp": "Demo Club 01",
+     "score": "0-0",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-12",
+     "opp": "Demo Club 28",
+     "score": "2-2",
+     "venue": "home"
+    }
+   ]
+  },
+  "Demo Club 06": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 48.675,
+     "rank": 17,
+     "of": 30,
+     "pct": 45.0
+    },
+    "passes": {
+     "v": 497.95,
+     "rank": 20,
+     "of": 30,
+     "pct": 34.0
+    },
+    "pass_pct": {
+     "v": 81.865,
+     "rank": 17,
+     "of": 30,
+     "pct": 45.0
+    },
+    "long_pct": {
+     "v": 18.335423879658773,
+     "rank": 9,
+     "of": 30,
+     "pct": 72.0
+    },
+    "shots": {
+     "v": 13.4,
+     "rank": 10,
+     "of": 30,
+     "pct": 69.0
+    },
+    "sot": {
+     "v": 4.55,
+     "rank": 12,
+     "of": 30,
+     "pct": 62.0
+    },
+    "crosses": {
+     "v": 12.55,
+     "rank": 28,
+     "of": 30,
+     "pct": 7.0
+    },
+    "cross_pct": {
+     "v": 28.9483571983572,
+     "rank": 5,
+     "of": 30,
+     "pct": 86.0
+    },
+    "corners": {
+     "v": 5.6,
+     "rank": 8,
+     "of": 30,
+     "pct": 76.0
+    },
+    "tackles": {
+     "v": 18.0,
+     "rank": 8,
+     "of": 30,
+     "pct": 76.0
+    },
+    "interceptions": {
+     "v": 9.4,
+     "rank": 7,
+     "of": 30,
+     "pct": 79.0
+    },
+    "fouls": {
+     "v": 12.05,
+     "rank": 1,
+     "of": 30,
+     "pct": 100.0
+    },
+    "goals": {
+     "v": 1.35,
+     "rank": 16,
+     "of": 30,
+     "pct": 48.0
+    },
+    "xg": {
+     "v": 1.1034321769863602,
+     "rank": 9,
+     "of": 30,
+     "pct": 72.0
+    },
+    "shots_ag": {
+     "v": 9.8,
+     "rank": 27,
+     "of": 30,
+     "pct": 10.0
+    },
+    "sot_ag": {
+     "v": 3.45,
+     "rank": 25,
+     "of": 30,
+     "pct": 17.0
+    },
+    "crosses_ag": {
+     "v": 16.15,
+     "rank": 30,
+     "of": 30,
+     "pct": 0.0
+    },
+    "corners_ag": {
+     "v": 4.4,
+     "rank": 25,
+     "of": 30,
+     "pct": 17.0
+    },
+    "goals_ag": {
+     "v": 1.15,
+     "rank": 22,
+     "of": 30,
+     "pct": 28.0
+    },
+    "xg_ag": {
+     "v": 1.1615416051510323,
+     "rank": 19,
+     "of": 30,
+     "pct": 38.0
+    },
+    "ppda": {
+     "v": 13.119588833757476,
+     "rank": 26,
+     "of": 30,
+     "pct": 14.0
+    },
+    "conv": {
+     "v": 9.763374783111626,
+     "rank": 24,
+     "of": 30,
+     "pct": 21.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.45,
+     "gf": 1.35,
+     "ga": 1.15,
+     "shot_diff": 3.6
+    },
+    "last5": {
+     "ppg": 1.0,
+     "gf": 0.8,
+     "ga": 1.2,
+     "shot_diff": 4.0,
+     "results": [
+      "D",
+      "L",
+      "W",
+      "D",
+      "L"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-15",
+     "opp": "Demo Club 16",
+     "score": "0-0",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-21",
+     "opp": "Demo Club 09",
+     "score": "1-2",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-28",
+     "opp": "Demo Club 02",
+     "score": "2-1",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-05",
+     "opp": "Demo Club 12",
+     "score": "1-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-12",
+     "opp": "Demo United",
+     "score": "0-2",
+     "venue": "home"
+    }
+   ]
+  },
+  "Demo Club 08": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 58.925,
+     "rank": 3,
+     "of": 30,
+     "pct": 93.0
+    },
+    "passes": {
+     "v": 540.0,
+     "rank": 4,
+     "of": 30,
+     "pct": 90.0
+    },
+    "pass_pct": {
+     "v": 84.065,
+     "rank": 2,
+     "of": 30,
+     "pct": 97.0
+    },
+    "long_pct": {
+     "v": 9.327801749471213,
+     "rank": 28,
+     "of": 30,
+     "pct": 7.0
+    },
+    "shots": {
+     "v": 14.5,
+     "rank": 6,
+     "of": 30,
+     "pct": 83.0
+    },
+    "sot": {
+     "v": 5.25,
+     "rank": 5,
+     "of": 30,
+     "pct": 86.0
+    },
+    "crosses": {
+     "v": 16.6,
+     "rank": 20,
+     "of": 30,
+     "pct": 34.0
+    },
+    "cross_pct": {
+     "v": 27.532263144492248,
+     "rank": 17,
+     "of": 30,
+     "pct": 45.0
+    },
+    "corners": {
+     "v": 5.3,
+     "rank": 9,
+     "of": 30,
+     "pct": 72.0
+    },
+    "tackles": {
+     "v": 15.35,
+     "rank": 23,
+     "of": 30,
+     "pct": 24.0
+    },
+    "interceptions": {
+     "v": 8.9,
+     "rank": 21,
+     "of": 30,
+     "pct": 31.0
+    },
+    "fouls": {
+     "v": 11.25,
+     "rank": 10,
+     "of": 30,
+     "pct": 69.0
+    },
+    "goals": {
+     "v": 1.7,
+     "rank": 3,
+     "of": 30,
+     "pct": 93.0
+    },
+    "xg": {
+     "v": 1.313506109068128,
+     "rank": 3,
+     "of": 30,
+     "pct": 93.0
+    },
+    "shots_ag": {
+     "v": 10.75,
+     "rank": 21,
+     "of": 30,
+     "pct": 31.0
+    },
+    "sot_ag": {
+     "v": 3.5,
+     "rank": 24,
+     "of": 30,
+     "pct": 21.0
+    },
+    "crosses_ag": {
+     "v": 17.4,
+     "rank": 24,
+     "of": 30,
+     "pct": 21.0
+    },
+    "corners_ag": {
+     "v": 5.45,
+     "rank": 3,
+     "of": 30,
+     "pct": 93.0
+    },
+    "goals_ag": {
+     "v": 1.0,
+     "rank": 27,
+     "of": 30,
+     "pct": 10.0
+    },
+    "xg_ag": {
+     "v": 1.1187955320578535,
+     "rank": 21,
+     "of": 30,
+     "pct": 31.0
+    },
+    "ppda": {
+     "v": 13.199094338135051,
+     "rank": 25,
+     "of": 30,
+     "pct": 17.0
+    },
+    "conv": {
+     "v": 11.603567979148476,
+     "rank": 10,
+     "of": 30,
+     "pct": 69.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 2.05,
+     "gf": 1.7,
+     "ga": 1.0,
+     "shot_diff": 3.75
+    },
+    "last5": {
+     "ppg": 2.4,
+     "gf": 1.4,
+     "ga": 0.8,
+     "shot_diff": 5.6,
+     "results": [
+      "W",
+      "L",
+      "W",
+      "W",
+      "W"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-14",
+     "opp": "Demo Club 04",
+     "score": "1-0",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-22",
+     "opp": "Demo Club 19",
+     "score": "0-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-28",
+     "opp": "Demo Club 12",
+     "score": "2-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-05",
+     "opp": "Demo Club 09",
+     "score": "2-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-12",
+     "opp": "Demo Club 10",
+     "score": "2-1",
+     "venue": "home"
+    }
+   ]
+  },
+  "Demo Club 16": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 59.645,
+     "rank": 1,
+     "of": 30,
+     "pct": 100.0
+    },
+    "passes": {
+     "v": 543.15,
+     "rank": 2,
+     "of": 30,
+     "pct": 97.0
+    },
+    "pass_pct": {
+     "v": 84.07000000000001,
+     "rank": 1,
+     "of": 30,
+     "pct": 100.0
+    },
+    "long_pct": {
+     "v": 16.266960160908955,
+     "rank": 13,
+     "of": 30,
+     "pct": 59.0
+    },
+    "shots": {
+     "v": 10.0,
+     "rank": 24,
+     "of": 30,
+     "pct": 21.0
+    },
+    "sot": {
+     "v": 3.3,
+     "rank": 25,
+     "of": 30,
+     "pct": 17.0
+    },
+    "crosses": {
+     "v": 16.9,
+     "rank": 18,
+     "of": 30,
+     "pct": 41.0
+    },
+    "cross_pct": {
+     "v": 30.793180492500728,
+     "rank": 1,
+     "of": 30,
+     "pct": 100.0
+    },
+    "corners": {
+     "v": 4.2,
+     "rank": 21,
+     "of": 30,
+     "pct": 31.0
+    },
+    "tackles": {
+     "v": 12.75,
+     "rank": 30,
+     "of": 30,
+     "pct": 0.0
+    },
+    "interceptions": {
+     "v": 8.75,
+     "rank": 24,
+     "of": 30,
+     "pct": 21.0
+    },
+    "fouls": {
+     "v": 10.95,
+     "rank": 17,
+     "of": 30,
+     "pct": 45.0
+    },
+    "goals": {
+     "v": 1.55,
+     "rank": 5,
+     "of": 30,
+     "pct": 86.0
+    },
+    "xg": {
+     "v": 0.8931532615649931,
+     "rank": 17,
+     "of": 30,
+     "pct": 45.0
+    },
+    "shots_ag": {
+     "v": 7.55,
+     "rank": 30,
+     "of": 30,
+     "pct": 0.0
+    },
+    "sot_ag": {
+     "v": 2.55,
+     "rank": 30,
+     "of": 30,
+     "pct": 0.0
+    },
+    "crosses_ag": {
+     "v": 17.9,
+     "rank": 18,
+     "of": 30,
+     "pct": 41.0
+    },
+    "corners_ag": {
+     "v": 5.0,
+     "rank": 12,
+     "of": 30,
+     "pct": 62.0
+    },
+    "goals_ag": {
+     "v": 0.85,
+     "rank": 29,
+     "of": 30,
+     "pct": 3.0
+    },
+    "xg_ag": {
+     "v": 0.9796062854939422,
+     "rank": 28,
+     "of": 30,
+     "pct": 7.0
+    },
+    "ppda": {
+     "v": 14.449736681329423,
+     "rank": 9,
+     "of": 30,
+     "pct": 72.0
+    },
+    "conv": {
+     "v": 15.395535020535021,
+     "rank": 1,
+     "of": 30,
+     "pct": 100.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.85,
+     "gf": 1.55,
+     "ga": 0.85,
+     "shot_diff": 2.45
+    },
+    "last5": {
+     "ppg": 1.6,
+     "gf": 1.2,
+     "ga": 0.8,
+     "shot_diff": 3.6,
+     "results": [
+      "D",
+      "L",
+      "W",
+      "D",
+      "W"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-15",
+     "opp": "Demo Club 06",
+     "score": "0-0",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-21",
+     "opp": "Demo Club 04",
+     "score": "1-2",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-28",
+     "opp": "Demo Club 19",
+     "score": "3-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-05",
+     "opp": "Demo United",
+     "score": "0-0",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-12",
+     "opp": "Demo Club 04",
+     "score": "2-1",
+     "venue": "away"
+    }
+   ]
+  },
+  "Demo Club 10": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 42.65,
+     "rank": 29,
+     "of": 30,
+     "pct": 3.0
+    },
+    "passes": {
+     "v": 481.7,
+     "rank": 26,
+     "of": 30,
+     "pct": 14.0
+    },
+    "pass_pct": {
+     "v": 79.66,
+     "rank": 29,
+     "of": 30,
+     "pct": 3.0
+    },
+    "long_pct": {
+     "v": 18.751682935315763,
+     "rank": 8,
+     "of": 30,
+     "pct": 76.0
+    },
+    "shots": {
+     "v": 12.25,
+     "rank": 13,
+     "of": 30,
+     "pct": 59.0
+    },
+    "sot": {
+     "v": 4.2,
+     "rank": 13,
+     "of": 30,
+     "pct": 59.0
+    },
+    "crosses": {
+     "v": 10.95,
+     "rank": 30,
+     "of": 30,
+     "pct": 0.0
+    },
+    "cross_pct": {
+     "v": 27.930305805305807,
+     "rank": 12,
+     "of": 30,
+     "pct": 62.0
+    },
+    "corners": {
+     "v": 5.1,
+     "rank": 14,
+     "of": 30,
+     "pct": 55.0
+    },
+    "tackles": {
+     "v": 20.8,
+     "rank": 3,
+     "of": 30,
+     "pct": 93.0
+    },
+    "interceptions": {
+     "v": 8.95,
+     "rank": 20,
+     "of": 30,
+     "pct": 34.0
+    },
+    "fouls": {
+     "v": 10.55,
+     "rank": 25,
+     "of": 30,
+     "pct": 17.0
+    },
+    "goals": {
+     "v": 1.1,
+     "rank": 24,
+     "of": 30,
+     "pct": 21.0
+    },
+    "xg": {
+     "v": 0.8940544721938621,
+     "rank": 16,
+     "of": 30,
+     "pct": 48.0
+    },
+    "shots_ag": {
+     "v": 12.75,
+     "rank": 12,
+     "of": 30,
+     "pct": 62.0
+    },
+    "sot_ag": {
+     "v": 4.25,
+     "rank": 13,
+     "of": 30,
+     "pct": 59.0
+    },
+    "crosses_ag": {
+     "v": 18.4,
+     "rank": 14,
+     "of": 30,
+     "pct": 55.0
+    },
+    "corners_ag": {
+     "v": 5.0,
+     "rank": 13,
+     "of": 30,
+     "pct": 59.0
+    },
+    "goals_ag": {
+     "v": 1.45,
+     "rank": 12,
+     "of": 30,
+     "pct": 62.0
+    },
+    "xg_ag": {
+     "v": 1.2343663521402743,
+     "rank": 15,
+     "of": 30,
+     "pct": 52.0
+    },
+    "ppda": {
+     "v": 13.573717985985294,
+     "rank": 22,
+     "of": 30,
+     "pct": 28.0
+    },
+    "conv": {
+     "v": 9.536383937699728,
+     "rank": 25,
+     "of": 30,
+     "pct": 17.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 0.95,
+     "gf": 1.1,
+     "ga": 1.45,
+     "shot_diff": -0.5
+    },
+    "last5": {
+     "ppg": 0.6,
+     "gf": 1.0,
+     "ga": 1.6,
+     "shot_diff": 0.4,
+     "results": [
+      "L",
+      "W",
+      "L",
+      "L",
+      "L"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-14",
+     "opp": "Demo Club 28",
+     "score": "2-3",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-21",
+     "opp": "Demo Club 22",
+     "score": "1-0",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-28",
+     "opp": "Demo Club 13",
+     "score": "1-2",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-05",
+     "opp": "Demo Club 24",
+     "score": "0-1",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-12",
+     "opp": "Demo Club 08",
+     "score": "1-2",
+     "venue": "away"
+    }
+   ]
+  },
+  "Demo Club 13": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 48.045,
+     "rank": 18,
+     "of": 30,
+     "pct": 41.0
+    },
+    "passes": {
+     "v": 503.5,
+     "rank": 16,
+     "of": 30,
+     "pct": 48.0
+    },
+    "pass_pct": {
+     "v": 81.705,
+     "rank": 19,
+     "of": 30,
+     "pct": 38.0
+    },
+    "long_pct": {
+     "v": 19.788968409923108,
+     "rank": 5,
+     "of": 30,
+     "pct": 86.0
+    },
+    "shots": {
+     "v": 10.15,
+     "rank": 23,
+     "of": 30,
+     "pct": 24.0
+    },
+    "sot": {
+     "v": 3.5,
+     "rank": 22,
+     "of": 30,
+     "pct": 28.0
+    },
+    "crosses": {
+     "v": 15.4,
+     "rank": 21,
+     "of": 30,
+     "pct": 31.0
+    },
+    "cross_pct": {
+     "v": 25.967493291022702,
+     "rank": 30,
+     "of": 30,
+     "pct": 0.0
+    },
+    "corners": {
+     "v": 4.1,
+     "rank": 22,
+     "of": 30,
+     "pct": 28.0
+    },
+    "tackles": {
+     "v": 16.5,
+     "rank": 15,
+     "of": 30,
+     "pct": 52.0
+    },
+    "interceptions": {
+     "v": 9.55,
+     "rank": 5,
+     "of": 30,
+     "pct": 86.0
+    },
+    "fouls": {
+     "v": 10.5,
+     "rank": 27,
+     "of": 30,
+     "pct": 10.0
+    },
+    "goals": {
+     "v": 1.45,
+     "rank": 11,
+     "of": 30,
+     "pct": 66.0
+    },
+    "xg": {
+     "v": 0.7013336193807693,
+     "rank": 28,
+     "of": 30,
+     "pct": 7.0
+    },
+    "shots_ag": {
+     "v": 14.3,
+     "rank": 3,
+     "of": 30,
+     "pct": 93.0
+    },
+    "sot_ag": {
+     "v": 4.9,
+     "rank": 6,
+     "of": 30,
+     "pct": 83.0
+    },
+    "crosses_ag": {
+     "v": 18.55,
+     "rank": 12,
+     "of": 30,
+     "pct": 62.0
+    },
+    "corners_ag": {
+     "v": 4.25,
+     "rank": 27,
+     "of": 30,
+     "pct": 10.0
+    },
+    "goals_ag": {
+     "v": 1.75,
+     "rank": 2,
+     "of": 30,
+     "pct": 97.0
+    },
+    "xg_ag": {
+     "v": 1.3537476512728708,
+     "rank": 10,
+     "of": 30,
+     "pct": 69.0
+    },
+    "ppda": {
+     "v": 14.142561610284204,
+     "rank": 11,
+     "of": 30,
+     "pct": 66.0
+    },
+    "conv": {
+     "v": 13.983225108225108,
+     "rank": 4,
+     "of": 30,
+     "pct": 90.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 0.95,
+     "gf": 1.45,
+     "ga": 1.75,
+     "shot_diff": -4.15
+    },
+    "last5": {
+     "ppg": 1.6,
+     "gf": 1.8,
+     "ga": 1.4,
+     "shot_diff": -3.2,
+     "results": [
+      "L",
+      "D",
+      "W",
+      "D",
+      "W"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-14",
+     "opp": "Demo Club 01",
+     "score": "1-2",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-21",
+     "opp": "Demo Club 15",
+     "score": "1-1",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-28",
+     "opp": "Demo Club 10",
+     "score": "2-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-06",
+     "opp": "Demo Club 11",
+     "score": "2-2",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-12",
+     "opp": "Demo Club 22",
+     "score": "3-1",
+     "venue": "away"
+    }
+   ]
+  },
+  "Demo Club 25": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 52.7,
+     "rank": 12,
+     "of": 30,
+     "pct": 62.0
+    },
+    "passes": {
+     "v": 517.8,
+     "rank": 13,
+     "of": 30,
+     "pct": 59.0
+    },
+    "pass_pct": {
+     "v": 82.35,
+     "rank": 10,
+     "of": 30,
+     "pct": 69.0
+    },
+    "long_pct": {
+     "v": 9.721268576416126,
+     "rank": 27,
+     "of": 30,
+     "pct": 10.0
+    },
+    "shots": {
+     "v": 12.45,
+     "rank": 12,
+     "of": 30,
+     "pct": 62.0
+    },
+    "sot": {
+     "v": 4.65,
+     "rank": 8,
+     "of": 30,
+     "pct": 76.0
+    },
+    "crosses": {
+     "v": 24.4,
+     "rank": 1,
+     "of": 30,
+     "pct": 100.0
+    },
+    "cross_pct": {
+     "v": 29.377560995238344,
+     "rank": 4,
+     "of": 30,
+     "pct": 90.0
+    },
+    "corners": {
+     "v": 5.25,
+     "rank": 10,
+     "of": 30,
+     "pct": 69.0
+    },
+    "tackles": {
+     "v": 15.9,
+     "rank": 21,
+     "of": 30,
+     "pct": 31.0
+    },
+    "interceptions": {
+     "v": 9.1,
+     "rank": 14,
+     "of": 30,
+     "pct": 55.0
+    },
+    "fouls": {
+     "v": 10.55,
+     "rank": 24,
+     "of": 30,
+     "pct": 21.0
+    },
+    "goals": {
+     "v": 1.5,
+     "rank": 8,
+     "of": 30,
+     "pct": 76.0
+    },
+    "xg": {
+     "v": 1.054333037531911,
+     "rank": 11,
+     "of": 30,
+     "pct": 66.0
+    },
+    "shots_ag": {
+     "v": 12.35,
+     "rank": 13,
+     "of": 30,
+     "pct": 59.0
+    },
+    "sot_ag": {
+     "v": 4.4,
+     "rank": 10,
+     "of": 30,
+     "pct": 69.0
+    },
+    "crosses_ag": {
+     "v": 18.8,
+     "rank": 7,
+     "of": 30,
+     "pct": 79.0
+    },
+    "corners_ag": {
+     "v": 5.4,
+     "rank": 4,
+     "of": 30,
+     "pct": 90.0
+    },
+    "goals_ag": {
+     "v": 1.45,
+     "rank": 11,
+     "of": 30,
+     "pct": 66.0
+    },
+    "xg_ag": {
+     "v": 1.2917425475239634,
+     "rank": 12,
+     "of": 30,
+     "pct": 62.0
+    },
+    "ppda": {
+     "v": 13.93815806119907,
+     "rank": 13,
+     "of": 30,
+     "pct": 59.0
+    },
+    "conv": {
+     "v": 12.497347316426264,
+     "rank": 9,
+     "of": 30,
+     "pct": 72.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.6,
+     "gf": 1.5,
+     "ga": 1.45,
+     "shot_diff": 0.1
+    },
+    "last5": {
+     "ppg": 1.2,
+     "gf": 1.0,
+     "ga": 1.0,
+     "shot_diff": -2.0,
+     "results": [
+      "W",
+      "D",
+      "L",
+      "D",
+      "D"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-15",
+     "opp": "Demo Club 24",
+     "score": "1-0",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-21",
+     "opp": "Demo Club 28",
+     "score": "1-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-28",
+     "opp": "Demo Club 26",
+     "score": "1-2",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-05",
+     "opp": "Demo Club 20",
+     "score": "1-1",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-12",
+     "opp": "Demo Club 17",
+     "score": "1-1",
+     "venue": "away"
+    }
+   ]
+  },
+  "Demo Club 09": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 43.135000000000005,
+     "rank": 28,
+     "of": 30,
+     "pct": 7.0
+    },
+    "passes": {
+     "v": 480.35,
+     "rank": 27,
+     "of": 30,
+     "pct": 10.0
+    },
+    "pass_pct": {
+     "v": 81.75,
+     "rank": 18,
+     "of": 30,
+     "pct": 41.0
+    },
+    "long_pct": {
+     "v": 20.628809721521012,
+     "rank": 2,
+     "of": 30,
+     "pct": 97.0
+    },
+    "shots": {
+     "v": 10.4,
+     "rank": 21,
+     "of": 30,
+     "pct": 31.0
+    },
+    "sot": {
+     "v": 3.65,
+     "rank": 19,
+     "of": 30,
+     "pct": 38.0
+    },
+    "crosses": {
+     "v": 14.75,
+     "rank": 24,
+     "of": 30,
+     "pct": 21.0
+    },
+    "cross_pct": {
+     "v": 26.81124904862117,
+     "rank": 23,
+     "of": 30,
+     "pct": 24.0
+    },
+    "corners": {
+     "v": 4.1,
+     "rank": 23,
+     "of": 30,
+     "pct": 24.0
+    },
+    "tackles": {
+     "v": 15.75,
+     "rank": 22,
+     "of": 30,
+     "pct": 28.0
+    },
+    "interceptions": {
+     "v": 9.05,
+     "rank": 16,
+     "of": 30,
+     "pct": 48.0
+    },
+    "fouls": {
+     "v": 11.3,
+     "rank": 7,
+     "of": 30,
+     "pct": 79.0
+    },
+    "goals": {
+     "v": 1.45,
+     "rank": 12,
+     "of": 30,
+     "pct": 62.0
+    },
+    "xg": {
+     "v": 0.648503075930742,
+     "rank": 29,
+     "of": 30,
+     "pct": 3.0
+    },
+    "shots_ag": {
+     "v": 12.8,
+     "rank": 9,
+     "of": 30,
+     "pct": 72.0
+    },
+    "sot_ag": {
+     "v": 4.4,
+     "rank": 11,
+     "of": 30,
+     "pct": 66.0
+    },
+    "crosses_ag": {
+     "v": 17.8,
+     "rank": 20,
+     "of": 30,
+     "pct": 34.0
+    },
+    "corners_ag": {
+     "v": 4.75,
+     "rank": 17,
+     "of": 30,
+     "pct": 45.0
+    },
+    "goals_ag": {
+     "v": 1.35,
+     "rank": 15,
+     "of": 30,
+     "pct": 52.0
+    },
+    "xg_ag": {
+     "v": 1.028301128738429,
+     "rank": 25,
+     "of": 30,
+     "pct": 17.0
+    },
+    "ppda": {
+     "v": 15.21858712266592,
+     "rank": 4,
+     "of": 30,
+     "pct": 90.0
+    },
+    "conv": {
+     "v": 14.362415362415362,
+     "rank": 3,
+     "of": 30,
+     "pct": 93.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.4,
+     "gf": 1.45,
+     "ga": 1.35,
+     "shot_diff": -2.4
+    },
+    "last5": {
+     "ppg": 1.6,
+     "gf": 1.4,
+     "ga": 1.0,
+     "shot_diff": -4.6,
+     "results": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "D"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-14",
+     "opp": "Demo Club 12",
+     "score": "2-0",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-21",
+     "opp": "Demo Club 06",
+     "score": "2-1",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-28",
+     "opp": "Demo Club 28",
+     "score": "0-0",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-05",
+     "opp": "Demo Club 08",
+     "score": "1-2",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-12",
+     "opp": "Demo Club 18",
+     "score": "2-2",
+     "venue": "away"
+    }
+   ]
+  },
+  "Demo Club 12": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 45.31,
+     "rank": 21,
+     "of": 30,
+     "pct": 31.0
+    },
+    "passes": {
+     "v": 499.55,
+     "rank": 18,
+     "of": 30,
+     "pct": 41.0
+    },
+    "pass_pct": {
+     "v": 81.53,
+     "rank": 20,
+     "of": 30,
+     "pct": 34.0
+    },
+    "long_pct": {
+     "v": 20.98730531362464,
+     "rank": 1,
+     "of": 30,
+     "pct": 100.0
+    },
+    "shots": {
+     "v": 10.55,
+     "rank": 20,
+     "of": 30,
+     "pct": 34.0
+    },
+    "sot": {
+     "v": 3.85,
+     "rank": 16,
+     "of": 30,
+     "pct": 48.0
+    },
+    "crosses": {
+     "v": 13.25,
+     "rank": 27,
+     "of": 30,
+     "pct": 10.0
+    },
+    "cross_pct": {
+     "v": 27.406485671191554,
+     "rank": 18,
+     "of": 30,
+     "pct": 41.0
+    },
+    "corners": {
+     "v": 4.0,
+     "rank": 25,
+     "of": 30,
+     "pct": 17.0
+    },
+    "tackles": {
+     "v": 15.3,
+     "rank": 24,
+     "of": 30,
+     "pct": 21.0
+    },
+    "interceptions": {
+     "v": 9.55,
+     "rank": 6,
+     "of": 30,
+     "pct": 83.0
+    },
+    "fouls": {
+     "v": 11.2,
+     "rank": 13,
+     "of": 30,
+     "pct": 59.0
+    },
+    "goals": {
+     "v": 1.35,
+     "rank": 15,
+     "of": 30,
+     "pct": 52.0
+    },
+    "xg": {
+     "v": 0.8683254668058898,
+     "rank": 21,
+     "of": 30,
+     "pct": 31.0
+    },
+    "shots_ag": {
+     "v": 14.25,
+     "rank": 4,
+     "of": 30,
+     "pct": 90.0
+    },
+    "sot_ag": {
+     "v": 5.0,
+     "rank": 5,
+     "of": 30,
+     "pct": 86.0
+    },
+    "crosses_ag": {
+     "v": 16.25,
+     "rank": 29,
+     "of": 30,
+     "pct": 3.0
+    },
+    "corners_ag": {
+     "v": 4.5,
+     "rank": 23,
+     "of": 30,
+     "pct": 24.0
+    },
+    "goals_ag": {
+     "v": 1.7,
+     "rank": 3,
+     "of": 30,
+     "pct": 93.0
+    },
+    "xg_ag": {
+     "v": 1.3822818068756153,
+     "rank": 6,
+     "of": 30,
+     "pct": 83.0
+    },
+    "ppda": {
+     "v": 14.855563273370658,
+     "rank": 6,
+     "of": 30,
+     "pct": 83.0
+    },
+    "conv": {
+     "v": 12.983627483627483,
+     "rank": 8,
+     "of": 30,
+     "pct": 76.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 0.95,
+     "gf": 1.35,
+     "ga": 1.7,
+     "shot_diff": -3.7
+    },
+    "last5": {
+     "ppg": 0.8,
+     "gf": 1.0,
+     "ga": 1.6,
+     "shot_diff": -5.2,
+     "results": [
+      "L",
+      "L",
+      "L",
+      "D",
+      "W"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-14",
+     "opp": "Demo Club 09",
+     "score": "0-2",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-21",
+     "opp": "Demo Club 21",
+     "score": "2-3",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-28",
+     "opp": "Demo Club 08",
+     "score": "1-2",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-05",
+     "opp": "Demo Club 06",
+     "score": "1-1",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-12",
+     "opp": "Demo Club 11",
+     "score": "1-0",
+     "venue": "home"
+    }
+   ]
+  },
+  "Demo Club 07": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 59.595000000000006,
+     "rank": 2,
+     "of": 30,
+     "pct": 97.0
+    },
+    "passes": {
+     "v": 543.1,
+     "rank": 3,
+     "of": 30,
+     "pct": 93.0
+    },
+    "pass_pct": {
+     "v": 83.76,
+     "rank": 4,
+     "of": 30,
+     "pct": 90.0
+    },
+    "long_pct": {
+     "v": 9.14310843350674,
+     "rank": 29,
+     "of": 30,
+     "pct": 3.0
+    },
+    "shots": {
+     "v": 14.85,
+     "rank": 4,
+     "of": 30,
+     "pct": 90.0
+    },
+    "sot": {
+     "v": 5.35,
+     "rank": 4,
+     "of": 30,
+     "pct": 90.0
+    },
+    "crosses": {
+     "v": 21.1,
+     "rank": 9,
+     "of": 30,
+     "pct": 72.0
+    },
+    "cross_pct": {
+     "v": 27.06570114350435,
+     "rank": 20,
+     "of": 30,
+     "pct": 34.0
+    },
+    "corners": {
+     "v": 5.8,
+     "rank": 6,
+     "of": 30,
+     "pct": 83.0
+    },
+    "tackles": {
+     "v": 17.6,
+     "rank": 11,
+     "of": 30,
+     "pct": 66.0
+    },
+    "interceptions": {
+     "v": 8.7,
+     "rank": 27,
+     "of": 30,
+     "pct": 10.0
+    },
+    "fouls": {
+     "v": 10.65,
+     "rank": 23,
+     "of": 30,
+     "pct": 24.0
+    },
+    "goals": {
+     "v": 1.55,
+     "rank": 6,
+     "of": 30,
+     "pct": 83.0
+    },
+    "xg": {
+     "v": 1.324539746123877,
+     "rank": 2,
+     "of": 30,
+     "pct": 97.0
+    },
+    "shots_ag": {
+     "v": 9.85,
+     "rank": 26,
+     "of": 30,
+     "pct": 14.0
+    },
+    "sot_ag": {
+     "v": 3.25,
+     "rank": 28,
+     "of": 30,
+     "pct": 7.0
+    },
+    "crosses_ag": {
+     "v": 17.85,
+     "rank": 19,
+     "of": 30,
+     "pct": 38.0
+    },
+    "corners_ag": {
+     "v": 4.75,
+     "rank": 18,
+     "of": 30,
+     "pct": 41.0
+    },
+    "goals_ag": {
+     "v": 1.25,
+     "rank": 17,
+     "of": 30,
+     "pct": 45.0
+    },
+    "xg_ag": {
+     "v": 1.2419170850019625,
+     "rank": 14,
+     "of": 30,
+     "pct": 55.0
+    },
+    "ppda": {
+     "v": 12.772625093809555,
+     "rank": 28,
+     "of": 30,
+     "pct": 7.0
+    },
+    "conv": {
+     "v": 10.520017972223854,
+     "rank": 16,
+     "of": 30,
+     "pct": 48.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.7,
+     "gf": 1.55,
+     "ga": 1.25,
+     "shot_diff": 5.0
+    },
+    "last5": {
+     "ppg": 0.4,
+     "gf": 1.0,
+     "ga": 2.0,
+     "shot_diff": 4.6,
+     "results": [
+      "L",
+      "L",
+      "D",
+      "D",
+      "L"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-14",
+     "opp": "Demo Club 19",
+     "score": "0-2",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-21",
+     "opp": "Demo Club 17",
+     "score": "1-2",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-28",
+     "opp": "Demo Club 20",
+     "score": "1-1",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-05",
+     "opp": "Real Salt Lake",
+     "score": "2-2",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-12",
+     "opp": "Demo Club 20",
+     "score": "1-3",
+     "venue": "home"
+    }
+   ]
+  },
+  "Demo Club 02": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 51.395,
+     "rank": 13,
+     "of": 30,
+     "pct": 59.0
+    },
+    "passes": {
+     "v": 520.05,
+     "rank": 11,
+     "of": 30,
+     "pct": 66.0
+    },
+    "pass_pct": {
+     "v": 82.24,
+     "rank": 11,
+     "of": 30,
+     "pct": 66.0
+    },
+    "long_pct": {
+     "v": 11.125632403277528,
+     "rank": 22,
+     "of": 30,
+     "pct": 28.0
+    },
+    "shots": {
+     "v": 13.25,
+     "rank": 11,
+     "of": 30,
+     "pct": 66.0
+    },
+    "sot": {
+     "v": 4.65,
+     "rank": 9,
+     "of": 30,
+     "pct": 72.0
+    },
+    "crosses": {
+     "v": 17.85,
+     "rank": 15,
+     "of": 30,
+     "pct": 52.0
+    },
+    "cross_pct": {
+     "v": 28.215736834544884,
+     "rank": 10,
+     "of": 30,
+     "pct": 69.0
+    },
+    "corners": {
+     "v": 5.25,
+     "rank": 11,
+     "of": 30,
+     "pct": 66.0
+    },
+    "tackles": {
+     "v": 21.2,
+     "rank": 1,
+     "of": 30,
+     "pct": 100.0
+    },
+    "interceptions": {
+     "v": 9.1,
+     "rank": 15,
+     "of": 30,
+     "pct": 52.0
+    },
+    "fouls": {
+     "v": 11.3,
+     "rank": 8,
+     "of": 30,
+     "pct": 76.0
+    },
+    "goals": {
+     "v": 1.4,
+     "rank": 13,
+     "of": 30,
+     "pct": 59.0
+    },
+    "xg": {
+     "v": 1.0871448065978802,
+     "rank": 10,
+     "of": 30,
+     "pct": 69.0
+    },
+    "shots_ag": {
+     "v": 8.9,
+     "rank": 29,
+     "of": 30,
+     "pct": 3.0
+    },
+    "sot_ag": {
+     "v": 3.1,
+     "rank": 29,
+     "of": 30,
+     "pct": 3.0
+    },
+    "crosses_ag": {
+     "v": 18.95,
+     "rank": 6,
+     "of": 30,
+     "pct": 83.0
+    },
+    "corners_ag": {
+     "v": 4.8,
+     "rank": 16,
+     "of": 30,
+     "pct": 48.0
+    },
+    "goals_ag": {
+     "v": 0.9,
+     "rank": 28,
+     "of": 30,
+     "pct": 7.0
+    },
+    "xg_ag": {
+     "v": 0.9507695349159058,
+     "rank": 30,
+     "of": 30,
+     "pct": 0.0
+    },
+    "ppda": {
+     "v": 12.199076988941297,
+     "rank": 30,
+     "of": 30,
+     "pct": 0.0
+    },
+    "conv": {
+     "v": 10.319067456451357,
+     "rank": 17,
+     "of": 30,
+     "pct": 45.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.8,
+     "gf": 1.4,
+     "ga": 0.9,
+     "shot_diff": 4.35
+    },
+    "last5": {
+     "ppg": 1.2,
+     "gf": 1.2,
+     "ga": 1.2,
+     "shot_diff": 5.0,
+     "results": [
+      "W",
+      "D",
+      "L",
+      "D",
+      "D"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-14",
+     "opp": "Demo Club 26",
+     "score": "2-1",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-21",
+     "opp": "Demo Club 11",
+     "score": "0-0",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-28",
+     "opp": "Demo Club 06",
+     "score": "1-2",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-05",
+     "opp": "Demo Club 22",
+     "score": "0-0",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-12",
+     "opp": "Demo Club 01",
+     "score": "3-3",
+     "venue": "home"
+    }
+   ]
+  },
+  "Demo Club 27": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 54.355,
+     "rank": 10,
+     "of": 30,
+     "pct": 69.0
+    },
+    "passes": {
+     "v": 529.75,
+     "rank": 9,
+     "of": 30,
+     "pct": 72.0
+    },
+    "pass_pct": {
+     "v": 82.4,
+     "rank": 9,
+     "of": 30,
+     "pct": 72.0
+    },
+    "long_pct": {
+     "v": 19.120322744484817,
+     "rank": 6,
+     "of": 30,
+     "pct": 83.0
+    },
+    "shots": {
+     "v": 10.95,
+     "rank": 16,
+     "of": 30,
+     "pct": 48.0
+    },
+    "sot": {
+     "v": 4.0,
+     "rank": 15,
+     "of": 30,
+     "pct": 52.0
+    },
+    "crosses": {
+     "v": 19.65,
+     "rank": 13,
+     "of": 30,
+     "pct": 59.0
+    },
+    "cross_pct": {
+     "v": 28.188853207186764,
+     "rank": 11,
+     "of": 30,
+     "pct": 66.0
+    },
+    "corners": {
+     "v": 4.9,
+     "rank": 16,
+     "of": 30,
+     "pct": 48.0
+    },
+    "tackles": {
+     "v": 12.8,
+     "rank": 29,
+     "of": 30,
+     "pct": 3.0
+    },
+    "interceptions": {
+     "v": 8.8,
+     "rank": 23,
+     "of": 30,
+     "pct": 24.0
+    },
+    "fouls": {
+     "v": 11.35,
+     "rank": 6,
+     "of": 30,
+     "pct": 83.0
+    },
+    "goals": {
+     "v": 1.15,
+     "rank": 23,
+     "of": 30,
+     "pct": 24.0
+    },
+    "xg": {
+     "v": 0.9879176048389976,
+     "rank": 13,
+     "of": 30,
+     "pct": 59.0
+    },
+    "shots_ag": {
+     "v": 11.25,
+     "rank": 18,
+     "of": 30,
+     "pct": 41.0
+    },
+    "sot_ag": {
+     "v": 4.1,
+     "rank": 16,
+     "of": 30,
+     "pct": 48.0
+    },
+    "crosses_ag": {
+     "v": 16.95,
+     "rank": 27,
+     "of": 30,
+     "pct": 10.0
+    },
+    "corners_ag": {
+     "v": 5.45,
+     "rank": 1,
+     "of": 30,
+     "pct": 100.0
+    },
+    "goals_ag": {
+     "v": 1.35,
+     "rank": 14,
+     "of": 30,
+     "pct": 55.0
+    },
+    "xg_ag": {
+     "v": 1.3580454589835982,
+     "rank": 8,
+     "of": 30,
+     "pct": 76.0
+    },
+    "ppda": {
+     "v": 15.473053116255443,
+     "rank": 2,
+     "of": 30,
+     "pct": 97.0
+    },
+    "conv": {
+     "v": 10.142947330447331,
+     "rank": 19,
+     "of": 30,
+     "pct": 38.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.05,
+     "gf": 1.15,
+     "ga": 1.35,
+     "shot_diff": -0.3
+    },
+    "last5": {
+     "ppg": 1.8,
+     "gf": 1.6,
+     "ga": 1.2,
+     "shot_diff": -0.6,
+     "results": [
+      "W",
+      "W",
+      "L",
+      "W",
+      "L"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-14",
+     "opp": "Demo Club 18",
+     "score": "2-0",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-22",
+     "opp": "Demo Club 20",
+     "score": "2-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-28",
+     "opp": "Demo Club 04",
+     "score": "1-2",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-05",
+     "opp": "Demo Club 18",
+     "score": "1-0",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-12",
+     "opp": "Demo Club 24",
+     "score": "2-3",
+     "venue": "away"
+    }
+   ]
+  },
+  "Demo Club 21": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 54.61,
+     "rank": 9,
+     "of": 30,
+     "pct": 72.0
+    },
+    "passes": {
+     "v": 518.7,
+     "rank": 12,
+     "of": 30,
+     "pct": 62.0
+    },
+    "pass_pct": {
+     "v": 82.025,
+     "rank": 15,
+     "of": 30,
+     "pct": 52.0
+    },
+    "long_pct": {
+     "v": 16.96985710404783,
+     "rank": 12,
+     "of": 30,
+     "pct": 62.0
+    },
+    "shots": {
+     "v": 15.8,
+     "rank": 1,
+     "of": 30,
+     "pct": 100.0
+    },
+    "sot": {
+     "v": 5.55,
+     "rank": 2,
+     "of": 30,
+     "pct": 97.0
+    },
+    "crosses": {
+     "v": 22.15,
+     "rank": 7,
+     "of": 30,
+     "pct": 79.0
+    },
+    "cross_pct": {
+     "v": 28.416679792926594,
+     "rank": 9,
+     "of": 30,
+     "pct": 72.0
+    },
+    "corners": {
+     "v": 5.85,
+     "rank": 3,
+     "of": 30,
+     "pct": 93.0
+    },
+    "tackles": {
+     "v": 17.8,
+     "rank": 10,
+     "of": 30,
+     "pct": 69.0
+    },
+    "interceptions": {
+     "v": 9.35,
+     "rank": 8,
+     "of": 30,
+     "pct": 76.0
+    },
+    "fouls": {
+     "v": 9.95,
+     "rank": 30,
+     "of": 30,
+     "pct": 0.0
+    },
+    "goals": {
+     "v": 1.65,
+     "rank": 4,
+     "of": 30,
+     "pct": 90.0
+    },
+    "xg": {
+     "v": 1.1544425742822928,
+     "rank": 7,
+     "of": 30,
+     "pct": 79.0
+    },
+    "shots_ag": {
+     "v": 9.6,
+     "rank": 28,
+     "of": 30,
+     "pct": 7.0
+    },
+    "sot_ag": {
+     "v": 3.4,
+     "rank": 26,
+     "of": 30,
+     "pct": 14.0
+    },
+    "crosses_ag": {
+     "v": 17.3,
+     "rank": 26,
+     "of": 30,
+     "pct": 14.0
+    },
+    "corners_ag": {
+     "v": 4.5,
+     "rank": 22,
+     "of": 30,
+     "pct": 28.0
+    },
+    "goals_ag": {
+     "v": 1.1,
+     "rank": 25,
+     "of": 30,
+     "pct": 17.0
+    },
+    "xg_ag": {
+     "v": 1.0458237126564456,
+     "rank": 24,
+     "of": 30,
+     "pct": 21.0
+    },
+    "ppda": {
+     "v": 13.587618039906436,
+     "rank": 20,
+     "of": 30,
+     "pct": 34.0
+    },
+    "conv": {
+     "v": 10.239867438203351,
+     "rank": 18,
+     "of": 30,
+     "pct": 41.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 2.0,
+     "gf": 1.65,
+     "ga": 1.1,
+     "shot_diff": 6.2
+    },
+    "last5": {
+     "ppg": 2.6,
+     "gf": 2.2,
+     "ga": 1.2,
+     "shot_diff": 6.4,
+     "results": [
+      "W",
+      "W",
+      "W",
+      "W",
+      "D"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-14",
+     "opp": "Demo Club 22",
+     "score": "3-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-21",
+     "opp": "Demo Club 12",
+     "score": "3-2",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-28",
+     "opp": "Demo Club 01",
+     "score": "1-0",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-05",
+     "opp": "Demo Club 17",
+     "score": "2-1",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-12",
+     "opp": "Demo Club 14",
+     "score": "2-2",
+     "venue": "home"
+    }
+   ]
+  },
+  "Demo Club 01": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 44.2,
+     "rank": 24,
+     "of": 30,
+     "pct": 21.0
+    },
+    "passes": {
+     "v": 472.7,
+     "rank": 29,
+     "of": 30,
+     "pct": 3.0
+    },
+    "pass_pct": {
+     "v": 81.035,
+     "rank": 26,
+     "of": 30,
+     "pct": 14.0
+    },
+    "long_pct": {
+     "v": 17.684256514512022,
+     "rank": 11,
+     "of": 30,
+     "pct": 66.0
+    },
+    "shots": {
+     "v": 15.55,
+     "rank": 3,
+     "of": 30,
+     "pct": 93.0
+    },
+    "sot": {
+     "v": 5.45,
+     "rank": 3,
+     "of": 30,
+     "pct": 93.0
+    },
+    "crosses": {
+     "v": 20.35,
+     "rank": 12,
+     "of": 30,
+     "pct": 62.0
+    },
+    "cross_pct": {
+     "v": 26.9000433591849,
+     "rank": 21,
+     "of": 30,
+     "pct": 31.0
+    },
+    "corners": {
+     "v": 5.85,
+     "rank": 4,
+     "of": 30,
+     "pct": 90.0
+    },
+    "tackles": {
+     "v": 20.3,
+     "rank": 4,
+     "of": 30,
+     "pct": 90.0
+    },
+    "interceptions": {
+     "v": 9.05,
+     "rank": 17,
+     "of": 30,
+     "pct": 45.0
+    },
+    "fouls": {
+     "v": 10.15,
+     "rank": 28,
+     "of": 30,
+     "pct": 7.0
+    },
+    "goals": {
+     "v": 1.8,
+     "rank": 1,
+     "of": 30,
+     "pct": 100.0
+    },
+    "xg": {
+     "v": 1.109366302758667,
+     "rank": 8,
+     "of": 30,
+     "pct": 76.0
+    },
+    "shots_ag": {
+     "v": 14.2,
+     "rank": 5,
+     "of": 30,
+     "pct": 86.0
+    },
+    "sot_ag": {
+     "v": 5.3,
+     "rank": 2,
+     "of": 30,
+     "pct": 97.0
+    },
+    "crosses_ag": {
+     "v": 19.35,
+     "rank": 4,
+     "of": 30,
+     "pct": 90.0
+    },
+    "corners_ag": {
+     "v": 4.5,
+     "rank": 24,
+     "of": 30,
+     "pct": 21.0
+    },
+    "goals_ag": {
+     "v": 1.65,
+     "rank": 4,
+     "of": 30,
+     "pct": 90.0
+    },
+    "xg_ag": {
+     "v": 1.4176619209609937,
+     "rank": 2,
+     "of": 30,
+     "pct": 97.0
+    },
+    "ppda": {
+     "v": 13.622705147755164,
+     "rank": 19,
+     "of": 30,
+     "pct": 38.0
+    },
+    "conv": {
+     "v": 11.493032380416281,
+     "rank": 11,
+     "of": 30,
+     "pct": 66.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.5,
+     "gf": 1.8,
+     "ga": 1.65,
+     "shot_diff": 1.35
+    },
+    "last5": {
+     "ppg": 1.2,
+     "gf": 1.6,
+     "ga": 1.6,
+     "shot_diff": 1.4,
+     "results": [
+      "W",
+      "D",
+      "L",
+      "D",
+      "D"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-14",
+     "opp": "Demo Club 13",
+     "score": "2-1",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-21",
+     "opp": "Demo Club 24",
+     "score": "3-3",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-28",
+     "opp": "Demo Club 21",
+     "score": "0-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-05",
+     "opp": "Demo Club 15",
+     "score": "0-0",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-12",
+     "opp": "Demo Club 02",
+     "score": "3-3",
+     "venue": "away"
+    }
+   ]
+  },
+  "Demo Club 28": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 55.81,
+     "rank": 6,
+     "of": 30,
+     "pct": 83.0
+    },
+    "passes": {
+     "v": 538.9,
+     "rank": 5,
+     "of": 30,
+     "pct": 86.0
+    },
+    "pass_pct": {
+     "v": 82.03,
+     "rank": 14,
+     "of": 30,
+     "pct": 55.0
+    },
+    "long_pct": {
+     "v": 13.621549846888096,
+     "rank": 17,
+     "of": 30,
+     "pct": 45.0
+    },
+    "shots": {
+     "v": 14.55,
+     "rank": 5,
+     "of": 30,
+     "pct": 86.0
+    },
+    "sot": {
+     "v": 4.9,
+     "rank": 6,
+     "of": 30,
+     "pct": 83.0
+    },
+    "crosses": {
+     "v": 22.6,
+     "rank": 6,
+     "of": 30,
+     "pct": 83.0
+    },
+    "cross_pct": {
+     "v": 26.622576819315952,
+     "rank": 26,
+     "of": 30,
+     "pct": 14.0
+    },
+    "corners": {
+     "v": 5.8,
+     "rank": 5,
+     "of": 30,
+     "pct": 86.0
+    },
+    "tackles": {
+     "v": 14.55,
+     "rank": 27,
+     "of": 30,
+     "pct": 10.0
+    },
+    "interceptions": {
+     "v": 9.55,
+     "rank": 4,
+     "of": 30,
+     "pct": 90.0
+    },
+    "fouls": {
+     "v": 11.2,
+     "rank": 11,
+     "of": 30,
+     "pct": 66.0
+    },
+    "goals": {
+     "v": 1.5,
+     "rank": 7,
+     "of": 30,
+     "pct": 79.0
+    },
+    "xg": {
+     "v": 1.2560984458501159,
+     "rank": 5,
+     "of": 30,
+     "pct": 86.0
+    },
+    "shots_ag": {
+     "v": 11.2,
+     "rank": 19,
+     "of": 30,
+     "pct": 38.0
+    },
+    "sot_ag": {
+     "v": 4.0,
+     "rank": 18,
+     "of": 30,
+     "pct": 41.0
+    },
+    "crosses_ag": {
+     "v": 18.05,
+     "rank": 16,
+     "of": 30,
+     "pct": 48.0
+    },
+    "corners_ag": {
+     "v": 4.65,
+     "rank": 21,
+     "of": 30,
+     "pct": 31.0
+    },
+    "goals_ag": {
+     "v": 1.1,
+     "rank": 24,
+     "of": 30,
+     "pct": 21.0
+    },
+    "xg_ag": {
+     "v": 1.3191732478196025,
+     "rank": 11,
+     "of": 30,
+     "pct": 66.0
+    },
+    "ppda": {
+     "v": 13.930253315446626,
+     "rank": 14,
+     "of": 30,
+     "pct": 55.0
+    },
+    "conv": {
+     "v": 10.004967748969296,
+     "rank": 21,
+     "of": 30,
+     "pct": 31.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.65,
+     "gf": 1.5,
+     "ga": 1.1,
+     "shot_diff": 3.35
+    },
+    "last5": {
+     "ppg": 1.2,
+     "gf": 1.4,
+     "ga": 1.4,
+     "shot_diff": 1.2,
+     "results": [
+      "W",
+      "D",
+      "D",
+      "L",
+      "D"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-14",
+     "opp": "Demo Club 10",
+     "score": "3-2",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-21",
+     "opp": "Demo Club 25",
+     "score": "1-1",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-28",
+     "opp": "Demo Club 09",
+     "score": "0-0",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-06",
+     "opp": "Demo Club 05",
+     "score": "1-2",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-12",
+     "opp": "Demo Club 15",
+     "score": "2-2",
+     "venue": "away"
+    }
+   ]
+  },
+  "Real Salt Lake": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 55.654999999999994,
+     "rank": 7,
+     "of": 30,
+     "pct": 79.0
+    },
+    "passes": {
+     "v": 536.45,
+     "rank": 6,
+     "of": 30,
+     "pct": 83.0
+    },
+    "pass_pct": {
+     "v": 82.925,
+     "rank": 7,
+     "of": 30,
+     "pct": 79.0
+    },
+    "long_pct": {
+     "v": 10.584640522046044,
+     "rank": 25,
+     "of": 30,
+     "pct": 17.0
+    },
+    "shots": {
+     "v": 13.55,
+     "rank": 8,
+     "of": 30,
+     "pct": 76.0
+    },
+    "sot": {
+     "v": 4.55,
+     "rank": 11,
+     "of": 30,
+     "pct": 66.0
+    },
+    "crosses": {
+     "v": 24.0,
+     "rank": 2,
+     "of": 30,
+     "pct": 97.0
+    },
+    "cross_pct": {
+     "v": 28.61695372599263,
+     "rank": 8,
+     "of": 30,
+     "pct": 76.0
+    },
+    "corners": {
+     "v": 6.45,
+     "rank": 1,
+     "of": 30,
+     "pct": 100.0
+    },
+    "tackles": {
+     "v": 15.2,
+     "rank": 26,
+     "of": 30,
+     "pct": 14.0
+    },
+    "interceptions": {
+     "v": 9.0,
+     "rank": 18,
+     "of": 30,
+     "pct": 41.0
+    },
+    "fouls": {
+     "v": 11.35,
+     "rank": 5,
+     "of": 30,
+     "pct": 86.0
+    },
+    "goals": {
+     "v": 1.35,
+     "rank": 14,
+     "of": 30,
+     "pct": 55.0
+    },
+    "xg": {
+     "v": 1.2948442866657726,
+     "rank": 4,
+     "of": 30,
+     "pct": 90.0
+    },
+    "shots_ag": {
+     "v": 12.2,
+     "rank": 14,
+     "of": 30,
+     "pct": 55.0
+    },
+    "sot_ag": {
+     "v": 4.2,
+     "rank": 14,
+     "of": 30,
+     "pct": 55.0
+    },
+    "crosses_ag": {
+     "v": 19.9,
+     "rank": 2,
+     "of": 30,
+     "pct": 97.0
+    },
+    "corners_ag": {
+     "v": 5.2,
+     "rank": 7,
+     "of": 30,
+     "pct": 79.0
+    },
+    "goals_ag": {
+     "v": 1.4,
+     "rank": 13,
+     "of": 30,
+     "pct": 59.0
+    },
+    "xg_ag": {
+     "v": 1.2037454974221522,
+     "rank": 17,
+     "of": 30,
+     "pct": 45.0
+    },
+    "ppda": {
+     "v": 13.888547150305579,
+     "rank": 17,
+     "of": 30,
+     "pct": 45.0
+    },
+    "conv": {
+     "v": 10.067677420618597,
+     "rank": 20,
+     "of": 30,
+     "pct": 34.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.2,
+     "gf": 1.35,
+     "ga": 1.4,
+     "shot_diff": 1.35
+    },
+    "last5": {
+     "ppg": 0.4,
+     "gf": 0.8,
+     "ga": 1.6,
+     "shot_diff": 3.0,
+     "results": [
+      "D",
+      "L",
+      "L",
+      "D",
+      "L"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-14",
+     "opp": "Demo Club 15",
+     "score": "1-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-21",
+     "opp": "Demo United",
+     "score": "0-1",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-28",
+     "opp": "Demo Club 17",
+     "score": "0-2",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-05",
+     "opp": "Demo Club 07",
+     "score": "2-2",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-13",
+     "opp": "Demo Club 19",
+     "score": "1-2",
+     "venue": "away"
+    }
+   ],
+   "attack_side": {
+    "left_pct": 24,
+    "center_pct": 31,
+    "right_pct": 45
+   }
+  },
+  "Demo Club 17": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 55.379999999999995,
+     "rank": 8,
+     "of": 30,
+     "pct": 76.0
+    },
+    "passes": {
+     "v": 530.35,
+     "rank": 8,
+     "of": 30,
+     "pct": 76.0
+    },
+    "pass_pct": {
+     "v": 83.965,
+     "rank": 3,
+     "of": 30,
+     "pct": 93.0
+    },
+    "long_pct": {
+     "v": 11.711568021753529,
+     "rank": 19,
+     "of": 30,
+     "pct": 38.0
+    },
+    "shots": {
+     "v": 13.75,
+     "rank": 7,
+     "of": 30,
+     "pct": 79.0
+    },
+    "sot": {
+     "v": 4.6,
+     "rank": 10,
+     "of": 30,
+     "pct": 69.0
+    },
+    "crosses": {
+     "v": 20.6,
+     "rank": 11,
+     "of": 30,
+     "pct": 66.0
+    },
+    "cross_pct": {
+     "v": 26.57818875124367,
+     "rank": 27,
+     "of": 30,
+     "pct": 10.0
+    },
+    "corners": {
+     "v": 4.65,
+     "rank": 18,
+     "of": 30,
+     "pct": 41.0
+    },
+    "tackles": {
+     "v": 17.2,
+     "rank": 12,
+     "of": 30,
+     "pct": 62.0
+    },
+    "interceptions": {
+     "v": 9.15,
+     "rank": 13,
+     "of": 30,
+     "pct": 59.0
+    },
+    "fouls": {
+     "v": 10.75,
+     "rank": 21,
+     "of": 30,
+     "pct": 31.0
+    },
+    "goals": {
+     "v": 1.5,
+     "rank": 9,
+     "of": 30,
+     "pct": 72.0
+    },
+    "xg": {
+     "v": 1.1675211618634846,
+     "rank": 6,
+     "of": 30,
+     "pct": 83.0
+    },
+    "shots_ag": {
+     "v": 12.75,
+     "rank": 10,
+     "of": 30,
+     "pct": 69.0
+    },
+    "sot_ag": {
+     "v": 4.3,
+     "rank": 12,
+     "of": 30,
+     "pct": 62.0
+    },
+    "crosses_ag": {
+     "v": 18.7,
+     "rank": 9,
+     "of": 30,
+     "pct": 72.0
+    },
+    "corners_ag": {
+     "v": 5.1,
+     "rank": 10,
+     "of": 30,
+     "pct": 69.0
+    },
+    "goals_ag": {
+     "v": 1.5,
+     "rank": 10,
+     "of": 30,
+     "pct": 69.0
+    },
+    "xg_ag": {
+     "v": 1.489780828442253,
+     "rank": 1,
+     "of": 30,
+     "pct": 100.0
+    },
+    "ppda": {
+     "v": 13.348095266303648,
+     "rank": 24,
+     "of": 30,
+     "pct": 21.0
+    },
+    "conv": {
+     "v": 10.799181210945918,
+     "rank": 14,
+     "of": 30,
+     "pct": 55.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.4,
+     "gf": 1.5,
+     "ga": 1.5,
+     "shot_diff": 1.0
+    },
+    "last5": {
+     "ppg": 1.4,
+     "gf": 1.4,
+     "ga": 1.4,
+     "shot_diff": -0.8,
+     "results": [
+      "L",
+      "W",
+      "W",
+      "L",
+      "D"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-14",
+     "opp": "Demo Club 05",
+     "score": "1-3",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-21",
+     "opp": "Demo Club 07",
+     "score": "2-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-28",
+     "opp": "Real Salt Lake",
+     "score": "2-0",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-05",
+     "opp": "Demo Club 21",
+     "score": "1-2",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-12",
+     "opp": "Demo Club 25",
+     "score": "1-1",
+     "venue": "home"
+    }
+   ]
+  },
+  "Demo Club 26": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 49.185,
+     "rank": 15,
+     "of": 30,
+     "pct": 52.0
+    },
+    "passes": {
+     "v": 504.95,
+     "rank": 15,
+     "of": 30,
+     "pct": 52.0
+    },
+    "pass_pct": {
+     "v": 82.45,
+     "rank": 8,
+     "of": 30,
+     "pct": 76.0
+    },
+    "long_pct": {
+     "v": 10.129754442436399,
+     "rank": 26,
+     "of": 30,
+     "pct": 14.0
+    },
+    "shots": {
+     "v": 13.45,
+     "rank": 9,
+     "of": 30,
+     "pct": 72.0
+    },
+    "sot": {
+     "v": 4.7,
+     "rank": 7,
+     "of": 30,
+     "pct": 79.0
+    },
+    "crosses": {
+     "v": 23.0,
+     "rank": 4,
+     "of": 30,
+     "pct": 90.0
+    },
+    "cross_pct": {
+     "v": 28.630109739724087,
+     "rank": 7,
+     "of": 30,
+     "pct": 79.0
+    },
+    "corners": {
+     "v": 6.1,
+     "rank": 2,
+     "of": 30,
+     "pct": 97.0
+    },
+    "tackles": {
+     "v": 16.4,
+     "rank": 17,
+     "of": 30,
+     "pct": 45.0
+    },
+    "interceptions": {
+     "v": 9.75,
+     "rank": 2,
+     "of": 30,
+     "pct": 97.0
+    },
+    "fouls": {
+     "v": 10.9,
+     "rank": 18,
+     "of": 30,
+     "pct": 41.0
+    },
+    "goals": {
+     "v": 1.2,
+     "rank": 20,
+     "of": 30,
+     "pct": 34.0
+    },
+    "xg": {
+     "v": 0.947692676422037,
+     "rank": 15,
+     "of": 30,
+     "pct": 52.0
+    },
+    "shots_ag": {
+     "v": 14.5,
+     "rank": 2,
+     "of": 30,
+     "pct": 97.0
+    },
+    "sot_ag": {
+     "v": 5.3,
+     "rank": 1,
+     "of": 30,
+     "pct": 100.0
+    },
+    "crosses_ag": {
+     "v": 19.5,
+     "rank": 3,
+     "of": 30,
+     "pct": 93.0
+    },
+    "corners_ag": {
+     "v": 4.95,
+     "rank": 14,
+     "of": 30,
+     "pct": 55.0
+    },
+    "goals_ag": {
+     "v": 1.5,
+     "rank": 8,
+     "of": 30,
+     "pct": 76.0
+    },
+    "xg_ag": {
+     "v": 1.3830194909006284,
+     "rank": 5,
+     "of": 30,
+     "pct": 86.0
+    },
+    "ppda": {
+     "v": 13.921472473451633,
+     "rank": 15,
+     "of": 30,
+     "pct": 52.0
+    },
+    "conv": {
+     "v": 8.935363247863247,
+     "rank": 28,
+     "of": 30,
+     "pct": 7.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.0,
+     "gf": 1.2,
+     "ga": 1.5,
+     "shot_diff": -1.05
+    },
+    "last5": {
+     "ppg": 1.4,
+     "gf": 1.2,
+     "ga": 1.2,
+     "shot_diff": -3.6,
+     "results": [
+      "L",
+      "W",
+      "W",
+      "D",
+      "L"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-14",
+     "opp": "Demo Club 02",
+     "score": "1-2",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-22",
+     "opp": "Demo Club 05",
+     "score": "2-0",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-28",
+     "opp": "Demo Club 25",
+     "score": "2-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-05",
+     "opp": "Demo Club 23",
+     "score": "1-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-13",
+     "opp": "Demo Club 23",
+     "score": "0-2",
+     "venue": "away"
+    }
+   ]
+  },
+  "Demo Club 11": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 43.945,
+     "rank": 25,
+     "of": 30,
+     "pct": 17.0
+    },
+    "passes": {
+     "v": 482.9,
+     "rank": 25,
+     "of": 30,
+     "pct": 17.0
+    },
+    "pass_pct": {
+     "v": 80.655,
+     "rank": 27,
+     "of": 30,
+     "pct": 10.0
+    },
+    "long_pct": {
+     "v": 10.89905772589436,
+     "rank": 23,
+     "of": 30,
+     "pct": 24.0
+    },
+    "shots": {
+     "v": 9.5,
+     "rank": 26,
+     "of": 30,
+     "pct": 14.0
+    },
+    "sot": {
+     "v": 3.3,
+     "rank": 26,
+     "of": 30,
+     "pct": 14.0
+    },
+    "crosses": {
+     "v": 20.7,
+     "rank": 10,
+     "of": 30,
+     "pct": 69.0
+    },
+    "cross_pct": {
+     "v": 27.640159274999093,
+     "rank": 16,
+     "of": 30,
+     "pct": 48.0
+    },
+    "corners": {
+     "v": 3.9,
+     "rank": 27,
+     "of": 30,
+     "pct": 10.0
+    },
+    "tackles": {
+     "v": 16.5,
+     "rank": 16,
+     "of": 30,
+     "pct": 48.0
+    },
+    "interceptions": {
+     "v": 8.75,
+     "rank": 26,
+     "of": 30,
+     "pct": 14.0
+    },
+    "fouls": {
+     "v": 11.5,
+     "rank": 2,
+     "of": 30,
+     "pct": 97.0
+    },
+    "goals": {
+     "v": 1.05,
+     "rank": 27,
+     "of": 30,
+     "pct": 10.0
+    },
+    "xg": {
+     "v": 0.7018440549973481,
+     "rank": 27,
+     "of": 30,
+     "pct": 10.0
+    },
+    "shots_ag": {
+     "v": 11.8,
+     "rank": 17,
+     "of": 30,
+     "pct": 45.0
+    },
+    "sot_ag": {
+     "v": 4.15,
+     "rank": 15,
+     "of": 30,
+     "pct": 52.0
+    },
+    "crosses_ag": {
+     "v": 18.3,
+     "rank": 15,
+     "of": 30,
+     "pct": 52.0
+    },
+    "corners_ag": {
+     "v": 5.45,
+     "rank": 2,
+     "of": 30,
+     "pct": 97.0
+    },
+    "goals_ag": {
+     "v": 1.55,
+     "rank": 6,
+     "of": 30,
+     "pct": 83.0
+    },
+    "xg_ag": {
+     "v": 1.2270029648459,
+     "rank": 16,
+     "of": 30,
+     "pct": 48.0
+    },
+    "ppda": {
+     "v": 14.666813944088613,
+     "rank": 7,
+     "of": 30,
+     "pct": 79.0
+    },
+    "conv": {
+     "v": 10.752039627039627,
+     "rank": 15,
+     "of": 30,
+     "pct": 52.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 0.9,
+     "gf": 1.05,
+     "ga": 1.55,
+     "shot_diff": -2.3
+    },
+    "last5": {
+     "ppg": 0.6,
+     "gf": 0.6,
+     "ga": 1.4,
+     "shot_diff": -3.4,
+     "results": [
+      "L",
+      "D",
+      "D",
+      "D",
+      "L"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-14",
+     "opp": "Demo Club 23",
+     "score": "0-3",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-21",
+     "opp": "Demo Club 02",
+     "score": "0-0",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-28",
+     "opp": "Demo Club 24",
+     "score": "1-1",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-06",
+     "opp": "Demo Club 13",
+     "score": "2-2",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-12",
+     "opp": "Demo Club 12",
+     "score": "0-1",
+     "venue": "away"
+    }
+   ]
+  },
+  "Demo Club 20": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 50.45,
+     "rank": 14,
+     "of": 30,
+     "pct": 55.0
+    },
+    "passes": {
+     "v": 517.15,
+     "rank": 14,
+     "of": 30,
+     "pct": 55.0
+    },
+    "pass_pct": {
+     "v": 81.27000000000001,
+     "rank": 22,
+     "of": 30,
+     "pct": 28.0
+    },
+    "long_pct": {
+     "v": 11.471585348142337,
+     "rank": 21,
+     "of": 30,
+     "pct": 31.0
+    },
+    "shots": {
+     "v": 9.0,
+     "rank": 27,
+     "of": 30,
+     "pct": 10.0
+    },
+    "sot": {
+     "v": 3.15,
+     "rank": 28,
+     "of": 30,
+     "pct": 7.0
+    },
+    "crosses": {
+     "v": 14.75,
+     "rank": 23,
+     "of": 30,
+     "pct": 24.0
+    },
+    "cross_pct": {
+     "v": 28.665398735251678,
+     "rank": 6,
+     "of": 30,
+     "pct": 83.0
+    },
+    "corners": {
+     "v": 3.9,
+     "rank": 26,
+     "of": 30,
+     "pct": 14.0
+    },
+    "tackles": {
+     "v": 16.25,
+     "rank": 18,
+     "of": 30,
+     "pct": 41.0
+    },
+    "interceptions": {
+     "v": 9.2,
+     "rank": 12,
+     "of": 30,
+     "pct": 62.0
+    },
+    "fouls": {
+     "v": 11.25,
+     "rank": 9,
+     "of": 30,
+     "pct": 72.0
+    },
+    "goals": {
+     "v": 1.25,
+     "rank": 19,
+     "of": 30,
+     "pct": 38.0
+    },
+    "xg": {
+     "v": 0.8800765407740083,
+     "rank": 19,
+     "of": 30,
+     "pct": 38.0
+    },
+    "shots_ag": {
+     "v": 10.25,
+     "rank": 23,
+     "of": 30,
+     "pct": 24.0
+    },
+    "sot_ag": {
+     "v": 3.7,
+     "rank": 22,
+     "of": 30,
+     "pct": 28.0
+    },
+    "crosses_ag": {
+     "v": 19.15,
+     "rank": 5,
+     "of": 30,
+     "pct": 86.0
+    },
+    "corners_ag": {
+     "v": 4.7,
+     "rank": 20,
+     "of": 30,
+     "pct": 34.0
+    },
+    "goals_ag": {
+     "v": 0.8,
+     "rank": 30,
+     "of": 30,
+     "pct": 0.0
+    },
+    "xg_ag": {
+     "v": 0.9901748309121106,
+     "rank": 27,
+     "of": 30,
+     "pct": 10.0
+    },
+    "ppda": {
+     "v": 13.91912363969457,
+     "rank": 16,
+     "of": 30,
+     "pct": 48.0
+    },
+    "conv": {
+     "v": 13.30988455988456,
+     "rank": 6,
+     "of": 30,
+     "pct": 83.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.95,
+     "gf": 1.25,
+     "ga": 0.8,
+     "shot_diff": -1.25
+    },
+    "last5": {
+     "ppg": 1.6,
+     "gf": 1.6,
+     "ga": 1.2,
+     "shot_diff": -1.2,
+     "results": [
+      "W",
+      "L",
+      "D",
+      "D",
+      "W"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-14",
+     "opp": "Demo Club 14",
+     "score": "2-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-22",
+     "opp": "Demo Club 27",
+     "score": "1-2",
+     "venue": "away"
+    },
+    {
+     "date": "2026-06-28",
+     "opp": "Demo Club 07",
+     "score": "1-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-05",
+     "opp": "Demo Club 25",
+     "score": "1-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-12",
+     "opp": "Demo Club 07",
+     "score": "3-1",
+     "venue": "away"
+    }
+   ]
+  },
+  "Demo Club 18": {
+   "games": 20,
+   "metrics": {
+    "poss": {
+     "v": 44.285000000000004,
+     "rank": 23,
+     "of": 30,
+     "pct": 24.0
+    },
+    "passes": {
+     "v": 485.65,
+     "rank": 24,
+     "of": 30,
+     "pct": 21.0
+    },
+    "pass_pct": {
+     "v": 81.13,
+     "rank": 24,
+     "of": 30,
+     "pct": 21.0
+    },
+    "long_pct": {
+     "v": 19.85744802144939,
+     "rank": 4,
+     "of": 30,
+     "pct": 90.0
+    },
+    "shots": {
+     "v": 10.65,
+     "rank": 18,
+     "of": 30,
+     "pct": 41.0
+    },
+    "sot": {
+     "v": 3.8,
+     "rank": 17,
+     "of": 30,
+     "pct": 45.0
+    },
+    "crosses": {
+     "v": 22.9,
+     "rank": 5,
+     "of": 30,
+     "pct": 86.0
+    },
+    "cross_pct": {
+     "v": 27.646443733400254,
+     "rank": 15,
+     "of": 30,
+     "pct": 52.0
+    },
+    "corners": {
+     "v": 4.95,
+     "rank": 15,
+     "of": 30,
+     "pct": 52.0
+    },
+    "tackles": {
+     "v": 17.95,
+     "rank": 9,
+     "of": 30,
+     "pct": 72.0
+    },
+    "interceptions": {
+     "v": 9.0,
+     "rank": 19,
+     "of": 30,
+     "pct": 38.0
+    },
+    "fouls": {
+     "v": 11.15,
+     "rank": 15,
+     "of": 30,
+     "pct": 52.0
+    },
+    "goals": {
+     "v": 1.05,
+     "rank": 26,
+     "of": 30,
+     "pct": 14.0
+    },
+    "xg": {
+     "v": 0.8807222155282591,
+     "rank": 18,
+     "of": 30,
+     "pct": 41.0
+    },
+    "shots_ag": {
+     "v": 9.95,
+     "rank": 24,
+     "of": 30,
+     "pct": 21.0
+    },
+    "sot_ag": {
+     "v": 3.55,
+     "rank": 23,
+     "of": 30,
+     "pct": 24.0
+    },
+    "crosses_ag": {
+     "v": 18.8,
+     "rank": 8,
+     "of": 30,
+     "pct": 76.0
+    },
+    "corners_ag": {
+     "v": 5.3,
+     "rank": 5,
+     "of": 30,
+     "pct": 86.0
+    },
+    "goals_ag": {
+     "v": 1.2,
+     "rank": 19,
+     "of": 30,
+     "pct": 38.0
+    },
+    "xg_ag": {
+     "v": 0.9734022261809141,
+     "rank": 29,
+     "of": 30,
+     "pct": 3.0
+    },
+    "ppda": {
+     "v": 14.018913756526507,
+     "rank": 12,
+     "of": 30,
+     "pct": 62.0
+    },
+    "conv": {
+     "v": 8.687307790248967,
+     "rank": 29,
+     "of": 30,
+     "pct": 3.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.25,
+     "gf": 1.05,
+     "ga": 1.2,
+     "shot_diff": 0.7
+    },
+    "last5": {
+     "ppg": 1.4,
+     "gf": 1.2,
+     "ga": 1.2,
+     "shot_diff": 1.8,
+     "results": [
+      "L",
+      "W",
+      "W",
+      "L",
+      "D"
+     ]
+    }
+   },
+   "recent": [
+    {
+     "date": "2026-06-14",
+     "opp": "Demo Club 27",
+     "score": "0-2",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-21",
+     "opp": "Demo Club 03",
+     "score": "2-1",
+     "venue": "home"
+    },
+    {
+     "date": "2026-06-28",
+     "opp": "Demo Club 22",
+     "score": "2-0",
+     "venue": "home"
+    },
+    {
+     "date": "2026-07-05",
+     "opp": "Demo Club 27",
+     "score": "0-1",
+     "venue": "away"
+    },
+    {
+     "date": "2026-07-12",
+     "opp": "Demo Club 09",
+     "score": "2-2",
+     "venue": "home"
+    }
+   ]
+  }
+ }
+}

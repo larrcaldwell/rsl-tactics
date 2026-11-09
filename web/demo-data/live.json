@@ -1,0 +1,91 @@
+{
+ "match": {
+  "id": "demo1",
+  "date": "2026-11-11T04:07:27+00:00",
+  "home": "Real Salt Lake",
+  "away": "Demo United",
+  "state": "pre"
+ },
+ "snapshot": {
+  "match_id": "demo1",
+  "source": "fotmob",
+  "source_role": "primary",
+  "fetched_at": "2026-11-09T04:07:27+00:00",
+  "status": "ht",
+  "minute": 45,
+  "period": null,
+  "teams": {
+   "home": {
+    "name": "Real Salt Lake",
+    "is_rsl": true,
+    "score": 0
+   },
+   "away": {
+    "name": "Demo United",
+    "is_rsl": false,
+    "score": 1
+   }
+  },
+  "stats": {
+   "home": {
+    "possession_pct": 63,
+    "shots": 9,
+    "shots_on_target": 2,
+    "xg": 0.62,
+    "passes": 290,
+    "pass_accuracy_pct": 85.8,
+    "long_balls": 22,
+    "crosses": 13,
+    "crosses_completed": 2,
+    "corners": 1,
+    "tackles": 6,
+    "interceptions": 10,
+    "fouls": 13,
+    "saves": 0,
+    "blocked_shots": 3,
+    "clearances": 20,
+    "attack_side": {
+     "left_pct": 19,
+     "center_pct": 26,
+     "right_pct": 55
+    },
+    "final_third_entries": null,
+    "box_touches": null
+   },
+   "away": {
+    "possession_pct": 37,
+    "shots": 4,
+    "shots_on_target": 2,
+    "xg": 0.9,
+    "passes": 170,
+    "pass_accuracy_pct": 76.0,
+    "long_balls": 30,
+    "crosses": 3,
+    "crosses_completed": 1,
+    "corners": 6,
+    "tackles": 11,
+    "interceptions": 6,
+    "fouls": 6,
+    "saves": 0,
+    "blocked_shots": 3,
+    "clearances": 20,
+    "attack_side": {
+     "left_pct": 48,
+     "center_pct": 30,
+     "right_pct": 22
+    },
+    "final_third_entries": null,
+    "box_touches": null
+   }
+  },
+  "shots": [],
+  "events": []
+ },
+ "chain": [
+  {
+   "source": "fotmob",
+   "ok": true
+  }
+ ],
+ "updated_at": "2026-11-09T04:07:27+00:00"
+}
