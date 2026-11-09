@@ -1,0 +1,46 @@
+name: live
+# Every 10 minutes the job starts and polls up to 4 times, 2.5 minutes apart, so coverage is about every 2.5 minutes.
+# Outside an RSL match (kickoff -15 min to +135 min) live.py exits with code 3 and the job ends in seconds.
+# GitHub cron can run late. The app shows the "last updated" time so you can see it.
+on:
+  schedule: [{ cron: '*/10 * * * *' }]
+  workflow_dispatch:
+    inputs:
+      match_id: { description: 'ESPN event id to poll (testing)', required: false }
+      force_fail: { description: 'Simulate source outage, e.g. fotmob or fotmob,espn', required: false }
+permissions: { contents: write }
+concurrency: { group: data-writes, cancel-in-progress: false }
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 14
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12', cache: pip }
+      - run: pip install -r requirements.txt
+      - name: Poll loop
+        id: loop
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          FORCE_FAIL: ${{ inputs.force_fail }}
+        run: |
+          git config user.name "rsl-bot"; git config user.email "rsl-bot@users.noreply.github.com"
+          ARGS=""; [ -n "${{ inputs.match_id }}" ] && ARGS="--match-id ${{ inputs.match_id }}"
+          PUSHED=false
+          for i in 1 2 3 4; do
+            set +e; python scripts/live.py $ARGS; RC=$?; set -e
+            [ $RC -eq 3 ] && break
+            git add data
+            if ! git diff --cached --quiet; then
+              git commit -m "live poll" && git pull --rebase && git push && PUSHED=true
+            fi
+            [ $i -lt 4 ] && sleep 150
+          done
+          echo "pushed=$PUSHED" >> $GITHUB_OUTPUT
+    outputs: { pushed: '${{ steps.loop.outputs.pushed }}' }
+  deploy:
+    needs: poll
+    if: needs.poll.outputs.pushed == 'true'
+    permissions: { contents: read, pages: write, id-token: write }
+    uses: ./.github/workflows/pages.yml
