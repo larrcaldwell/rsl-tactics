@@ -1,0 +1,20 @@
+name: daily-schedule
+on:
+  schedule: [{ cron: '41 10 * * *' }]
+  workflow_dispatch:
+permissions: { contents: write }
+concurrency: { group: data-writes, cancel-in-progress: false }
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12', cache: pip }
+      - run: pip install -r requirements.txt
+      - run: python scripts/schedule.py
+      - name: Commit data
+        run: |
+          git config user.name "rsl-bot"; git config user.email "rsl-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || (git commit -m "schedule" && git pull --rebase && git push)
