@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T05:57:50+00:00",
+ "generated_at": "2026-11-09T06:03:08+00:00",
  "results": [
   {
    "source": "asa: teams + xgoals",
@@ -9,17 +9,17 @@
   {
    "source": "espn: season scoreboard",
    "ok": true,
-   "detail": "0 events, 0 completed, 0 tagged playoff, season slugs seen: []"
+   "detail": "537 events, 511 completed, 26 tagged playoff, season slugs seen: ['eastern-conference-playoffs---round-one', 'eastern-conference-playoffs---wild-card', 'regular-season', 'western-conference-playoffs---round-one', 'western-conference-playoffs---wild-card']"
   },
   {
    "source": "espn: match summary + stat names",
-   "ok": false,
-   "detail": "RuntimeError: no completed events"
+   "ok": true,
+   "detail": "Seattle Sounders FC v LAFC: parsed 15 stats; missing none; raw stat names saved"
   },
   {
    "source": "fotmob: match details",
    "ok": false,
-   "detail": "IndexError: list index out of range"
+   "detail": "RuntimeError: HTTP 404 for https://www.fotmob.com/api/matches"
   },
   {
    "source": "api-football: status",
