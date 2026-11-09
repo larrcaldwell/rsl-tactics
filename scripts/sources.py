@@ -95,9 +95,8 @@ def espn_summary(event_id):
     return espn_parse_summary(http_json(f"{ESPN}/summary", params={"event": event_id}), event_id)
 
 
-def espn_scoreboard(start, end):
-    """Return list of {id,date,home,away,state} for a date range (YYYYMMDD)."""
-    j = http_json(f"{ESPN}/scoreboard", params={"dates": f"{start}-{end}", "limit": 500})
+def espn_parse_scoreboard(j):
+    """Normalize one ESPN scoreboard payload to a list of {id,date,home,away,state,...}."""
     out = []
     for ev in j.get("events", []):
         comp = (ev.get("competitions") or [{}])[0]
@@ -114,18 +113,46 @@ def espn_scoreboard(start, end):
     return out
 
 
-def espn_season_events(year=SEASON):
-    """All events in a season, fetched month by month to stay under feed limits."""
-    out, seen = [], set()
-    for m in range(1, 13):
-        start = dt.date(year, m, 1)
-        end = (dt.date(year + (m == 12), (m % 12) + 1, 1) - dt.timedelta(days=1))
+def espn_scoreboard(day=None):
+    """Events for one day (YYYYMMDD) or, with no day, the default current scoreboard.
+    ESPN soccer rejects a limit param and returns nothing for date ranges, so it is one day at a time."""
+    j = http_json(f"{ESPN}/scoreboard", params={"dates": day} if day else None)
+    return espn_parse_scoreboard(j), j
+
+
+def espn_matchdays():
+    """Every matchday in the league calendar (YYYYMMDD), playoffs included. Falls back to a plain date sweep."""
+    try:
+        _, j = espn_scoreboard()
+        cal = (j.get("leagues") or [{}])[0].get("calendar") or []
+        days = sorted({str(c)[:10].replace("-", "") for c in cal if isinstance(c, str)})
+        if days:
+            return days
+    except Exception as ex:
+        log_health("espn", False, f"calendar: {ex}")
+    d, end, out = dt.date(SEASON, 2, 1), dt.date(SEASON, 12, 15), []
+    while d <= end:
+        out.append(d.strftime("%Y%m%d")); d += dt.timedelta(days=1)
+    return out
+
+
+def espn_season_events(year=SEASON, only_days=None):
+    """All events in a season: one scoreboard call per matchday, 8 at a time.
+    only_days limits the pull to a set of YYYYMMDD strings (used to skip days already cached)."""
+    from concurrent.futures import ThreadPoolExecutor
+    days = [d for d in espn_matchdays() if d.startswith(str(year)) and (only_days is None or d in only_days)]
+    def one(d):
         try:
-            for e in espn_scoreboard(start.strftime("%Y%m%d"), end.strftime("%Y%m%d")):
+            return espn_scoreboard(d)[0]
+        except Exception as ex:
+            log_health("espn", False, f"scoreboard {d}: {ex}")
+            return []
+    out, seen = [], set()
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        for evs in pool.map(one, days):
+            for e in evs:
                 if e["id"] not in seen:
                     seen.add(e["id"]); out.append(e)
-        except Exception as ex:
-            log_health("espn", False, f"scoreboard {start}: {ex}")
     return out
 
 
