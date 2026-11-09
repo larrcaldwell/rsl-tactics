@@ -1,0 +1,30 @@
+{
+ "generated_at": "2026-11-09T05:57:50+00:00",
+ "results": [
+  {
+   "source": "asa: teams + xgoals",
+   "ok": true,
+   "detail": "31 teams, xG rows for 30 teams"
+  },
+  {
+   "source": "espn: season scoreboard",
+   "ok": true,
+   "detail": "0 events, 0 completed, 0 tagged playoff, season slugs seen: []"
+  },
+  {
+   "source": "espn: match summary + stat names",
+   "ok": false,
+   "detail": "RuntimeError: no completed events"
+  },
+  {
+   "source": "fotmob: match details",
+   "ok": false,
+   "detail": "IndexError: list index out of range"
+  },
+  {
+   "source": "api-football: status",
+   "ok": false,
+   "detail": "RuntimeError: API_FOOTBALL_KEY secret not set (optional backup)"
+  }
+ ]
+}
