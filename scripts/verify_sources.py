@@ -7,6 +7,14 @@ from common import *
 import sources as S
 
 report = []
+_EV = []
+
+
+def events():
+    """Fetch the season once and share it across probes."""
+    if not _EV:
+        _EV.extend(S.espn_season_events())
+    return _EV
 
 
 def probe(name, fn):
@@ -25,7 +33,7 @@ def p_asa():
 
 
 def p_espn_board():
-    ev = S.espn_season_events()
+    ev = events()
     post = [e for e in ev if e["state"] == "post"]
     po = [e for e in ev if e.get("stage") == "playoff"]
     slugs = sorted({e.get("season_slug") or "?" for e in ev})
@@ -33,7 +41,7 @@ def p_espn_board():
 
 
 def p_espn_summary():
-    ev = [e for e in S.espn_season_events() if e["state"] == "post"]
+    ev = [e for e in events() if e["state"] == "post"]
     if not ev:
         raise RuntimeError("no completed events")
     e = ev[-1]
@@ -47,7 +55,7 @@ def p_espn_summary():
 
 
 def p_fotmob():
-    ev = [e for e in S.espn_season_events() if e["state"] == "post"]
+    ev = [e for e in events() if e["state"] == "post"]
     e = ev[-1]
     s = S.fotmob_summary(e["home"], e["away"], e["date"])
     got = [k for k, v in s["stats"]["home"].items() if v is not None and k != "attack_side"]
