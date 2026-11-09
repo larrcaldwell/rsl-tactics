@@ -2,13 +2,13 @@
  "sources": {
   "asa": {
    "ok": true,
-   "last_ok": "2026-11-09T06:07:07+00:00",
+   "last_ok": "2026-11-09T19:46:39+00:00",
    "last_fail": null,
    "detail": "30 teams"
   },
   "espn": {
    "ok": true,
-   "last_ok": "2026-11-09T06:04:13+00:00",
+   "last_ok": "2026-11-09T19:46:39+00:00",
    "last_fail": "2026-11-09T05:57:50+00:00",
    "detail": "537 events"
   },
@@ -319,7 +319,25 @@
    "source": "asa",
    "ok": true,
    "detail": "30 teams"
+  },
+  {
+   "t": "2026-11-09T19:46:36+00:00",
+   "source": "espn",
+   "ok": true,
+   "detail": "schedule 35 RSL matches"
+  },
+  {
+   "t": "2026-11-09T19:46:39+00:00",
+   "source": "espn",
+   "ok": true,
+   "detail": "537 events"
+  },
+  {
+   "t": "2026-11-09T19:46:39+00:00",
+   "source": "asa",
+   "ok": true,
+   "detail": "30 teams"
   }
  ],
- "updated_at": "2026-11-09T06:07:07+00:00"
+ "updated_at": "2026-11-09T19:46:39+00:00"
 }
