@@ -1,0 +1,61 @@
+{
+ "id": "761943",
+ "date": "2026-11-08T00:00Z",
+ "stage": "regular",
+ "home": "FC Dallas",
+ "away": "Colorado Rapids",
+ "hs": 3,
+ "as": 1,
+ "stats": {
+  "home": {
+   "possession_pct": 50.8,
+   "shots": 27.0,
+   "shots_on_target": 10.0,
+   "xg": null,
+   "passes": 444.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 60.0,
+   "crosses": 22.0,
+   "crosses_completed": 7.0,
+   "corners": 6.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 11.0,
+   "interceptions": 12.0,
+   "fouls": 11.0,
+   "saves": 0.0,
+   "blocked_shots": 11.0,
+   "clearances": 11.0
+  },
+  "away": {
+   "possession_pct": 49.2,
+   "shots": 6.0,
+   "shots_on_target": 1.0,
+   "xg": null,
+   "passes": 438.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 37.0,
+   "crosses": 14.0,
+   "crosses_completed": 5.0,
+   "corners": 4.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 14.0,
+   "interceptions": 11.0,
+   "fouls": 13.0,
+   "saves": 7.0,
+   "blocked_shots": 2.0,
+   "clearances": 38.0
+  }
+ }
+}

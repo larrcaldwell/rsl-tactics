@@ -1,0 +1,61 @@
+{
+ "id": "761635",
+ "date": "2026-05-16T23:30Z",
+ "stage": "regular",
+ "home": "New England Revolution",
+ "away": "Minnesota United FC",
+ "hs": 2,
+ "as": 1,
+ "stats": {
+  "home": {
+   "possession_pct": 45.6,
+   "shots": 11.0,
+   "shots_on_target": 5.0,
+   "xg": null,
+   "passes": 374.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 56.0,
+   "crosses": 13.0,
+   "crosses_completed": 5.0,
+   "corners": 8.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 12.0,
+   "interceptions": 10.0,
+   "fouls": 11.0,
+   "saves": 5.0,
+   "blocked_shots": 3.0,
+   "clearances": 36.0
+  },
+  "away": {
+   "possession_pct": 54.4,
+   "shots": 12.0,
+   "shots_on_target": 6.0,
+   "xg": null,
+   "passes": 436.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 42.0,
+   "crosses": 31.0,
+   "crosses_completed": 7.0,
+   "corners": 11.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 12.0,
+   "interceptions": 6.0,
+   "fouls": 12.0,
+   "saves": 3.0,
+   "blocked_shots": 2.0,
+   "clearances": 16.0
+  }
+ }
+}

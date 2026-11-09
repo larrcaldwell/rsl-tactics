@@ -1,0 +1,61 @@
+{
+ "id": "761521",
+ "date": "2026-04-04T23:30Z",
+ "stage": "regular",
+ "home": "Atlanta United FC",
+ "away": "Columbus Crew",
+ "hs": 1,
+ "as": 3,
+ "stats": {
+  "home": {
+   "possession_pct": 57.6,
+   "shots": 7.0,
+   "shots_on_target": 4.0,
+   "xg": null,
+   "passes": 599.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 44.0,
+   "crosses": 12.0,
+   "crosses_completed": 0.0,
+   "corners": 4.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 18.0,
+   "interceptions": 8.0,
+   "fouls": 9.0,
+   "saves": 4.0,
+   "blocked_shots": 0.0,
+   "clearances": 23.0
+  },
+  "away": {
+   "possession_pct": 42.4,
+   "shots": 16.0,
+   "shots_on_target": 7.0,
+   "xg": null,
+   "passes": 426.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 41.0,
+   "crosses": 22.0,
+   "crosses_completed": 5.0,
+   "corners": 8.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 12.0,
+   "interceptions": 11.0,
+   "fouls": 9.0,
+   "saves": 4.0,
+   "blocked_shots": 2.0,
+   "clearances": 17.0
+  }
+ }
+}

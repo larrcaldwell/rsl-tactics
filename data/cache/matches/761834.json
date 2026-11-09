@@ -1,0 +1,61 @@
+{
+ "id": "761834",
+ "date": "2026-09-26T23:30Z",
+ "stage": "regular",
+ "home": "Philadelphia Union",
+ "away": "Orlando City SC",
+ "hs": 4,
+ "as": 2,
+ "stats": {
+  "home": {
+   "possession_pct": 35.8,
+   "shots": 20.0,
+   "shots_on_target": 9.0,
+   "xg": null,
+   "passes": 310.0,
+   "pass_accuracy_pct": 70.0,
+   "long_balls": 59.0,
+   "crosses": 21.0,
+   "crosses_completed": 5.0,
+   "corners": 7.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 23.0,
+   "interceptions": 20.0,
+   "fouls": 19.0,
+   "saves": 0.0,
+   "blocked_shots": 7.0,
+   "clearances": 26.0
+  },
+  "away": {
+   "possession_pct": 64.2,
+   "shots": 11.0,
+   "shots_on_target": 2.0,
+   "xg": null,
+   "passes": 573.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 63.0,
+   "crosses": 16.0,
+   "crosses_completed": 3.0,
+   "corners": 7.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 21.0,
+   "interceptions": 7.0,
+   "fouls": 13.0,
+   "saves": 5.0,
+   "blocked_shots": 4.0,
+   "clearances": 22.0
+  }
+ }
+}

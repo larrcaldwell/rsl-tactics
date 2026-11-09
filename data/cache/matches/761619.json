@@ -1,0 +1,61 @@
+{
+ "id": "761619",
+ "date": "2026-05-13T23:30Z",
+ "stage": "regular",
+ "home": "FC Cincinnati",
+ "away": "Inter Miami CF",
+ "hs": 3,
+ "as": 5,
+ "stats": {
+  "home": {
+   "possession_pct": 46.5,
+   "shots": 10.0,
+   "shots_on_target": 3.0,
+   "xg": null,
+   "passes": 456.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 47.0,
+   "crosses": 9.0,
+   "crosses_completed": 2.0,
+   "corners": 1.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 14.0,
+   "interceptions": 15.0,
+   "fouls": 19.0,
+   "saves": 1.0,
+   "blocked_shots": 3.0,
+   "clearances": 30.0
+  },
+  "away": {
+   "possession_pct": 53.5,
+   "shots": 17.0,
+   "shots_on_target": 5.0,
+   "xg": null,
+   "passes": 514.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 54.0,
+   "crosses": 19.0,
+   "crosses_completed": 4.0,
+   "corners": 8.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 32.0,
+   "interceptions": 13.0,
+   "fouls": 13.0,
+   "saves": 0.0,
+   "blocked_shots": 5.0,
+   "clearances": 11.0
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "id": "761593",
+ "date": "2026-05-03T00:30Z",
+ "stage": "regular",
+ "home": "Chicago Fire FC",
+ "away": "FC Cincinnati",
+ "hs": 2,
+ "as": 3,
+ "stats": {
+  "home": {
+   "possession_pct": 55.5,
+   "shots": 33.0,
+   "shots_on_target": 10.0,
+   "xg": null,
+   "passes": 506.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 35.0,
+   "crosses": 27.0,
+   "crosses_completed": 10.0,
+   "corners": 10.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 17.0,
+   "interceptions": 5.0,
+   "fouls": 12.0,
+   "saves": 1.0,
+   "blocked_shots": 7.0,
+   "clearances": 13.0
+  },
+  "away": {
+   "possession_pct": 44.5,
+   "shots": 10.0,
+   "shots_on_target": 4.0,
+   "xg": null,
+   "passes": 419.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 57.0,
+   "crosses": 5.0,
+   "crosses_completed": 0.0,
+   "corners": 1.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 9.0,
+   "interceptions": 16.0,
+   "fouls": 5.0,
+   "saves": 8.0,
+   "blocked_shots": 4.0,
+   "clearances": 35.0
+  }
+ }
+}

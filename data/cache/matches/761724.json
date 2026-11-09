@@ -1,0 +1,61 @@
+{
+ "id": "761724",
+ "date": "2026-08-17T02:30Z",
+ "stage": "regular",
+ "home": "Seattle Sounders FC",
+ "away": "Vancouver Whitecaps",
+ "hs": 0,
+ "as": 2,
+ "stats": {
+  "home": {
+   "possession_pct": 43.0,
+   "shots": 5.0,
+   "shots_on_target": 0.0,
+   "xg": null,
+   "passes": 412.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 45.0,
+   "crosses": 4.0,
+   "crosses_completed": null,
+   "corners": 1.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 17.0,
+   "interceptions": 10.0,
+   "fouls": 16.0,
+   "saves": 4.0,
+   "blocked_shots": 2.0,
+   "clearances": 30.0
+  },
+  "away": {
+   "possession_pct": 57.0,
+   "shots": 19.0,
+   "shots_on_target": 6.0,
+   "xg": null,
+   "passes": 539.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 54.0,
+   "crosses": 21.0,
+   "crosses_completed": 6.0,
+   "corners": 8.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 19.0,
+   "interceptions": 12.0,
+   "fouls": 11.0,
+   "saves": 0.0,
+   "blocked_shots": 8.0,
+   "clearances": 17.0
+  }
+ }
+}

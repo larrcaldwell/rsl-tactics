@@ -1,0 +1,61 @@
+{
+ "id": "761452",
+ "date": "2026-02-23T00:00Z",
+ "stage": "regular",
+ "home": "LA Galaxy",
+ "away": "New York City FC",
+ "hs": 1,
+ "as": 1,
+ "stats": {
+  "home": {
+   "possession_pct": 35.5,
+   "shots": 8.0,
+   "shots_on_target": 6.0,
+   "xg": null,
+   "passes": 348.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 44.0,
+   "crosses": 7.0,
+   "crosses_completed": 3.0,
+   "corners": 1.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 18.0,
+   "interceptions": 13.0,
+   "fouls": 15.0,
+   "saves": 0.0,
+   "blocked_shots": 0.0,
+   "clearances": 24.0
+  },
+  "away": {
+   "possession_pct": 64.5,
+   "shots": 10.0,
+   "shots_on_target": 1.0,
+   "xg": null,
+   "passes": 620.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 34.0,
+   "crosses": 19.0,
+   "crosses_completed": 2.0,
+   "corners": 2.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 16.0,
+   "interceptions": 7.0,
+   "fouls": 16.0,
+   "saves": 5.0,
+   "blocked_shots": 2.0,
+   "clearances": 11.0
+  }
+ }
+}

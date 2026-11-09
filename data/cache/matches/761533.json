@@ -1,0 +1,61 @@
+{
+ "id": "761533",
+ "date": "2026-04-11T23:30Z",
+ "stage": "regular",
+ "home": "Inter Miami CF",
+ "away": "Red Bull New York",
+ "hs": 2,
+ "as": 2,
+ "stats": {
+  "home": {
+   "possession_pct": 55.2,
+   "shots": 16.0,
+   "shots_on_target": 7.0,
+   "xg": null,
+   "passes": 516.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 67.0,
+   "crosses": 19.0,
+   "crosses_completed": 8.0,
+   "corners": 12.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 16.0,
+   "interceptions": 12.0,
+   "fouls": 8.0,
+   "saves": 0.0,
+   "blocked_shots": 2.0,
+   "clearances": 16.0
+  },
+  "away": {
+   "possession_pct": 44.8,
+   "shots": 5.0,
+   "shots_on_target": 2.0,
+   "xg": null,
+   "passes": 426.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 43.0,
+   "crosses": 5.0,
+   "crosses_completed": 2.0,
+   "corners": 3.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 12.0,
+   "interceptions": 14.0,
+   "fouls": 14.0,
+   "saves": 5.0,
+   "blocked_shots": 1.0,
+   "clearances": 18.0
+  }
+ }
+}

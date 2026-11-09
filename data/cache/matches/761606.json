@@ -1,0 +1,61 @@
+{
+ "id": "761606",
+ "date": "2026-05-10T01:30Z",
+ "stage": "regular",
+ "home": "Colorado Rapids",
+ "away": "St. Louis CITY SC",
+ "hs": 0,
+ "as": 1,
+ "stats": {
+  "home": {
+   "possession_pct": 55.9,
+   "shots": 10.0,
+   "shots_on_target": 2.0,
+   "xg": null,
+   "passes": 425.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 42.0,
+   "crosses": 28.0,
+   "crosses_completed": 7.0,
+   "corners": 11.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 9.0,
+   "interceptions": 8.0,
+   "fouls": 19.0,
+   "saves": 0.0,
+   "blocked_shots": 3.0,
+   "clearances": 13.0
+  },
+  "away": {
+   "possession_pct": 44.1,
+   "shots": 10.0,
+   "shots_on_target": 1.0,
+   "xg": null,
+   "passes": 355.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 57.0,
+   "crosses": 5.0,
+   "crosses_completed": 0.0,
+   "corners": 1.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 19.0,
+   "interceptions": 15.0,
+   "fouls": 18.0,
+   "saves": 2.0,
+   "blocked_shots": 3.0,
+   "clearances": 29.0
+  }
+ }
+}

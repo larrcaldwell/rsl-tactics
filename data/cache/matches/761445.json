@@ -1,0 +1,61 @@
+{
+ "id": "761445",
+ "date": "2026-02-22T01:30Z",
+ "stage": "regular",
+ "home": "Houston Dynamo FC",
+ "away": "Chicago Fire FC",
+ "hs": 2,
+ "as": 1,
+ "stats": {
+  "home": {
+   "possession_pct": 42.5,
+   "shots": 10.0,
+   "shots_on_target": 4.0,
+   "xg": null,
+   "passes": 376.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 51.0,
+   "crosses": 15.0,
+   "crosses_completed": 2.0,
+   "corners": 3.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 15.0,
+   "interceptions": 14.0,
+   "fouls": 11.0,
+   "saves": 2.0,
+   "blocked_shots": 2.0,
+   "clearances": 21.0
+  },
+  "away": {
+   "possession_pct": 57.5,
+   "shots": 6.0,
+   "shots_on_target": 3.0,
+   "xg": null,
+   "passes": 515.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 47.0,
+   "crosses": 13.0,
+   "crosses_completed": 3.0,
+   "corners": 5.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 9.0,
+   "interceptions": 7.0,
+   "fouls": 20.0,
+   "saves": 2.0,
+   "blocked_shots": 1.0,
+   "clearances": 21.0
+  }
+ }
+}

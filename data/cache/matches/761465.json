@@ -1,0 +1,61 @@
+{
+ "id": "761465",
+ "date": "2026-03-01T19:30Z",
+ "stage": "regular",
+ "home": "Austin FC",
+ "away": "D.C. United",
+ "hs": 1,
+ "as": 0,
+ "stats": {
+  "home": {
+   "possession_pct": 54.4,
+   "shots": 18.0,
+   "shots_on_target": 9.0,
+   "xg": null,
+   "passes": 358.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 37.0,
+   "crosses": 19.0,
+   "crosses_completed": 6.0,
+   "corners": 10.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 14.0,
+   "interceptions": 4.0,
+   "fouls": 14.0,
+   "saves": 2.0,
+   "blocked_shots": 6.0,
+   "clearances": 24.0
+  },
+  "away": {
+   "possession_pct": 45.6,
+   "shots": 7.0,
+   "shots_on_target": 2.0,
+   "xg": null,
+   "passes": 297.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 42.0,
+   "crosses": 18.0,
+   "crosses_completed": 2.0,
+   "corners": 4.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 14.0,
+   "interceptions": 4.0,
+   "fouls": 18.0,
+   "saves": 7.0,
+   "blocked_shots": 1.0,
+   "clearances": 25.0
+  }
+ }
+}

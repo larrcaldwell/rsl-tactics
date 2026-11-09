@@ -1,0 +1,61 @@
+{
+ "id": "761749",
+ "date": "2026-08-23T01:30Z",
+ "stage": "regular",
+ "home": "Vancouver Whitecaps",
+ "away": "FC Dallas",
+ "hs": 5,
+ "as": 0,
+ "stats": {
+  "home": {
+   "possession_pct": 64.0,
+   "shots": 17.0,
+   "shots_on_target": 10.0,
+   "xg": null,
+   "passes": 665.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 74.0,
+   "crosses": 21.0,
+   "crosses_completed": 4.0,
+   "corners": 9.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 29.0,
+   "interceptions": 11.0,
+   "fouls": 12.0,
+   "saves": 1.0,
+   "blocked_shots": 2.0,
+   "clearances": 14.0
+  },
+  "away": {
+   "possession_pct": 36.0,
+   "shots": 5.0,
+   "shots_on_target": 1.0,
+   "xg": null,
+   "passes": 369.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 46.0,
+   "crosses": 11.0,
+   "crosses_completed": 2.0,
+   "corners": 3.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 17.0,
+   "interceptions": 14.0,
+   "fouls": 9.0,
+   "saves": 5.0,
+   "blocked_shots": 2.0,
+   "clearances": 26.0
+  }
+ }
+}

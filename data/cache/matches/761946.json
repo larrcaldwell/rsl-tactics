@@ -1,0 +1,61 @@
+{
+ "id": "761946",
+ "date": "2026-11-08T00:00Z",
+ "stage": "regular",
+ "home": "Real Salt Lake",
+ "away": "LA Galaxy",
+ "hs": 2,
+ "as": 1,
+ "stats": {
+  "home": {
+   "possession_pct": 41.3,
+   "shots": 20.0,
+   "shots_on_target": 9.0,
+   "xg": null,
+   "passes": 373.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 51.0,
+   "crosses": 12.0,
+   "crosses_completed": 5.0,
+   "corners": 6.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 12.0,
+   "interceptions": 15.0,
+   "fouls": 12.0,
+   "saves": 0.0,
+   "blocked_shots": 3.0,
+   "clearances": 29.0
+  },
+  "away": {
+   "possession_pct": 58.7,
+   "shots": 13.0,
+   "shots_on_target": 0.0,
+   "xg": null,
+   "passes": 523.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 45.0,
+   "crosses": 25.0,
+   "crosses_completed": 3.0,
+   "corners": 9.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 15.0,
+   "interceptions": 9.0,
+   "fouls": 10.0,
+   "saves": 6.0,
+   "blocked_shots": 5.0,
+   "clearances": 18.0
+  }
+ }
+}

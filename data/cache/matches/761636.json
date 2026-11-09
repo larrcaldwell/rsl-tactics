@@ -1,0 +1,61 @@
+{
+ "id": "761636",
+ "date": "2026-05-17T00:30Z",
+ "stage": "regular",
+ "home": "Houston Dynamo FC",
+ "away": "Vancouver Whitecaps",
+ "hs": 1,
+ "as": 0,
+ "stats": {
+  "home": {
+   "possession_pct": 52.9,
+   "shots": 14.0,
+   "shots_on_target": 7.0,
+   "xg": null,
+   "passes": 499.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 45.0,
+   "crosses": 11.0,
+   "crosses_completed": 6.0,
+   "corners": 4.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 22.0,
+   "interceptions": 11.0,
+   "fouls": 16.0,
+   "saves": 3.0,
+   "blocked_shots": 2.0,
+   "clearances": 18.0
+  },
+  "away": {
+   "possession_pct": 47.1,
+   "shots": 9.0,
+   "shots_on_target": 3.0,
+   "xg": null,
+   "passes": 437.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 40.0,
+   "crosses": 16.0,
+   "crosses_completed": 1.0,
+   "corners": 3.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 17.0,
+   "interceptions": 4.0,
+   "fouls": 13.0,
+   "saves": 6.0,
+   "blocked_shots": 2.0,
+   "clearances": 21.0
+  }
+ }
+}

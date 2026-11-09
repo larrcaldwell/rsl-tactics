@@ -1,0 +1,61 @@
+{
+ "id": "761602",
+ "date": "2026-05-09T23:30Z",
+ "stage": "regular",
+ "home": "Atlanta United FC",
+ "away": "LA Galaxy",
+ "hs": 1,
+ "as": 2,
+ "stats": {
+  "home": {
+   "possession_pct": 53.1,
+   "shots": 14.0,
+   "shots_on_target": 3.0,
+   "xg": null,
+   "passes": 446.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 45.0,
+   "crosses": 22.0,
+   "crosses_completed": 9.0,
+   "corners": 6.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 21.0,
+   "interceptions": 8.0,
+   "fouls": 7.0,
+   "saves": 4.0,
+   "blocked_shots": 3.0,
+   "clearances": 16.0
+  },
+  "away": {
+   "possession_pct": 46.9,
+   "shots": 10.0,
+   "shots_on_target": 6.0,
+   "xg": null,
+   "passes": 404.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 44.0,
+   "crosses": 10.0,
+   "crosses_completed": 3.0,
+   "corners": 5.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 8.0,
+   "interceptions": 9.0,
+   "fouls": 5.0,
+   "saves": 2.0,
+   "blocked_shots": 1.0,
+   "clearances": 32.0
+  }
+ }
+}

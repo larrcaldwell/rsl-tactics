@@ -1,0 +1,61 @@
+{
+ "id": "761680",
+ "date": "2026-07-25T23:15Z",
+ "stage": "regular",
+ "home": "Columbus Crew",
+ "away": "FC Cincinnati",
+ "hs": 2,
+ "as": 1,
+ "stats": {
+  "home": {
+   "possession_pct": 52.8,
+   "shots": 13.0,
+   "shots_on_target": 6.0,
+   "xg": null,
+   "passes": 531.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 37.0,
+   "crosses": 17.0,
+   "crosses_completed": 2.0,
+   "corners": 4.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 19.0,
+   "interceptions": 7.0,
+   "fouls": 11.0,
+   "saves": 4.0,
+   "blocked_shots": 2.0,
+   "clearances": 24.0
+  },
+  "away": {
+   "possession_pct": 47.2,
+   "shots": 12.0,
+   "shots_on_target": 5.0,
+   "xg": null,
+   "passes": 465.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 26.0,
+   "crosses": 23.0,
+   "crosses_completed": 11.0,
+   "corners": 5.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 17.0,
+   "interceptions": 12.0,
+   "fouls": 8.0,
+   "saves": 4.0,
+   "blocked_shots": 2.0,
+   "clearances": 19.0
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "id": "761702",
+ "date": "2026-08-01T23:30Z",
+ "stage": "regular",
+ "home": "Philadelphia Union",
+ "away": "Atlanta United FC",
+ "hs": 3,
+ "as": 2,
+ "stats": {
+  "home": {
+   "possession_pct": 70.9,
+   "shots": 30.0,
+   "shots_on_target": 6.0,
+   "xg": null,
+   "passes": 517.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 48.0,
+   "crosses": 53.0,
+   "crosses_completed": 18.0,
+   "corners": 12.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 9.0,
+   "interceptions": 5.0,
+   "fouls": 15.0,
+   "saves": 0.0,
+   "blocked_shots": 8.0,
+   "clearances": 11.0
+  },
+  "away": {
+   "possession_pct": 29.1,
+   "shots": 4.0,
+   "shots_on_target": 2.0,
+   "xg": null,
+   "passes": 225.0,
+   "pass_accuracy_pct": 60.0,
+   "long_balls": 67.0,
+   "crosses": 9.0,
+   "crosses_completed": 2.0,
+   "corners": 2.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 19.0,
+   "interceptions": 14.0,
+   "fouls": 5.0,
+   "saves": 4.0,
+   "blocked_shots": 0.0,
+   "clearances": 58.0
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "id": "761816",
+ "date": "2026-09-19T23:30Z",
+ "stage": "regular",
+ "home": "New England Revolution",
+ "away": "Orlando City SC",
+ "hs": 4,
+ "as": 2,
+ "stats": {
+  "home": {
+   "possession_pct": 51.3,
+   "shots": 17.0,
+   "shots_on_target": 9.0,
+   "xg": null,
+   "passes": 476.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 41.0,
+   "crosses": 16.0,
+   "crosses_completed": 3.0,
+   "corners": 10.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 15.0,
+   "interceptions": 9.0,
+   "fouls": 7.0,
+   "saves": 3.0,
+   "blocked_shots": 1.0,
+   "clearances": 15.0
+  },
+  "away": {
+   "possession_pct": 48.7,
+   "shots": 11.0,
+   "shots_on_target": 5.0,
+   "xg": null,
+   "passes": 453.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 39.0,
+   "crosses": 11.0,
+   "crosses_completed": 4.0,
+   "corners": 3.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 13.0,
+   "interceptions": 4.0,
+   "fouls": 5.0,
+   "saves": 5.0,
+   "blocked_shots": 4.0,
+   "clearances": 15.0
+  }
+ }
+}

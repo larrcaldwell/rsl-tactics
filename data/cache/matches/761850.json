@@ -1,0 +1,61 @@
+{
+ "id": "761850",
+ "date": "2026-10-10T23:30Z",
+ "stage": "regular",
+ "home": "Atlanta United FC",
+ "away": "FC Cincinnati",
+ "hs": 1,
+ "as": 3,
+ "stats": {
+  "home": {
+   "possession_pct": 55.7,
+   "shots": 16.0,
+   "shots_on_target": 6.0,
+   "xg": null,
+   "passes": 516.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 65.0,
+   "crosses": 18.0,
+   "crosses_completed": 5.0,
+   "corners": 5.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 11.0,
+   "interceptions": 8.0,
+   "fouls": 8.0,
+   "saves": 0.0,
+   "blocked_shots": 7.0,
+   "clearances": 19.0
+  },
+  "away": {
+   "possession_pct": 44.3,
+   "shots": 13.0,
+   "shots_on_target": 4.0,
+   "xg": null,
+   "passes": 405.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 52.0,
+   "crosses": 17.0,
+   "crosses_completed": 2.0,
+   "corners": 4.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 9.0,
+   "interceptions": 10.0,
+   "fouls": 14.0,
+   "saves": 5.0,
+   "blocked_shots": 2.0,
+   "clearances": 23.0
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "id": "761522",
+ "date": "2026-04-04T23:30Z",
+ "stage": "regular",
+ "home": "Inter Miami CF",
+ "away": "Austin FC",
+ "hs": 2,
+ "as": 2,
+ "stats": {
+  "home": {
+   "possession_pct": 65.6,
+   "shots": 28.0,
+   "shots_on_target": 8.0,
+   "xg": null,
+   "passes": 595.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 31.0,
+   "crosses": 22.0,
+   "crosses_completed": 11.0,
+   "corners": 7.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 16.0,
+   "interceptions": 6.0,
+   "fouls": 7.0,
+   "saves": 1.0,
+   "blocked_shots": 6.0,
+   "clearances": 13.0
+  },
+  "away": {
+   "possession_pct": 34.4,
+   "shots": 9.0,
+   "shots_on_target": 3.0,
+   "xg": null,
+   "passes": 317.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 55.0,
+   "crosses": 4.0,
+   "crosses_completed": 3.0,
+   "corners": 3.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 9.0,
+   "interceptions": 13.0,
+   "fouls": 8.0,
+   "saves": 6.0,
+   "blocked_shots": 1.0,
+   "clearances": 26.0
+  }
+ }
+}

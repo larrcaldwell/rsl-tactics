@@ -1,0 +1,6122 @@
+{
+ "season": 2026,
+ "generated_at": "2026-11-09T06:07:07+00:00",
+ "matches_used": 511,
+ "new_matches": 511,
+ "source": "espn+asa",
+ "xg_available": true,
+ "teams": {
+  "St. Louis CITY SC": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 52.58235294117647,
+     "rank": 9,
+     "of": 32,
+     "pct": 74.0
+    },
+    "passes": {
+     "v": 480.11764705882354,
+     "rank": 15,
+     "of": 32,
+     "pct": 55.0
+    },
+    "pass_pct": {
+     "v": 84.70588235294117,
+     "rank": 15,
+     "of": 32,
+     "pct": 55.0
+    },
+    "long_pct": {
+     "v": 9.5165230457679,
+     "rank": 22,
+     "of": 32,
+     "pct": 32.0
+    },
+    "shots": {
+     "v": 13.235294117647058,
+     "rank": 15,
+     "of": 32,
+     "pct": 55.0
+    },
+    "sot": {
+     "v": 4.882352941176471,
+     "rank": 16,
+     "of": 32,
+     "pct": 52.0
+    },
+    "crosses": {
+     "v": 15.205882352941176,
+     "rank": 20,
+     "of": 32,
+     "pct": 39.0
+    },
+    "cross_pct": {
+     "v": 23.126915227219865,
+     "rank": 24,
+     "of": 30,
+     "pct": 21.0
+    },
+    "corners": {
+     "v": 5.117647058823529,
+     "rank": 11,
+     "of": 32,
+     "pct": 68.0
+    },
+    "tackles": {
+     "v": 16.058823529411764,
+     "rank": 4,
+     "of": 32,
+     "pct": 90.0
+    },
+    "interceptions": {
+     "v": 10.470588235294118,
+     "rank": 3,
+     "of": 32,
+     "pct": 94.0
+    },
+    "fouls": {
+     "v": 14.264705882352942,
+     "rank": 4,
+     "of": 32,
+     "pct": 90.0
+    },
+    "goals": {
+     "v": 1.7352941176470589,
+     "rank": 13,
+     "of": 32,
+     "pct": 61.0
+    },
+    "shots_ag": {
+     "v": 13.029411764705882,
+     "rank": 18,
+     "of": 32,
+     "pct": 45.0
+    },
+    "sot_ag": {
+     "v": 4.147058823529412,
+     "rank": 27,
+     "of": 32,
+     "pct": 16.0
+    },
+    "crosses_ag": {
+     "v": 15.205882352941176,
+     "rank": 20,
+     "of": 32,
+     "pct": 39.0
+    },
+    "corners_ag": {
+     "v": 5.0,
+     "rank": 16,
+     "of": 32,
+     "pct": 52.0
+    },
+    "goals_ag": {
+     "v": 1.411764705882353,
+     "rank": 25,
+     "of": 32,
+     "pct": 23.0
+    },
+    "ppda": {
+     "v": 11.116112498905348,
+     "rank": 29,
+     "of": 32,
+     "pct": 10.0
+    },
+    "conv": {
+     "v": 13.644148464194904,
+     "rank": 15,
+     "of": 32,
+     "pct": 55.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.588235294117647,
+     "gf": 1.7352941176470589,
+     "ga": 1.411764705882353,
+     "shot_diff": 0.20588235294117646
+    },
+    "last5": {
+     "ppg": 0.6,
+     "gf": 1.0,
+     "ga": 2.0,
+     "shot_diff": -7.0,
+     "results": [
+      "L",
+      "L",
+      "L",
+      "L",
+      "W"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-17",
+     "opp": "Minnesota United FC",
+     "score": "2-3",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-25",
+     "opp": "Real Salt Lake",
+     "score": "0-3",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-29",
+     "opp": "Portland Timbers",
+     "score": "2-3",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-31",
+     "opp": "San Diego FC",
+     "score": "0-1",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-08",
+     "opp": "Houston Dynamo FC",
+     "score": "1-0",
+     "venue": "away",
+     "playoff": false
+    }
+   ]
+  },
+  "Charlotte FC": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 46.36176470588235,
+     "rank": 26,
+     "of": 32,
+     "pct": 19.0
+    },
+    "passes": {
+     "v": 442.11764705882354,
+     "rank": 24,
+     "of": 32,
+     "pct": 26.0
+    },
+    "pass_pct": {
+     "v": 86.17647058823529,
+     "rank": 11,
+     "of": 32,
+     "pct": 68.0
+    },
+    "long_pct": {
+     "v": 11.644412456766139,
+     "rank": 9,
+     "of": 32,
+     "pct": 74.0
+    },
+    "shots": {
+     "v": 11.647058823529411,
+     "rank": 30,
+     "of": 32,
+     "pct": 6.0
+    },
+    "sot": {
+     "v": 4.852941176470588,
+     "rank": 17,
+     "of": 32,
+     "pct": 48.0
+    },
+    "crosses": {
+     "v": 15.735294117647058,
+     "rank": 16,
+     "of": 32,
+     "pct": 52.0
+    },
+    "cross_pct": {
+     "v": 26.761279903649235,
+     "rank": 13,
+     "of": 30,
+     "pct": 59.0
+    },
+    "corners": {
+     "v": 4.617647058823529,
+     "rank": 26,
+     "of": 32,
+     "pct": 19.0
+    },
+    "tackles": {
+     "v": 11.470588235294118,
+     "rank": 31,
+     "of": 32,
+     "pct": 3.0
+    },
+    "interceptions": {
+     "v": 7.647058823529412,
+     "rank": 29,
+     "of": 32,
+     "pct": 10.0
+    },
+    "fouls": {
+     "v": 9.911764705882353,
+     "rank": 30,
+     "of": 32,
+     "pct": 6.0
+    },
+    "goals": {
+     "v": 1.9411764705882353,
+     "rank": 8,
+     "of": 32,
+     "pct": 77.0
+    },
+    "xg": {
+     "v": 1.6653911764705882,
+     "rank": 11,
+     "of": 25,
+     "pct": 58.0
+    },
+    "shots_ag": {
+     "v": 17.0,
+     "rank": 2,
+     "of": 32,
+     "pct": 97.0
+    },
+    "sot_ag": {
+     "v": 6.0,
+     "rank": 5,
+     "of": 32,
+     "pct": 87.0
+    },
+    "crosses_ag": {
+     "v": 19.941176470588236,
+     "rank": 2,
+     "of": 32,
+     "pct": 97.0
+    },
+    "corners_ag": {
+     "v": 6.117647058823529,
+     "rank": 2,
+     "of": 32,
+     "pct": 97.0
+    },
+    "goals_ag": {
+     "v": 1.5,
+     "rank": 23,
+     "of": 32,
+     "pct": 29.0
+    },
+    "xg_ag": {
+     "v": 1.7807735294117648,
+     "rank": 6,
+     "of": 25,
+     "pct": 79.0
+    },
+    "ppda": {
+     "v": 18.759145775328648,
+     "rank": 3,
+     "of": 32,
+     "pct": 94.0
+    },
+    "conv": {
+     "v": 17.403378484260838,
+     "rank": 4,
+     "of": 32,
+     "pct": 90.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.588235294117647,
+     "gf": 1.9411764705882353,
+     "ga": 1.5,
+     "shot_diff": -5.352941176470588
+    },
+    "last5": {
+     "ppg": 1.6,
+     "gf": 3.0,
+     "ga": 1.6,
+     "shot_diff": -5.8,
+     "results": [
+      "D",
+      "L",
+      "W",
+      "W",
+      "D"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-17",
+     "opp": "Philadelphia Union",
+     "score": "2-2",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-25",
+     "opp": "Portland Timbers",
+     "score": "2-3",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-28",
+     "opp": "CF Montréal",
+     "score": "4-0",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-31",
+     "opp": "Orlando City SC",
+     "score": "4-0",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-07",
+     "opp": "Inter Miami CF",
+     "score": "3-3",
+     "venue": "away",
+     "playoff": false
+    }
+   ]
+  },
+  "FC Cincinnati": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 50.629411764705885,
+     "rank": 14,
+     "of": 32,
+     "pct": 58.0
+    },
+    "passes": {
+     "v": 466.9117647058824,
+     "rank": 19,
+     "of": 32,
+     "pct": 42.0
+    },
+    "pass_pct": {
+     "v": 84.70588235294117,
+     "rank": 16,
+     "of": 32,
+     "pct": 52.0
+    },
+    "long_pct": {
+     "v": 11.1419338889523,
+     "rank": 12,
+     "of": 32,
+     "pct": 65.0
+    },
+    "shots": {
+     "v": 14.558823529411764,
+     "rank": 7,
+     "of": 32,
+     "pct": 81.0
+    },
+    "sot": {
+     "v": 5.705882352941177,
+     "rank": 5,
+     "of": 32,
+     "pct": 87.0
+    },
+    "crosses": {
+     "v": 15.205882352941176,
+     "rank": 21,
+     "of": 32,
+     "pct": 35.0
+    },
+    "cross_pct": {
+     "v": 33.038386907623526,
+     "rank": 1,
+     "of": 30,
+     "pct": 100.0
+    },
+    "corners": {
+     "v": 5.029411764705882,
+     "rank": 14,
+     "of": 32,
+     "pct": 58.0
+    },
+    "tackles": {
+     "v": 14.617647058823529,
+     "rank": 21,
+     "of": 32,
+     "pct": 35.0
+    },
+    "interceptions": {
+     "v": 8.647058823529411,
+     "rank": 24,
+     "of": 32,
+     "pct": 26.0
+    },
+    "fouls": {
+     "v": 11.147058823529411,
+     "rank": 19,
+     "of": 32,
+     "pct": 42.0
+    },
+    "goals": {
+     "v": 1.9705882352941178,
+     "rank": 6,
+     "of": 32,
+     "pct": 84.0
+    },
+    "xg": {
+     "v": 1.8124382352941177,
+     "rank": 6,
+     "of": 25,
+     "pct": 79.0
+    },
+    "shots_ag": {
+     "v": 14.794117647058824,
+     "rank": 6,
+     "of": 32,
+     "pct": 84.0
+    },
+    "sot_ag": {
+     "v": 5.294117647058823,
+     "rank": 11,
+     "of": 32,
+     "pct": 68.0
+    },
+    "crosses_ag": {
+     "v": 18.705882352941178,
+     "rank": 4,
+     "of": 32,
+     "pct": 90.0
+    },
+    "corners_ag": {
+     "v": 5.323529411764706,
+     "rank": 11,
+     "of": 32,
+     "pct": 68.0
+    },
+    "goals_ag": {
+     "v": 2.2058823529411766,
+     "rank": 5,
+     "of": 32,
+     "pct": 87.0
+    },
+    "xg_ag": {
+     "v": 1.7595941176470589,
+     "rank": 9,
+     "of": 25,
+     "pct": 67.0
+    },
+    "ppda": {
+     "v": 13.808746918046477,
+     "rank": 13,
+     "of": 32,
+     "pct": 61.0
+    },
+    "conv": {
+     "v": 14.562784800777829,
+     "rank": 10,
+     "of": 32,
+     "pct": 71.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.3529411764705883,
+     "gf": 1.9705882352941178,
+     "ga": 2.2058823529411766,
+     "shot_diff": -0.23529411764705882
+    },
+    "last5": {
+     "ppg": 2.0,
+     "gf": 1.4,
+     "ga": 1.0,
+     "shot_diff": -2.2,
+     "results": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "L"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-21",
+     "opp": "D.C. United",
+     "score": "2-1",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-24",
+     "opp": "D.C. United",
+     "score": "2-0",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-28",
+     "opp": "Inter Miami CF",
+     "score": "2-2",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-31",
+     "opp": "Philadelphia Union",
+     "score": "1-0",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-07",
+     "opp": "Nashville SC",
+     "score": "0-2",
+     "venue": "home",
+     "playoff": false
+    }
+   ]
+  },
+  "Atlanta United FC": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 50.78823529411765,
+     "rank": 13,
+     "of": 32,
+     "pct": 61.0
+    },
+    "passes": {
+     "v": 485.29411764705884,
+     "rank": 13,
+     "of": 32,
+     "pct": 61.0
+    },
+    "pass_pct": {
+     "v": 84.11764705882354,
+     "rank": 22,
+     "of": 32,
+     "pct": 32.0
+    },
+    "long_pct": {
+     "v": 11.434163499038617,
+     "rank": 11,
+     "of": 32,
+     "pct": 68.0
+    },
+    "shots": {
+     "v": 13.323529411764707,
+     "rank": 13,
+     "of": 32,
+     "pct": 61.0
+    },
+    "sot": {
+     "v": 4.0588235294117645,
+     "rank": 32,
+     "of": 32,
+     "pct": 0.0
+    },
+    "crosses": {
+     "v": 17.029411764705884,
+     "rank": 10,
+     "of": 32,
+     "pct": 71.0
+    },
+    "cross_pct": {
+     "v": 22.72330614198983,
+     "rank": 25,
+     "of": 30,
+     "pct": 17.0
+    },
+    "corners": {
+     "v": 4.852941176470588,
+     "rank": 21,
+     "of": 32,
+     "pct": 35.0
+    },
+    "tackles": {
+     "v": 15.911764705882353,
+     "rank": 6,
+     "of": 32,
+     "pct": 84.0
+    },
+    "interceptions": {
+     "v": 9.941176470588236,
+     "rank": 5,
+     "of": 32,
+     "pct": 87.0
+    },
+    "fouls": {
+     "v": 11.558823529411764,
+     "rank": 18,
+     "of": 32,
+     "pct": 45.0
+    },
+    "goals": {
+     "v": 1.2647058823529411,
+     "rank": 28,
+     "of": 32,
+     "pct": 13.0
+    },
+    "xg": {
+     "v": 1.582558823529412,
+     "rank": 14,
+     "of": 25,
+     "pct": 46.0
+    },
+    "shots_ag": {
+     "v": 12.117647058823529,
+     "rank": 26,
+     "of": 32,
+     "pct": 19.0
+    },
+    "sot_ag": {
+     "v": 4.205882352941177,
+     "rank": 25,
+     "of": 32,
+     "pct": 23.0
+    },
+    "crosses_ag": {
+     "v": 16.941176470588236,
+     "rank": 12,
+     "of": 32,
+     "pct": 65.0
+    },
+    "corners_ag": {
+     "v": 5.088235294117647,
+     "rank": 14,
+     "of": 32,
+     "pct": 58.0
+    },
+    "goals_ag": {
+     "v": 1.7647058823529411,
+     "rank": 13,
+     "of": 32,
+     "pct": 61.0
+    },
+    "xg_ag": {
+     "v": 1.6933382352941178,
+     "rank": 13,
+     "of": 25,
+     "pct": 50.0
+    },
+    "ppda": {
+     "v": 12.673990053815327,
+     "rank": 23,
+     "of": 32,
+     "pct": 29.0
+    },
+    "conv": {
+     "v": 11.735448284846312,
+     "rank": 24,
+     "of": 32,
+     "pct": 26.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 0.9705882352941176,
+     "gf": 1.2647058823529411,
+     "ga": 1.7647058823529411,
+     "shot_diff": 1.2058823529411764
+    },
+    "last5": {
+     "ppg": 0.6,
+     "gf": 1.4,
+     "ga": 2.4,
+     "shot_diff": 3.6,
+     "results": [
+      "L",
+      "L",
+      "L",
+      "W",
+      "L"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-17",
+     "opp": "Inter Miami CF",
+     "score": "1-3",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-24",
+     "opp": "Chicago Fire FC",
+     "score": "2-3",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-28",
+     "opp": "New York City FC",
+     "score": "1-2",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-01",
+     "opp": "Toronto FC",
+     "score": "3-1",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-07",
+     "opp": "Red Bull New York",
+     "score": "0-3",
+     "venue": "away",
+     "playoff": false
+    }
+   ]
+  },
+  "Orlando City SC": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 49.50588235294118,
+     "rank": 17,
+     "of": 32,
+     "pct": 48.0
+    },
+    "passes": {
+     "v": 457.1470588235294,
+     "rank": 21,
+     "of": 32,
+     "pct": 35.0
+    },
+    "pass_pct": {
+     "v": 85.0,
+     "rank": 14,
+     "of": 32,
+     "pct": 58.0
+    },
+    "long_pct": {
+     "v": 9.931695474093202,
+     "rank": 17,
+     "of": 32,
+     "pct": 48.0
+    },
+    "shots": {
+     "v": 12.470588235294118,
+     "rank": 25,
+     "of": 32,
+     "pct": 23.0
+    },
+    "sot": {
+     "v": 5.117647058823529,
+     "rank": 11,
+     "of": 32,
+     "pct": 68.0
+    },
+    "crosses": {
+     "v": 13.0,
+     "rank": 27,
+     "of": 32,
+     "pct": 16.0
+    },
+    "cross_pct": {
+     "v": 27.283582604173752,
+     "rank": 8,
+     "of": 30,
+     "pct": 76.0
+    },
+    "corners": {
+     "v": 4.0,
+     "rank": 31,
+     "of": 32,
+     "pct": 3.0
+    },
+    "tackles": {
+     "v": 15.117647058823529,
+     "rank": 14,
+     "of": 32,
+     "pct": 58.0
+    },
+    "interceptions": {
+     "v": 7.852941176470588,
+     "rank": 27,
+     "of": 32,
+     "pct": 16.0
+    },
+    "fouls": {
+     "v": 10.794117647058824,
+     "rank": 23,
+     "of": 32,
+     "pct": 29.0
+    },
+    "goals": {
+     "v": 1.8529411764705883,
+     "rank": 10,
+     "of": 32,
+     "pct": 71.0
+    },
+    "xg": {
+     "v": 1.6777941176470588,
+     "rank": 10,
+     "of": 25,
+     "pct": 62.0
+    },
+    "shots_ag": {
+     "v": 16.852941176470587,
+     "rank": 3,
+     "of": 32,
+     "pct": 94.0
+    },
+    "sot_ag": {
+     "v": 6.470588235294118,
+     "rank": 3,
+     "of": 32,
+     "pct": 94.0
+    },
+    "crosses_ag": {
+     "v": 20.441176470588236,
+     "rank": 1,
+     "of": 32,
+     "pct": 100.0
+    },
+    "corners_ag": {
+     "v": 6.911764705882353,
+     "rank": 1,
+     "of": 32,
+     "pct": 100.0
+    },
+    "goals_ag": {
+     "v": 2.2941176470588234,
+     "rank": 4,
+     "of": 32,
+     "pct": 90.0
+    },
+    "xg_ag": {
+     "v": 2.197864705882353,
+     "rank": 1,
+     "of": 25,
+     "pct": 100.0
+    },
+    "ppda": {
+     "v": 14.631946593785901,
+     "rank": 9,
+     "of": 32,
+     "pct": 74.0
+    },
+    "conv": {
+     "v": 15.836193428275926,
+     "rank": 5,
+     "of": 32,
+     "pct": 87.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.3529411764705883,
+     "gf": 1.8529411764705883,
+     "ga": 2.2941176470588234,
+     "shot_diff": -4.382352941176471
+    },
+    "last5": {
+     "ppg": 1.6,
+     "gf": 1.8,
+     "ga": 1.8,
+     "shot_diff": -3.6,
+     "results": [
+      "W",
+      "D",
+      "D",
+      "L",
+      "W"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-17",
+     "opp": "D.C. United",
+     "score": "4-1",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-24",
+     "opp": "New York City FC",
+     "score": "2-2",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-29",
+     "opp": "Chicago Fire FC",
+     "score": "2-2",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-31",
+     "opp": "Charlotte FC",
+     "score": "0-4",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-07",
+     "opp": "New England Revolution",
+     "score": "1-0",
+     "venue": "home",
+     "playoff": false
+    }
+   ]
+  },
+  "Red Bull New York": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 51.5264705882353,
+     "rank": 11,
+     "of": 32,
+     "pct": 68.0
+    },
+    "passes": {
+     "v": 466.6764705882353,
+     "rank": 20,
+     "of": 32,
+     "pct": 39.0
+    },
+    "pass_pct": {
+     "v": 82.94117647058823,
+     "rank": 24,
+     "of": 32,
+     "pct": 26.0
+    },
+    "long_pct": {
+     "v": 8.815260500294798,
+     "rank": 26,
+     "of": 32,
+     "pct": 19.0
+    },
+    "shots": {
+     "v": 14.264705882352942,
+     "rank": 9,
+     "of": 32,
+     "pct": 74.0
+    },
+    "sot": {
+     "v": 5.088235294117647,
+     "rank": 12,
+     "of": 32,
+     "pct": 65.0
+    },
+    "crosses": {
+     "v": 15.558823529411764,
+     "rank": 17,
+     "of": 32,
+     "pct": 48.0
+    },
+    "cross_pct": {
+     "v": 24.436995243435508,
+     "rank": 22,
+     "of": 30,
+     "pct": 28.0
+    },
+    "corners": {
+     "v": 5.676470588235294,
+     "rank": 5,
+     "of": 32,
+     "pct": 87.0
+    },
+    "tackles": {
+     "v": 15.588235294117647,
+     "rank": 8,
+     "of": 32,
+     "pct": 77.0
+    },
+    "interceptions": {
+     "v": 9.147058823529411,
+     "rank": 15,
+     "of": 32,
+     "pct": 55.0
+    },
+    "fouls": {
+     "v": 12.705882352941176,
+     "rank": 11,
+     "of": 32,
+     "pct": 68.0
+    },
+    "goals": {
+     "v": 1.411764705882353,
+     "rank": 24,
+     "of": 32,
+     "pct": 26.0
+    },
+    "shots_ag": {
+     "v": 13.176470588235293,
+     "rank": 16,
+     "of": 32,
+     "pct": 52.0
+    },
+    "sot_ag": {
+     "v": 5.205882352941177,
+     "rank": 12,
+     "of": 32,
+     "pct": 65.0
+    },
+    "crosses_ag": {
+     "v": 15.205882352941176,
+     "rank": 21,
+     "of": 32,
+     "pct": 35.0
+    },
+    "corners_ag": {
+     "v": 5.0,
+     "rank": 17,
+     "of": 32,
+     "pct": 48.0
+    },
+    "goals_ag": {
+     "v": 1.8235294117647058,
+     "rank": 10,
+     "of": 32,
+     "pct": 71.0
+    },
+    "ppda": {
+     "v": 12.093934597706646,
+     "rank": 27,
+     "of": 32,
+     "pct": 16.0
+    },
+    "conv": {
+     "v": 10.694707465787415,
+     "rank": 29,
+     "of": 32,
+     "pct": 10.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.2352941176470589,
+     "gf": 1.411764705882353,
+     "ga": 1.8235294117647058,
+     "shot_diff": 1.088235294117647
+    },
+    "last5": {
+     "ppg": 1.2,
+     "gf": 1.8,
+     "ga": 1.6,
+     "shot_diff": 5.2,
+     "results": [
+      "L",
+      "W",
+      "L",
+      "L",
+      "W"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-17",
+     "opp": "Toronto FC",
+     "score": "0-2",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-24",
+     "opp": "Inter Miami CF",
+     "score": "2-0",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-28",
+     "opp": "New England Revolution",
+     "score": "2-3",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-01",
+     "opp": "Nashville SC",
+     "score": "2-3",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-07",
+     "opp": "Atlanta United FC",
+     "score": "3-0",
+     "venue": "home",
+     "playoff": false
+    }
+   ]
+  },
+  "D.C. United": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 39.370588235294115,
+     "rank": 32,
+     "of": 32,
+     "pct": 0.0
+    },
+    "passes": {
+     "v": 335.2647058823529,
+     "rank": 32,
+     "of": 32,
+     "pct": 0.0
+    },
+    "pass_pct": {
+     "v": 76.47058823529412,
+     "rank": 31,
+     "of": 32,
+     "pct": 3.0
+    },
+    "long_pct": {
+     "v": 16.43189104224769,
+     "rank": 1,
+     "of": 32,
+     "pct": 100.0
+    },
+    "shots": {
+     "v": 12.764705882352942,
+     "rank": 21,
+     "of": 32,
+     "pct": 35.0
+    },
+    "sot": {
+     "v": 4.294117647058823,
+     "rank": 27,
+     "of": 32,
+     "pct": 16.0
+    },
+    "crosses": {
+     "v": 19.676470588235293,
+     "rank": 4,
+     "of": 32,
+     "pct": 90.0
+    },
+    "cross_pct": {
+     "v": 20.33796020052725,
+     "rank": 30,
+     "of": 30,
+     "pct": 0.0
+    },
+    "corners": {
+     "v": 5.235294117647059,
+     "rank": 9,
+     "of": 32,
+     "pct": 74.0
+    },
+    "tackles": {
+     "v": 18.352941176470587,
+     "rank": 2,
+     "of": 32,
+     "pct": 97.0
+    },
+    "interceptions": {
+     "v": 9.970588235294118,
+     "rank": 4,
+     "of": 32,
+     "pct": 90.0
+    },
+    "fouls": {
+     "v": 13.235294117647058,
+     "rank": 6,
+     "of": 32,
+     "pct": 84.0
+    },
+    "goals": {
+     "v": 1.1470588235294117,
+     "rank": 31,
+     "of": 32,
+     "pct": 3.0
+    },
+    "xg": {
+     "v": 1.554370588235294,
+     "rank": 16,
+     "of": 25,
+     "pct": 38.0
+    },
+    "shots_ag": {
+     "v": 14.235294117647058,
+     "rank": 8,
+     "of": 32,
+     "pct": 77.0
+    },
+    "sot_ag": {
+     "v": 5.176470588235294,
+     "rank": 14,
+     "of": 32,
+     "pct": 58.0
+    },
+    "crosses_ag": {
+     "v": 16.91176470588235,
+     "rank": 13,
+     "of": 32,
+     "pct": 61.0
+    },
+    "corners_ag": {
+     "v": 5.235294117647059,
+     "rank": 12,
+     "of": 32,
+     "pct": 65.0
+    },
+    "goals_ag": {
+     "v": 1.7941176470588236,
+     "rank": 12,
+     "of": 32,
+     "pct": 65.0
+    },
+    "xg_ag": {
+     "v": 1.7743705882352943,
+     "rank": 7,
+     "of": 25,
+     "pct": 75.0
+    },
+    "ppda": {
+     "v": 13.396546455724149,
+     "rank": 18,
+     "of": 32,
+     "pct": 45.0
+    },
+    "conv": {
+     "v": 9.37808587559867,
+     "rank": 31,
+     "of": 32,
+     "pct": 3.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 0.9705882352941176,
+     "gf": 1.1470588235294117,
+     "ga": 1.7941176470588236,
+     "shot_diff": -1.4705882352941178
+    },
+    "last5": {
+     "ppg": 0.0,
+     "gf": 0.4,
+     "ga": 2.0,
+     "shot_diff": -0.8,
+     "results": [
+      "L",
+      "L",
+      "L",
+      "L",
+      "L"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-21",
+     "opp": "FC Cincinnati",
+     "score": "1-2",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-24",
+     "opp": "FC Cincinnati",
+     "score": "0-2",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-28",
+     "opp": "Toronto FC",
+     "score": "1-2",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-31",
+     "opp": "Columbus Crew",
+     "score": "0-3",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-07",
+     "opp": "New York City FC",
+     "score": "0-1",
+     "venue": "home",
+     "playoff": false
+    }
+   ]
+  },
+  "Philadelphia Union": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 46.98235294117647,
+     "rank": 25,
+     "of": 32,
+     "pct": 23.0
+    },
+    "passes": {
+     "v": 379.0,
+     "rank": 31,
+     "of": 32,
+     "pct": 3.0
+    },
+    "pass_pct": {
+     "v": 75.0,
+     "rank": 32,
+     "of": 32,
+     "pct": 0.0
+    },
+    "long_pct": {
+     "v": 13.961539741204732,
+     "rank": 2,
+     "of": 32,
+     "pct": 97.0
+    },
+    "shots": {
+     "v": 16.58823529411765,
+     "rank": 2,
+     "of": 32,
+     "pct": 97.0
+    },
+    "sot": {
+     "v": 5.4411764705882355,
+     "rank": 7,
+     "of": 32,
+     "pct": 81.0
+    },
+    "crosses": {
+     "v": 22.735294117647058,
+     "rank": 1,
+     "of": 32,
+     "pct": 100.0
+    },
+    "cross_pct": {
+     "v": 26.436725793194924,
+     "rank": 14,
+     "of": 30,
+     "pct": 55.0
+    },
+    "corners": {
+     "v": 6.205882352941177,
+     "rank": 2,
+     "of": 32,
+     "pct": 97.0
+    },
+    "tackles": {
+     "v": 16.264705882352942,
+     "rank": 3,
+     "of": 32,
+     "pct": 94.0
+    },
+    "interceptions": {
+     "v": 13.058823529411764,
+     "rank": 1,
+     "of": 32,
+     "pct": 100.0
+    },
+    "fouls": {
+     "v": 15.205882352941176,
+     "rank": 1,
+     "of": 32,
+     "pct": 100.0
+    },
+    "goals": {
+     "v": 1.9411764705882353,
+     "rank": 7,
+     "of": 32,
+     "pct": 81.0
+    },
+    "xg": {
+     "v": 2.066841176470588,
+     "rank": 2,
+     "of": 25,
+     "pct": 96.0
+    },
+    "shots_ag": {
+     "v": 9.088235294117647,
+     "rank": 32,
+     "of": 32,
+     "pct": 0.0
+    },
+    "sot_ag": {
+     "v": 3.5294117647058822,
+     "rank": 32,
+     "of": 32,
+     "pct": 0.0
+    },
+    "crosses_ag": {
+     "v": 12.705882352941176,
+     "rank": 29,
+     "of": 32,
+     "pct": 10.0
+    },
+    "corners_ag": {
+     "v": 3.3823529411764706,
+     "rank": 31,
+     "of": 32,
+     "pct": 3.0
+    },
+    "goals_ag": {
+     "v": 1.5294117647058822,
+     "rank": 19,
+     "of": 32,
+     "pct": 42.0
+    },
+    "xg_ag": {
+     "v": 1.4434529411764705,
+     "rank": 22,
+     "of": 25,
+     "pct": 12.0
+    },
+    "ppda": {
+     "v": 9.996101883122199,
+     "rank": 32,
+     "of": 32,
+     "pct": 0.0
+    },
+    "conv": {
+     "v": 11.174970224437534,
+     "rank": 27,
+     "of": 32,
+     "pct": 16.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.4705882352941178,
+     "gf": 1.9411764705882353,
+     "ga": 1.5294117647058822,
+     "shot_diff": 7.5
+    },
+    "last5": {
+     "ppg": 1.0,
+     "gf": 1.4,
+     "ga": 1.2,
+     "shot_diff": 7.6,
+     "results": [
+      "D",
+      "L",
+      "D",
+      "L",
+      "W"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-17",
+     "opp": "Charlotte FC",
+     "score": "2-2",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-24",
+     "opp": "New England Revolution",
+     "score": "1-2",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-29",
+     "opp": "Nashville SC",
+     "score": "0-0",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-31",
+     "opp": "FC Cincinnati",
+     "score": "0-1",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-07",
+     "opp": "Toronto FC",
+     "score": "4-1",
+     "venue": "home",
+     "playoff": false
+    }
+   ]
+  },
+  "Vancouver Whitecaps": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 55.12352941176471,
+     "rank": 4,
+     "of": 32,
+     "pct": 90.0
+    },
+    "passes": {
+     "v": 511.8235294117647,
+     "rank": 6,
+     "of": 32,
+     "pct": 84.0
+    },
+    "pass_pct": {
+     "v": 87.6470588235294,
+     "rank": 5,
+     "of": 32,
+     "pct": 87.0
+    },
+    "long_pct": {
+     "v": 9.395907908205924,
+     "rank": 23,
+     "of": 32,
+     "pct": 29.0
+    },
+    "shots": {
+     "v": 16.529411764705884,
+     "rank": 3,
+     "of": 32,
+     "pct": 94.0
+    },
+    "sot": {
+     "v": 6.029411764705882,
+     "rank": 3,
+     "of": 32,
+     "pct": 94.0
+    },
+    "crosses": {
+     "v": 20.970588235294116,
+     "rank": 2,
+     "of": 32,
+     "pct": 97.0
+    },
+    "cross_pct": {
+     "v": 27.3316632012146,
+     "rank": 7,
+     "of": 30,
+     "pct": 79.0
+    },
+    "corners": {
+     "v": 5.911764705882353,
+     "rank": 4,
+     "of": 32,
+     "pct": 90.0
+    },
+    "tackles": {
+     "v": 18.735294117647058,
+     "rank": 1,
+     "of": 32,
+     "pct": 100.0
+    },
+    "interceptions": {
+     "v": 9.588235294117647,
+     "rank": 10,
+     "of": 32,
+     "pct": 71.0
+    },
+    "fouls": {
+     "v": 14.294117647058824,
+     "rank": 3,
+     "of": 32,
+     "pct": 94.0
+    },
+    "goals": {
+     "v": 2.176470588235294,
+     "rank": 4,
+     "of": 32,
+     "pct": 90.0
+    },
+    "shots_ag": {
+     "v": 9.911764705882353,
+     "rank": 31,
+     "of": 32,
+     "pct": 3.0
+    },
+    "sot_ag": {
+     "v": 3.6176470588235294,
+     "rank": 30,
+     "of": 32,
+     "pct": 6.0
+    },
+    "crosses_ag": {
+     "v": 11.970588235294118,
+     "rank": 30,
+     "of": 32,
+     "pct": 6.0
+    },
+    "corners_ag": {
+     "v": 3.5294117647058822,
+     "rank": 30,
+     "of": 32,
+     "pct": 6.0
+    },
+    "goals_ag": {
+     "v": 1.0,
+     "rank": 31,
+     "of": 32,
+     "pct": 3.0
+    },
+    "ppda": {
+     "v": 10.143719022978548,
+     "rank": 31,
+     "of": 32,
+     "pct": 3.0
+    },
+    "conv": {
+     "v": 12.697701518724854,
+     "rank": 18,
+     "of": 32,
+     "pct": 45.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.8823529411764706,
+     "gf": 2.176470588235294,
+     "ga": 1.0,
+     "shot_diff": 6.617647058823529
+    },
+    "last5": {
+     "ppg": 2.4,
+     "gf": 2.6,
+     "ga": 0.8,
+     "shot_diff": 0.2,
+     "results": [
+      "W",
+      "L",
+      "W",
+      "W",
+      "W"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-18",
+     "opp": "Austin FC",
+     "score": "2-1",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-25",
+     "opp": "Colorado Rapids",
+     "score": "0-1",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-29",
+     "opp": "San Diego FC",
+     "score": "4-1",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-01",
+     "opp": "Seattle Sounders FC",
+     "score": "5-1",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-07",
+     "opp": "CF Montréal",
+     "score": "2-0",
+     "venue": "away",
+     "playoff": false
+    }
+   ]
+  },
+  "Real Salt Lake": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 49.205882352941174,
+     "rank": 18,
+     "of": 32,
+     "pct": 45.0
+    },
+    "passes": {
+     "v": 469.97058823529414,
+     "rank": 17,
+     "of": 32,
+     "pct": 48.0
+    },
+    "pass_pct": {
+     "v": 84.41176470588235,
+     "rank": 19,
+     "of": 32,
+     "pct": 42.0
+    },
+    "long_pct": {
+     "v": 11.087253178277196,
+     "rank": 13,
+     "of": 32,
+     "pct": 61.0
+    },
+    "shots": {
+     "v": 14.558823529411764,
+     "rank": 6,
+     "of": 32,
+     "pct": 84.0
+    },
+    "sot": {
+     "v": 5.5,
+     "rank": 6,
+     "of": 32,
+     "pct": 84.0
+    },
+    "crosses": {
+     "v": 15.411764705882353,
+     "rank": 18,
+     "of": 32,
+     "pct": 45.0
+    },
+    "cross_pct": {
+     "v": 25.93684167805457,
+     "rank": 16,
+     "of": 30,
+     "pct": 48.0
+    },
+    "corners": {
+     "v": 4.9411764705882355,
+     "rank": 17,
+     "of": 32,
+     "pct": 48.0
+    },
+    "tackles": {
+     "v": 14.970588235294118,
+     "rank": 16,
+     "of": 32,
+     "pct": 52.0
+    },
+    "interceptions": {
+     "v": 9.264705882352942,
+     "rank": 14,
+     "of": 32,
+     "pct": 58.0
+    },
+    "fouls": {
+     "v": 12.205882352941176,
+     "rank": 14,
+     "of": 32,
+     "pct": 58.0
+    },
+    "goals": {
+     "v": 1.5588235294117647,
+     "rank": 19,
+     "of": 32,
+     "pct": 42.0
+    },
+    "xg": {
+     "v": 1.6514470588235295,
+     "rank": 12,
+     "of": 25,
+     "pct": 54.0
+    },
+    "shots_ag": {
+     "v": 13.205882352941176,
+     "rank": 15,
+     "of": 32,
+     "pct": 55.0
+    },
+    "sot_ag": {
+     "v": 4.176470588235294,
+     "rank": 26,
+     "of": 32,
+     "pct": 19.0
+    },
+    "crosses_ag": {
+     "v": 16.735294117647058,
+     "rank": 14,
+     "of": 32,
+     "pct": 58.0
+    },
+    "corners_ag": {
+     "v": 5.852941176470588,
+     "rank": 6,
+     "of": 32,
+     "pct": 84.0
+    },
+    "goals_ag": {
+     "v": 1.5294117647058822,
+     "rank": 18,
+     "of": 32,
+     "pct": 45.0
+    },
+    "xg_ag": {
+     "v": 1.642120588235294,
+     "rank": 15,
+     "of": 25,
+     "pct": 42.0
+    },
+    "ppda": {
+     "v": 13.518432382145576,
+     "rank": 16,
+     "of": 32,
+     "pct": 52.0
+    },
+    "conv": {
+     "v": 11.357051823107938,
+     "rank": 25,
+     "of": 32,
+     "pct": 23.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.3235294117647058,
+     "gf": 1.5588235294117647,
+     "ga": 1.5294117647058822,
+     "shot_diff": 1.3529411764705883
+    },
+    "last5": {
+     "ppg": 2.4,
+     "gf": 2.2,
+     "ga": 1.0,
+     "shot_diff": 6.8,
+     "results": [
+      "W",
+      "W",
+      "W",
+      "L",
+      "W"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-18",
+     "opp": "Sporting Kansas City",
+     "score": "3-1",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-25",
+     "opp": "St. Louis CITY SC",
+     "score": "3-0",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-29",
+     "opp": "Austin FC",
+     "score": "2-1",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-31",
+     "opp": "San Jose Earthquakes",
+     "score": "1-2",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-08",
+     "opp": "LA Galaxy",
+     "score": "2-1",
+     "venue": "home",
+     "playoff": false
+    }
+   ]
+  },
+  "Austin FC": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 49.12352941176471,
+     "rank": 19,
+     "of": 32,
+     "pct": 42.0
+    },
+    "passes": {
+     "v": 450.1764705882353,
+     "rank": 23,
+     "of": 32,
+     "pct": 29.0
+    },
+    "pass_pct": {
+     "v": 84.70588235294117,
+     "rank": 17,
+     "of": 32,
+     "pct": 48.0
+    },
+    "long_pct": {
+     "v": 12.561378217333997,
+     "rank": 5,
+     "of": 32,
+     "pct": 87.0
+    },
+    "shots": {
+     "v": 11.117647058823529,
+     "rank": 31,
+     "of": 32,
+     "pct": 3.0
+    },
+    "sot": {
+     "v": 4.235294117647059,
+     "rank": 28,
+     "of": 32,
+     "pct": 13.0
+    },
+    "crosses": {
+     "v": 16.852941176470587,
+     "rank": 12,
+     "of": 32,
+     "pct": 65.0
+    },
+    "cross_pct": {
+     "v": 29.026016037369597,
+     "rank": 3,
+     "of": 30,
+     "pct": 93.0
+    },
+    "corners": {
+     "v": 4.588235294117647,
+     "rank": 27,
+     "of": 32,
+     "pct": 16.0
+    },
+    "tackles": {
+     "v": 12.294117647058824,
+     "rank": 30,
+     "of": 32,
+     "pct": 6.0
+    },
+    "interceptions": {
+     "v": 7.529411764705882,
+     "rank": 30,
+     "of": 32,
+     "pct": 6.0
+    },
+    "fouls": {
+     "v": 10.264705882352942,
+     "rank": 27,
+     "of": 32,
+     "pct": 16.0
+    },
+    "goals": {
+     "v": 1.2352941176470589,
+     "rank": 29,
+     "of": 32,
+     "pct": 10.0
+    },
+    "xg": {
+     "v": 1.1633882352941176,
+     "rank": 25,
+     "of": 25,
+     "pct": 0.0
+    },
+    "shots_ag": {
+     "v": 16.764705882352942,
+     "rank": 4,
+     "of": 32,
+     "pct": 90.0
+    },
+    "sot_ag": {
+     "v": 6.264705882352941,
+     "rank": 4,
+     "of": 32,
+     "pct": 90.0
+    },
+    "crosses_ag": {
+     "v": 17.41176470588235,
+     "rank": 10,
+     "of": 32,
+     "pct": 71.0
+    },
+    "corners_ag": {
+     "v": 5.911764705882353,
+     "rank": 5,
+     "of": 32,
+     "pct": 87.0
+    },
+    "goals_ag": {
+     "v": 1.911764705882353,
+     "rank": 8,
+     "of": 32,
+     "pct": 77.0
+    },
+    "xg_ag": {
+     "v": 2.0695588235294116,
+     "rank": 2,
+     "of": 25,
+     "pct": 96.0
+    },
+    "ppda": {
+     "v": 16.15350631177208,
+     "rank": 5,
+     "of": 32,
+     "pct": 87.0
+    },
+    "conv": {
+     "v": 12.33420990773932,
+     "rank": 20,
+     "of": 32,
+     "pct": 39.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.0,
+     "gf": 1.2352941176470589,
+     "ga": 1.911764705882353,
+     "shot_diff": -5.647058823529412
+    },
+    "last5": {
+     "ppg": 0.6,
+     "gf": 1.0,
+     "ga": 2.2,
+     "shot_diff": -2.0,
+     "results": [
+      "L",
+      "W",
+      "L",
+      "L",
+      "L"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-18",
+     "opp": "Vancouver Whitecaps",
+     "score": "1-2",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-25",
+     "opp": "Sporting Kansas City",
+     "score": "2-1",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-29",
+     "opp": "Real Salt Lake",
+     "score": "1-2",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-31",
+     "opp": "LA Galaxy",
+     "score": "1-4",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-08",
+     "opp": "Portland Timbers",
+     "score": "0-2",
+     "venue": "home",
+     "playoff": false
+    }
+   ]
+  },
+  "Minnesota United FC": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 46.358823529411765,
+     "rank": 27,
+     "of": 32,
+     "pct": 16.0
+    },
+    "passes": {
+     "v": 433.29411764705884,
+     "rank": 25,
+     "of": 32,
+     "pct": 23.0
+    },
+    "pass_pct": {
+     "v": 82.3529411764706,
+     "rank": 26,
+     "of": 32,
+     "pct": 19.0
+    },
+    "long_pct": {
+     "v": 11.62111352990641,
+     "rank": 10,
+     "of": 32,
+     "pct": 71.0
+    },
+    "shots": {
+     "v": 13.882352941176471,
+     "rank": 10,
+     "of": 32,
+     "pct": 71.0
+    },
+    "sot": {
+     "v": 5.029411764705882,
+     "rank": 13,
+     "of": 32,
+     "pct": 61.0
+    },
+    "crosses": {
+     "v": 17.264705882352942,
+     "rank": 9,
+     "of": 32,
+     "pct": 74.0
+    },
+    "cross_pct": {
+     "v": 28.690097739410742,
+     "rank": 4,
+     "of": 30,
+     "pct": 90.0
+    },
+    "corners": {
+     "v": 5.411764705882353,
+     "rank": 7,
+     "of": 32,
+     "pct": 81.0
+    },
+    "tackles": {
+     "v": 15.558823529411764,
+     "rank": 10,
+     "of": 32,
+     "pct": 71.0
+    },
+    "interceptions": {
+     "v": 9.382352941176471,
+     "rank": 11,
+     "of": 32,
+     "pct": 68.0
+    },
+    "fouls": {
+     "v": 12.823529411764707,
+     "rank": 9,
+     "of": 32,
+     "pct": 74.0
+    },
+    "goals": {
+     "v": 1.6470588235294117,
+     "rank": 17,
+     "of": 32,
+     "pct": 48.0
+    },
+    "xg": {
+     "v": 1.827879411764706,
+     "rank": 5,
+     "of": 25,
+     "pct": 83.0
+    },
+    "shots_ag": {
+     "v": 12.441176470588236,
+     "rank": 23,
+     "of": 32,
+     "pct": 29.0
+    },
+    "sot_ag": {
+     "v": 4.794117647058823,
+     "rank": 18,
+     "of": 32,
+     "pct": 45.0
+    },
+    "crosses_ag": {
+     "v": 15.352941176470589,
+     "rank": 19,
+     "of": 32,
+     "pct": 42.0
+    },
+    "corners_ag": {
+     "v": 5.0588235294117645,
+     "rank": 15,
+     "of": 32,
+     "pct": 55.0
+    },
+    "goals_ag": {
+     "v": 1.7058823529411764,
+     "rank": 15,
+     "of": 32,
+     "pct": 55.0
+    },
+    "xg_ag": {
+     "v": 1.6134264705882353,
+     "rank": 16,
+     "of": 25,
+     "pct": 38.0
+    },
+    "ppda": {
+     "v": 13.707296170847552,
+     "rank": 14,
+     "of": 32,
+     "pct": 58.0
+    },
+    "conv": {
+     "v": 12.94508499958327,
+     "rank": 17,
+     "of": 32,
+     "pct": 48.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.2941176470588236,
+     "gf": 1.6470588235294117,
+     "ga": 1.7058823529411764,
+     "shot_diff": 1.4411764705882353
+    },
+    "last5": {
+     "ppg": 2.6,
+     "gf": 2.4,
+     "ga": 1.0,
+     "shot_diff": 3.4,
+     "results": [
+      "W",
+      "D",
+      "W",
+      "W",
+      "W"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-17",
+     "opp": "St. Louis CITY SC",
+     "score": "3-2",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-25",
+     "opp": "Houston Dynamo FC",
+     "score": "0-0",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-29",
+     "opp": "Sporting Kansas City",
+     "score": "3-1",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-02",
+     "opp": "LAFC",
+     "score": "3-1",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-08",
+     "opp": "San Jose Earthquakes",
+     "score": "3-1",
+     "venue": "home",
+     "playoff": false
+    }
+   ]
+  },
+  "Nashville SC": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 54.29117647058824,
+     "rank": 6,
+     "of": 32,
+     "pct": 84.0
+    },
+    "passes": {
+     "v": 494.8235294117647,
+     "rank": 9,
+     "of": 32,
+     "pct": 74.0
+    },
+    "pass_pct": {
+     "v": 87.94117647058823,
+     "rank": 3,
+     "of": 32,
+     "pct": 94.0
+    },
+    "long_pct": {
+     "v": 10.57081942481365,
+     "rank": 16,
+     "of": 32,
+     "pct": 52.0
+    },
+    "shots": {
+     "v": 12.911764705882353,
+     "rank": 18,
+     "of": 32,
+     "pct": 45.0
+    },
+    "sot": {
+     "v": 5.176470588235294,
+     "rank": 10,
+     "of": 32,
+     "pct": 71.0
+    },
+    "crosses": {
+     "v": 15.058823529411764,
+     "rank": 22,
+     "of": 32,
+     "pct": 32.0
+    },
+    "cross_pct": {
+     "v": 26.84371991704445,
+     "rank": 12,
+     "of": 30,
+     "pct": 62.0
+    },
+    "corners": {
+     "v": 5.264705882352941,
+     "rank": 8,
+     "of": 32,
+     "pct": 77.0
+    },
+    "tackles": {
+     "v": 14.794117647058824,
+     "rank": 19,
+     "of": 32,
+     "pct": 42.0
+    },
+    "interceptions": {
+     "v": 7.764705882352941,
+     "rank": 28,
+     "of": 32,
+     "pct": 13.0
+    },
+    "fouls": {
+     "v": 11.617647058823529,
+     "rank": 17,
+     "of": 32,
+     "pct": 48.0
+    },
+    "goals": {
+     "v": 2.088235294117647,
+     "rank": 5,
+     "of": 32,
+     "pct": 87.0
+    },
+    "xg": {
+     "v": 1.7570941176470587,
+     "rank": 8,
+     "of": 25,
+     "pct": 71.0
+    },
+    "shots_ag": {
+     "v": 11.0,
+     "rank": 30,
+     "of": 32,
+     "pct": 6.0
+    },
+    "sot_ag": {
+     "v": 3.5588235294117645,
+     "rank": 31,
+     "of": 32,
+     "pct": 3.0
+    },
+    "crosses_ag": {
+     "v": 14.352941176470589,
+     "rank": 25,
+     "of": 32,
+     "pct": 23.0
+    },
+    "corners_ag": {
+     "v": 4.205882352941177,
+     "rank": 27,
+     "of": 32,
+     "pct": 16.0
+    },
+    "goals_ag": {
+     "v": 0.7352941176470589,
+     "rank": 32,
+     "of": 32,
+     "pct": 0.0
+    },
+    "xg_ag": {
+     "v": 1.3842617647058824,
+     "rank": 25,
+     "of": 25,
+     "pct": 0.0
+    },
+    "ppda": {
+     "v": 12.339721254499842,
+     "rank": 26,
+     "of": 32,
+     "pct": 19.0
+    },
+    "conv": {
+     "v": 15.784442586799013,
+     "rank": 6,
+     "of": 32,
+     "pct": 84.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 2.264705882352941,
+     "gf": 2.088235294117647,
+     "ga": 0.7352941176470589,
+     "shot_diff": 1.911764705882353
+    },
+    "last5": {
+     "ppg": 2.2,
+     "gf": 1.6,
+     "ga": 0.6,
+     "shot_diff": 0.0,
+     "results": [
+      "D",
+      "W",
+      "D",
+      "W",
+      "W"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-18",
+     "opp": "San Jose Earthquakes",
+     "score": "1-1",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-24",
+     "opp": "CF Montréal",
+     "score": "2-0",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-29",
+     "opp": "Philadelphia Union",
+     "score": "0-0",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-01",
+     "opp": "Red Bull New York",
+     "score": "3-2",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-07",
+     "opp": "FC Cincinnati",
+     "score": "2-0",
+     "venue": "away",
+     "playoff": false
+    }
+   ]
+  },
+  "New England Revolution": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 50.62352941176471,
+     "rank": 15,
+     "of": 32,
+     "pct": 55.0
+    },
+    "passes": {
+     "v": 486.88235294117646,
+     "rank": 11,
+     "of": 32,
+     "pct": 68.0
+    },
+    "pass_pct": {
+     "v": 87.6470588235294,
+     "rank": 6,
+     "of": 32,
+     "pct": 84.0
+    },
+    "long_pct": {
+     "v": 9.902380627825067,
+     "rank": 18,
+     "of": 32,
+     "pct": 45.0
+    },
+    "shots": {
+     "v": 12.058823529411764,
+     "rank": 28,
+     "of": 32,
+     "pct": 13.0
+    },
+    "sot": {
+     "v": 4.823529411764706,
+     "rank": 19,
+     "of": 32,
+     "pct": 42.0
+    },
+    "crosses": {
+     "v": 15.823529411764707,
+     "rank": 15,
+     "of": 32,
+     "pct": 55.0
+    },
+    "cross_pct": {
+     "v": 25.9343826085248,
+     "rank": 17,
+     "of": 30,
+     "pct": 45.0
+    },
+    "corners": {
+     "v": 4.852941176470588,
+     "rank": 19,
+     "of": 32,
+     "pct": 42.0
+    },
+    "tackles": {
+     "v": 12.441176470588236,
+     "rank": 29,
+     "of": 32,
+     "pct": 10.0
+    },
+    "interceptions": {
+     "v": 8.588235294117647,
+     "rank": 25,
+     "of": 32,
+     "pct": 23.0
+    },
+    "fouls": {
+     "v": 9.470588235294118,
+     "rank": 31,
+     "of": 32,
+     "pct": 3.0
+    },
+    "goals": {
+     "v": 1.6176470588235294,
+     "rank": 18,
+     "of": 32,
+     "pct": 45.0
+    },
+    "xg": {
+     "v": 1.5421617647058825,
+     "rank": 18,
+     "of": 25,
+     "pct": 29.0
+    },
+    "shots_ag": {
+     "v": 13.911764705882353,
+     "rank": 12,
+     "of": 32,
+     "pct": 65.0
+    },
+    "sot_ag": {
+     "v": 5.529411764705882,
+     "rank": 9,
+     "of": 32,
+     "pct": 74.0
+    },
+    "crosses_ag": {
+     "v": 17.647058823529413,
+     "rank": 8,
+     "of": 32,
+     "pct": 77.0
+    },
+    "corners_ag": {
+     "v": 5.676470588235294,
+     "rank": 9,
+     "of": 32,
+     "pct": 74.0
+    },
+    "goals_ag": {
+     "v": 1.3823529411764706,
+     "rank": 26,
+     "of": 32,
+     "pct": 19.0
+    },
+    "xg_ag": {
+     "v": 1.674764705882353,
+     "rank": 14,
+     "of": 25,
+     "pct": 46.0
+    },
+    "ppda": {
+     "v": 16.12022306977343,
+     "rank": 6,
+     "of": 32,
+     "pct": 84.0
+    },
+    "conv": {
+     "v": 15.063148356833478,
+     "rank": 7,
+     "of": 32,
+     "pct": 81.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.7058823529411764,
+     "gf": 1.6176470588235294,
+     "ga": 1.3823529411764706,
+     "shot_diff": -1.8529411764705883
+    },
+    "last5": {
+     "ppg": 1.8,
+     "gf": 1.4,
+     "ga": 1.2,
+     "shot_diff": -8.8,
+     "results": [
+      "W",
+      "W",
+      "W",
+      "L",
+      "L"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-17",
+     "opp": "Chicago Fire FC",
+     "score": "1-0",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-24",
+     "opp": "Philadelphia Union",
+     "score": "2-1",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-28",
+     "opp": "Red Bull New York",
+     "score": "3-2",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-02",
+     "opp": "Inter Miami CF",
+     "score": "1-2",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-07",
+     "opp": "Orlando City SC",
+     "score": "0-1",
+     "venue": "away",
+     "playoff": false
+    }
+   ]
+  },
+  "Houston Dynamo FC": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 47.67352941176471,
+     "rank": 23,
+     "of": 32,
+     "pct": 29.0
+    },
+    "passes": {
+     "v": 452.4117647058824,
+     "rank": 22,
+     "of": 32,
+     "pct": 32.0
+    },
+    "pass_pct": {
+     "v": 85.88235294117646,
+     "rank": 12,
+     "of": 32,
+     "pct": 65.0
+    },
+    "long_pct": {
+     "v": 9.809962775811222,
+     "rank": 20,
+     "of": 32,
+     "pct": 39.0
+    },
+    "shots": {
+     "v": 12.823529411764707,
+     "rank": 19,
+     "of": 32,
+     "pct": 42.0
+    },
+    "sot": {
+     "v": 4.176470588235294,
+     "rank": 31,
+     "of": 32,
+     "pct": 3.0
+    },
+    "crosses": {
+     "v": 12.588235294117647,
+     "rank": 28,
+     "of": 32,
+     "pct": 13.0
+    },
+    "cross_pct": {
+     "v": 29.073503092315455,
+     "rank": 2,
+     "of": 30,
+     "pct": 97.0
+    },
+    "corners": {
+     "v": 4.4411764705882355,
+     "rank": 28,
+     "of": 32,
+     "pct": 13.0
+    },
+    "tackles": {
+     "v": 13.441176470588236,
+     "rank": 27,
+     "of": 32,
+     "pct": 16.0
+    },
+    "interceptions": {
+     "v": 8.852941176470589,
+     "rank": 20,
+     "of": 32,
+     "pct": 39.0
+    },
+    "fouls": {
+     "v": 10.088235294117647,
+     "rank": 28,
+     "of": 32,
+     "pct": 13.0
+    },
+    "goals": {
+     "v": 1.2647058823529411,
+     "rank": 27,
+     "of": 32,
+     "pct": 16.0
+    },
+    "xg": {
+     "v": 1.185520588235294,
+     "rank": 24,
+     "of": 25,
+     "pct": 4.0
+    },
+    "shots_ag": {
+     "v": 12.882352941176471,
+     "rank": 20,
+     "of": 32,
+     "pct": 39.0
+    },
+    "sot_ag": {
+     "v": 4.0,
+     "rank": 29,
+     "of": 32,
+     "pct": 10.0
+    },
+    "crosses_ag": {
+     "v": 18.823529411764707,
+     "rank": 3,
+     "of": 32,
+     "pct": 94.0
+    },
+    "corners_ag": {
+     "v": 5.088235294117647,
+     "rank": 13,
+     "of": 32,
+     "pct": 61.0
+    },
+    "goals_ag": {
+     "v": 1.2647058823529411,
+     "rank": 29,
+     "of": 32,
+     "pct": 10.0
+    },
+    "xg_ag": {
+     "v": 1.5376411764705882,
+     "rank": 18,
+     "of": 25,
+     "pct": 29.0
+    },
+    "ppda": {
+     "v": 15.820170718048132,
+     "rank": 7,
+     "of": 32,
+     "pct": 81.0
+    },
+    "conv": {
+     "v": 12.16837041527444,
+     "rank": 22,
+     "of": 32,
+     "pct": 32.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.5,
+     "gf": 1.2647058823529411,
+     "ga": 1.2647058823529411,
+     "shot_diff": -0.058823529411764705
+    },
+    "last5": {
+     "ppg": 1.0,
+     "gf": 0.8,
+     "ga": 1.2,
+     "shot_diff": -5.6,
+     "results": [
+      "D",
+      "D",
+      "W",
+      "L",
+      "L"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-18",
+     "opp": "FC Dallas",
+     "score": "2-2",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-25",
+     "opp": "Minnesota United FC",
+     "score": "0-0",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-29",
+     "opp": "Seattle Sounders FC",
+     "score": "1-0",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-02",
+     "opp": "Portland Timbers",
+     "score": "1-3",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-08",
+     "opp": "St. Louis CITY SC",
+     "score": "0-1",
+     "venue": "home",
+     "playoff": false
+    }
+   ]
+  },
+  "Chicago Fire FC": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 51.59117647058823,
+     "rank": 10,
+     "of": 32,
+     "pct": 71.0
+    },
+    "passes": {
+     "v": 473.8235294117647,
+     "rank": 16,
+     "of": 32,
+     "pct": 52.0
+    },
+    "pass_pct": {
+     "v": 83.52941176470588,
+     "rank": 23,
+     "of": 32,
+     "pct": 29.0
+    },
+    "long_pct": {
+     "v": 10.672504614440095,
+     "rank": 15,
+     "of": 32,
+     "pct": 55.0
+    },
+    "shots": {
+     "v": 14.441176470588236,
+     "rank": 8,
+     "of": 32,
+     "pct": 77.0
+    },
+    "sot": {
+     "v": 5.205882352941177,
+     "rank": 9,
+     "of": 32,
+     "pct": 74.0
+    },
+    "crosses": {
+     "v": 14.794117647058824,
+     "rank": 24,
+     "of": 32,
+     "pct": 26.0
+    },
+    "cross_pct": {
+     "v": 27.257771236232855,
+     "rank": 9,
+     "of": 30,
+     "pct": 72.0
+    },
+    "corners": {
+     "v": 4.705882352941177,
+     "rank": 25,
+     "of": 32,
+     "pct": 23.0
+    },
+    "tackles": {
+     "v": 15.5,
+     "rank": 11,
+     "of": 32,
+     "pct": 68.0
+    },
+    "interceptions": {
+     "v": 8.823529411764707,
+     "rank": 21,
+     "of": 32,
+     "pct": 35.0
+    },
+    "fouls": {
+     "v": 12.823529411764707,
+     "rank": 10,
+     "of": 32,
+     "pct": 71.0
+    },
+    "goals": {
+     "v": 1.8823529411764706,
+     "rank": 9,
+     "of": 32,
+     "pct": 74.0
+    },
+    "xg": {
+     "v": 1.9782705882352942,
+     "rank": 3,
+     "of": 25,
+     "pct": 92.0
+    },
+    "shots_ag": {
+     "v": 12.205882352941176,
+     "rank": 24,
+     "of": 32,
+     "pct": 26.0
+    },
+    "sot_ag": {
+     "v": 4.411764705882353,
+     "rank": 23,
+     "of": 32,
+     "pct": 29.0
+    },
+    "crosses_ag": {
+     "v": 16.676470588235293,
+     "rank": 15,
+     "of": 32,
+     "pct": 55.0
+    },
+    "corners_ag": {
+     "v": 4.823529411764706,
+     "rank": 21,
+     "of": 32,
+     "pct": 35.0
+    },
+    "goals_ag": {
+     "v": 1.588235294117647,
+     "rank": 17,
+     "of": 32,
+     "pct": 48.0
+    },
+    "xg_ag": {
+     "v": 1.4457058823529412,
+     "rank": 20,
+     "of": 25,
+     "pct": 21.0
+    },
+    "ppda": {
+     "v": 12.495976116657141,
+     "rank": 25,
+     "of": 32,
+     "pct": 23.0
+    },
+    "conv": {
+     "v": 13.813358444206948,
+     "rank": 14,
+     "of": 32,
+     "pct": 58.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.6176470588235294,
+     "gf": 1.8823529411764706,
+     "ga": 1.588235294117647,
+     "shot_diff": 2.235294117647059
+    },
+    "last5": {
+     "ppg": 1.4,
+     "gf": 2.4,
+     "ga": 2.2,
+     "shot_diff": 7.0,
+     "results": [
+      "L",
+      "W",
+      "D",
+      "W",
+      "L"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-17",
+     "opp": "New England Revolution",
+     "score": "0-1",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-24",
+     "opp": "Atlanta United FC",
+     "score": "3-2",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-29",
+     "opp": "Orlando City SC",
+     "score": "2-2",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-01",
+     "opp": "Colorado Rapids",
+     "score": "4-2",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-07",
+     "opp": "Columbus Crew",
+     "score": "3-4",
+     "venue": "home",
+     "playoff": false
+    }
+   ]
+  },
+  "FC Dallas": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 43.19411764705882,
+     "rank": 31,
+     "of": 32,
+     "pct": 3.0
+    },
+    "passes": {
+     "v": 392.1764705882353,
+     "rank": 29,
+     "of": 32,
+     "pct": 10.0
+    },
+    "pass_pct": {
+     "v": 79.41176470588235,
+     "rank": 30,
+     "of": 32,
+     "pct": 6.0
+    },
+    "long_pct": {
+     "v": 13.031817607679002,
+     "rank": 4,
+     "of": 32,
+     "pct": 90.0
+    },
+    "shots": {
+     "v": 12.823529411764707,
+     "rank": 20,
+     "of": 32,
+     "pct": 39.0
+    },
+    "sot": {
+     "v": 4.823529411764706,
+     "rank": 20,
+     "of": 32,
+     "pct": 39.0
+    },
+    "crosses": {
+     "v": 14.941176470588236,
+     "rank": 23,
+     "of": 32,
+     "pct": 29.0
+    },
+    "cross_pct": {
+     "v": 27.17953296819184,
+     "rank": 10,
+     "of": 30,
+     "pct": 69.0
+    },
+    "corners": {
+     "v": 4.764705882352941,
+     "rank": 23,
+     "of": 32,
+     "pct": 29.0
+    },
+    "tackles": {
+     "v": 15.264705882352942,
+     "rank": 13,
+     "of": 32,
+     "pct": 61.0
+    },
+    "interceptions": {
+     "v": 9.735294117647058,
+     "rank": 7,
+     "of": 32,
+     "pct": 81.0
+    },
+    "fouls": {
+     "v": 13.411764705882353,
+     "rank": 5,
+     "of": 32,
+     "pct": 87.0
+    },
+    "goals": {
+     "v": 1.8235294117647058,
+     "rank": 12,
+     "of": 32,
+     "pct": 65.0
+    },
+    "xg": {
+     "v": 1.7973970588235293,
+     "rank": 7,
+     "of": 25,
+     "pct": 75.0
+    },
+    "shots_ag": {
+     "v": 11.764705882352942,
+     "rank": 28,
+     "of": 32,
+     "pct": 13.0
+    },
+    "sot_ag": {
+     "v": 4.647058823529412,
+     "rank": 21,
+     "of": 32,
+     "pct": 35.0
+    },
+    "crosses_ag": {
+     "v": 18.5,
+     "rank": 6,
+     "of": 32,
+     "pct": 84.0
+    },
+    "corners_ag": {
+     "v": 5.794117647058823,
+     "rank": 7,
+     "of": 32,
+     "pct": 81.0
+    },
+    "goals_ag": {
+     "v": 1.5,
+     "rank": 22,
+     "of": 32,
+     "pct": 32.0
+    },
+    "xg_ag": {
+     "v": 1.4073235294117645,
+     "rank": 23,
+     "of": 25,
+     "pct": 8.0
+    },
+    "ppda": {
+     "v": 14.030132674609852,
+     "rank": 12,
+     "of": 32,
+     "pct": 65.0
+    },
+    "conv": {
+     "v": 14.587336682924917,
+     "rank": 9,
+     "of": 32,
+     "pct": 74.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.7058823529411764,
+     "gf": 1.8235294117647058,
+     "ga": 1.5,
+     "shot_diff": 1.0588235294117647
+    },
+    "last5": {
+     "ppg": 1.6,
+     "gf": 1.8,
+     "ga": 1.2,
+     "shot_diff": 9.0,
+     "results": [
+      "D",
+      "W",
+      "L",
+      "D",
+      "W"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-18",
+     "opp": "Houston Dynamo FC",
+     "score": "2-2",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-25",
+     "opp": "San Jose Earthquakes",
+     "score": "3-0",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-29",
+     "opp": "Columbus Crew",
+     "score": "0-2",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-31",
+     "opp": "Sporting Kansas City",
+     "score": "1-1",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-08",
+     "opp": "Colorado Rapids",
+     "score": "3-1",
+     "venue": "home",
+     "playoff": false
+    }
+   ]
+  },
+  "Toronto FC": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 45.96470588235294,
+     "rank": 28,
+     "of": 32,
+     "pct": 13.0
+    },
+    "passes": {
+     "v": 385.3529411764706,
+     "rank": 30,
+     "of": 32,
+     "pct": 6.0
+    },
+    "pass_pct": {
+     "v": 81.47058823529412,
+     "rank": 27,
+     "of": 32,
+     "pct": 16.0
+    },
+    "long_pct": {
+     "v": 13.481738121193434,
+     "rank": 3,
+     "of": 32,
+     "pct": 94.0
+    },
+    "shots": {
+     "v": 12.058823529411764,
+     "rank": 27,
+     "of": 32,
+     "pct": 16.0
+    },
+    "sot": {
+     "v": 4.323529411764706,
+     "rank": 26,
+     "of": 32,
+     "pct": 19.0
+    },
+    "crosses": {
+     "v": 18.38235294117647,
+     "rank": 6,
+     "of": 32,
+     "pct": 84.0
+    },
+    "cross_pct": {
+     "v": 26.362314202757656,
+     "rank": 15,
+     "of": 30,
+     "pct": 52.0
+    },
+    "corners": {
+     "v": 4.735294117647059,
+     "rank": 24,
+     "of": 32,
+     "pct": 26.0
+    },
+    "tackles": {
+     "v": 14.147058823529411,
+     "rank": 26,
+     "of": 32,
+     "pct": 19.0
+    },
+    "interceptions": {
+     "v": 10.823529411764707,
+     "rank": 2,
+     "of": 32,
+     "pct": 97.0
+    },
+    "fouls": {
+     "v": 11.058823529411764,
+     "rank": 20,
+     "of": 32,
+     "pct": 39.0
+    },
+    "goals": {
+     "v": 1.5294117647058822,
+     "rank": 20,
+     "of": 32,
+     "pct": 39.0
+    },
+    "xg": {
+     "v": 1.3516323529411765,
+     "rank": 22,
+     "of": 25,
+     "pct": 12.0
+    },
+    "shots_ag": {
+     "v": 13.529411764705882,
+     "rank": 13,
+     "of": 32,
+     "pct": 61.0
+    },
+    "sot_ag": {
+     "v": 5.411764705882353,
+     "rank": 10,
+     "of": 32,
+     "pct": 71.0
+    },
+    "crosses_ag": {
+     "v": 16.11764705882353,
+     "rank": 18,
+     "of": 32,
+     "pct": 45.0
+    },
+    "corners_ag": {
+     "v": 5.735294117647059,
+     "rank": 8,
+     "of": 32,
+     "pct": 77.0
+    },
+    "goals_ag": {
+     "v": 1.9705882352941178,
+     "rank": 7,
+     "of": 32,
+     "pct": 81.0
+    },
+    "xg_ag": {
+     "v": 1.7083529411764706,
+     "rank": 12,
+     "of": 25,
+     "pct": 54.0
+    },
+    "ppda": {
+     "v": 13.16624091552538,
+     "rank": 20,
+     "of": 32,
+     "pct": 39.0
+    },
+    "conv": {
+     "v": 14.018505523695836,
+     "rank": 12,
+     "of": 32,
+     "pct": 65.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.1470588235294117,
+     "gf": 1.5294117647058822,
+     "ga": 1.9705882352941178,
+     "shot_diff": -1.4705882352941178
+    },
+    "last5": {
+     "ppg": 1.2,
+     "gf": 1.6,
+     "ga": 2.4,
+     "shot_diff": -4.0,
+     "results": [
+      "W",
+      "L",
+      "W",
+      "L",
+      "L"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-17",
+     "opp": "Red Bull New York",
+     "score": "2-0",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-24",
+     "opp": "Columbus Crew",
+     "score": "2-4",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-28",
+     "opp": "D.C. United",
+     "score": "2-1",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-01",
+     "opp": "Atlanta United FC",
+     "score": "1-3",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-07",
+     "opp": "Philadelphia Union",
+     "score": "1-4",
+     "venue": "away",
+     "playoff": false
+    }
+   ]
+  },
+  "LAFC": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 47.029411764705884,
+     "rank": 24,
+     "of": 32,
+     "pct": 26.0
+    },
+    "passes": {
+     "v": 481.47058823529414,
+     "rank": 14,
+     "of": 32,
+     "pct": 58.0
+    },
+    "pass_pct": {
+     "v": 87.05882352941177,
+     "rank": 10,
+     "of": 32,
+     "pct": 71.0
+    },
+    "long_pct": {
+     "v": 9.826549779015403,
+     "rank": 19,
+     "of": 32,
+     "pct": 42.0
+    },
+    "shots": {
+     "v": 15.088235294117647,
+     "rank": 4,
+     "of": 32,
+     "pct": 90.0
+    },
+    "sot": {
+     "v": 4.911764705882353,
+     "rank": 15,
+     "of": 32,
+     "pct": 55.0
+    },
+    "crosses": {
+     "v": 16.91176470588235,
+     "rank": 11,
+     "of": 32,
+     "pct": 68.0
+    },
+    "cross_pct": {
+     "v": 21.925114068550194,
+     "rank": 26,
+     "of": 30,
+     "pct": 14.0
+    },
+    "corners": {
+     "v": 6.470588235294118,
+     "rank": 1,
+     "of": 32,
+     "pct": 100.0
+    },
+    "tackles": {
+     "v": 14.911764705882353,
+     "rank": 18,
+     "of": 32,
+     "pct": 45.0
+    },
+    "interceptions": {
+     "v": 8.676470588235293,
+     "rank": 23,
+     "of": 32,
+     "pct": 29.0
+    },
+    "fouls": {
+     "v": 11.058823529411764,
+     "rank": 21,
+     "of": 32,
+     "pct": 35.0
+    },
+    "goals": {
+     "v": 1.5294117647058822,
+     "rank": 21,
+     "of": 32,
+     "pct": 35.0
+    },
+    "shots_ag": {
+     "v": 12.558823529411764,
+     "rank": 22,
+     "of": 32,
+     "pct": 32.0
+    },
+    "sot_ag": {
+     "v": 4.0,
+     "rank": 28,
+     "of": 32,
+     "pct": 13.0
+    },
+    "crosses_ag": {
+     "v": 16.235294117647058,
+     "rank": 17,
+     "of": 32,
+     "pct": 48.0
+    },
+    "corners_ag": {
+     "v": 4.970588235294118,
+     "rank": 19,
+     "of": 32,
+     "pct": 42.0
+    },
+    "goals_ag": {
+     "v": 1.1764705882352942,
+     "rank": 30,
+     "of": 32,
+     "pct": 6.0
+    },
+    "ppda": {
+     "v": 16.22715764911713,
+     "rank": 4,
+     "of": 32,
+     "pct": 90.0
+    },
+    "conv": {
+     "v": 12.697275508238903,
+     "rank": 19,
+     "of": 32,
+     "pct": 42.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.3823529411764706,
+     "gf": 1.5294117647058822,
+     "ga": 1.1764705882352942,
+     "shot_diff": 2.5294117647058822
+    },
+    "last5": {
+     "ppg": 1.0,
+     "gf": 1.6,
+     "ga": 1.8,
+     "shot_diff": 11.2,
+     "results": [
+      "W",
+      "D",
+      "D",
+      "L",
+      "L"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-15",
+     "opp": "Austin FC",
+     "score": "3-1",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-17",
+     "opp": "New York City FC",
+     "score": "1-1",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-26",
+     "opp": "LA Galaxy",
+     "score": "2-2",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-02",
+     "opp": "Minnesota United FC",
+     "score": "1-3",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-08",
+     "opp": "Seattle Sounders FC",
+     "score": "1-2",
+     "venue": "away",
+     "playoff": false
+    }
+   ]
+  },
+  "Inter Miami CF": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 56.97941176470588,
+     "rank": 2,
+     "of": 32,
+     "pct": 97.0
+    },
+    "passes": {
+     "v": 561.0882352941177,
+     "rank": 3,
+     "of": 32,
+     "pct": 94.0
+    },
+    "pass_pct": {
+     "v": 87.6470588235294,
+     "rank": 7,
+     "of": 32,
+     "pct": 81.0
+    },
+    "long_pct": {
+     "v": 8.449393365019631,
+     "rank": 27,
+     "of": 32,
+     "pct": 16.0
+    },
+    "shots": {
+     "v": 14.852941176470589,
+     "rank": 5,
+     "of": 32,
+     "pct": 87.0
+    },
+    "sot": {
+     "v": 5.882352941176471,
+     "rank": 4,
+     "of": 32,
+     "pct": 90.0
+    },
+    "crosses": {
+     "v": 11.617647058823529,
+     "rank": 30,
+     "of": 32,
+     "pct": 6.0
+    },
+    "cross_pct": {
+     "v": 27.59782657497099,
+     "rank": 6,
+     "of": 30,
+     "pct": 83.0
+    },
+    "corners": {
+     "v": 4.852941176470588,
+     "rank": 20,
+     "of": 32,
+     "pct": 39.0
+    },
+    "tackles": {
+     "v": 14.441176470588236,
+     "rank": 22,
+     "of": 32,
+     "pct": 32.0
+    },
+    "interceptions": {
+     "v": 9.029411764705882,
+     "rank": 19,
+     "of": 32,
+     "pct": 42.0
+    },
+    "fouls": {
+     "v": 13.058823529411764,
+     "rank": 7,
+     "of": 32,
+     "pct": 81.0
+    },
+    "goals": {
+     "v": 2.3529411764705883,
+     "rank": 3,
+     "of": 32,
+     "pct": 94.0
+    },
+    "xg": {
+     "v": 2.133952941176471,
+     "rank": 1,
+     "of": 25,
+     "pct": 100.0
+    },
+    "shots_ag": {
+     "v": 13.176470588235293,
+     "rank": 17,
+     "of": 32,
+     "pct": 48.0
+    },
+    "sot_ag": {
+     "v": 4.5,
+     "rank": 22,
+     "of": 32,
+     "pct": 32.0
+    },
+    "crosses_ag": {
+     "v": 13.441176470588236,
+     "rank": 27,
+     "of": 32,
+     "pct": 16.0
+    },
+    "corners_ag": {
+     "v": 3.8529411764705883,
+     "rank": 29,
+     "of": 32,
+     "pct": 10.0
+    },
+    "goals_ag": {
+     "v": 1.7352941176470589,
+     "rank": 14,
+     "of": 32,
+     "pct": 58.0
+    },
+    "xg_ag": {
+     "v": 1.7545441176470589,
+     "rank": 10,
+     "of": 25,
+     "pct": 62.0
+    },
+    "ppda": {
+     "v": 11.796587070299621,
+     "rank": 28,
+     "of": 32,
+     "pct": 13.0
+    },
+    "conv": {
+     "v": 18.12394687861361,
+     "rank": 2,
+     "of": 32,
+     "pct": 97.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.7647058823529411,
+     "gf": 2.3529411764705883,
+     "ga": 1.7352941176470589,
+     "shot_diff": 1.6764705882352942
+    },
+    "last5": {
+     "ppg": 1.6,
+     "gf": 2.0,
+     "ga": 1.8,
+     "shot_diff": -2.8,
+     "results": [
+      "W",
+      "L",
+      "D",
+      "W",
+      "D"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-17",
+     "opp": "Atlanta United FC",
+     "score": "3-1",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-24",
+     "opp": "Red Bull New York",
+     "score": "0-2",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-28",
+     "opp": "FC Cincinnati",
+     "score": "2-2",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-02",
+     "opp": "New England Revolution",
+     "score": "2-1",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-07",
+     "opp": "Charlotte FC",
+     "score": "3-3",
+     "venue": "home",
+     "playoff": false
+    }
+   ]
+  },
+  "Portland Timbers": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 50.29117647058824,
+     "rank": 16,
+     "of": 32,
+     "pct": 52.0
+    },
+    "passes": {
+     "v": 489.9117647058824,
+     "rank": 10,
+     "of": 32,
+     "pct": 71.0
+    },
+    "pass_pct": {
+     "v": 87.05882352941177,
+     "rank": 9,
+     "of": 32,
+     "pct": 74.0
+    },
+    "long_pct": {
+     "v": 9.165434265413213,
+     "rank": 25,
+     "of": 32,
+     "pct": 23.0
+    },
+    "shots": {
+     "v": 13.676470588235293,
+     "rank": 11,
+     "of": 32,
+     "pct": 68.0
+    },
+    "sot": {
+     "v": 4.794117647058823,
+     "rank": 21,
+     "of": 32,
+     "pct": 35.0
+    },
+    "crosses": {
+     "v": 18.705882352941178,
+     "rank": 5,
+     "of": 32,
+     "pct": 87.0
+    },
+    "cross_pct": {
+     "v": 20.67607496624757,
+     "rank": 28,
+     "of": 30,
+     "pct": 7.0
+    },
+    "corners": {
+     "v": 4.823529411764706,
+     "rank": 22,
+     "of": 32,
+     "pct": 32.0
+    },
+    "tackles": {
+     "v": 14.676470588235293,
+     "rank": 20,
+     "of": 32,
+     "pct": 39.0
+    },
+    "interceptions": {
+     "v": 9.705882352941176,
+     "rank": 8,
+     "of": 32,
+     "pct": 77.0
+    },
+    "fouls": {
+     "v": 10.029411764705882,
+     "rank": 29,
+     "of": 32,
+     "pct": 10.0
+    },
+    "goals": {
+     "v": 1.8235294117647058,
+     "rank": 11,
+     "of": 32,
+     "pct": 68.0
+    },
+    "shots_ag": {
+     "v": 14.735294117647058,
+     "rank": 7,
+     "of": 32,
+     "pct": 81.0
+    },
+    "sot_ag": {
+     "v": 5.647058823529412,
+     "rank": 8,
+     "of": 32,
+     "pct": 77.0
+    },
+    "crosses_ag": {
+     "v": 17.794117647058822,
+     "rank": 7,
+     "of": 32,
+     "pct": 81.0
+    },
+    "corners_ag": {
+     "v": 5.529411764705882,
+     "rank": 10,
+     "of": 32,
+     "pct": 71.0
+    },
+    "goals_ag": {
+     "v": 1.7941176470588236,
+     "rank": 11,
+     "of": 32,
+     "pct": 68.0
+    },
+    "ppda": {
+     "v": 14.581265969229486,
+     "rank": 11,
+     "of": 32,
+     "pct": 68.0
+    },
+    "conv": {
+     "v": 14.179397351975206,
+     "rank": 11,
+     "of": 32,
+     "pct": 68.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.3529411764705883,
+     "gf": 1.8235294117647058,
+     "ga": 1.7941176470588236,
+     "shot_diff": -1.0588235294117647
+    },
+    "last5": {
+     "ppg": 2.6,
+     "gf": 2.2,
+     "ga": 1.0,
+     "shot_diff": 4.6,
+     "results": [
+      "D",
+      "W",
+      "W",
+      "W",
+      "W"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-18",
+     "opp": "Colorado Rapids",
+     "score": "0-0",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-25",
+     "opp": "Charlotte FC",
+     "score": "3-2",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-29",
+     "opp": "St. Louis CITY SC",
+     "score": "3-2",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-02",
+     "opp": "Houston Dynamo FC",
+     "score": "3-1",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-08",
+     "opp": "Austin FC",
+     "score": "2-0",
+     "venue": "away",
+     "playoff": false
+    }
+   ]
+  },
+  "Columbus Crew": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 54.82941176470588,
+     "rank": 5,
+     "of": 32,
+     "pct": 87.0
+    },
+    "passes": {
+     "v": 548.7941176470588,
+     "rank": 4,
+     "of": 32,
+     "pct": 90.0
+    },
+    "pass_pct": {
+     "v": 87.6470588235294,
+     "rank": 8,
+     "of": 32,
+     "pct": 77.0
+    },
+    "long_pct": {
+     "v": 7.894380186181585,
+     "rank": 29,
+     "of": 32,
+     "pct": 10.0
+    },
+    "shots": {
+     "v": 12.617647058823529,
+     "rank": 22,
+     "of": 32,
+     "pct": 32.0
+    },
+    "sot": {
+     "v": 4.588235294117647,
+     "rank": 23,
+     "of": 32,
+     "pct": 29.0
+    },
+    "crosses": {
+     "v": 16.08823529411765,
+     "rank": 14,
+     "of": 32,
+     "pct": 58.0
+    },
+    "cross_pct": {
+     "v": 20.44818244541075,
+     "rank": 29,
+     "of": 30,
+     "pct": 3.0
+    },
+    "corners": {
+     "v": 5.117647058823529,
+     "rank": 12,
+     "of": 32,
+     "pct": 65.0
+    },
+    "tackles": {
+     "v": 15.882352941176471,
+     "rank": 7,
+     "of": 32,
+     "pct": 81.0
+    },
+    "interceptions": {
+     "v": 9.323529411764707,
+     "rank": 13,
+     "of": 32,
+     "pct": 61.0
+    },
+    "fouls": {
+     "v": 10.5,
+     "rank": 25,
+     "of": 32,
+     "pct": 23.0
+    },
+    "goals": {
+     "v": 1.7352941176470589,
+     "rank": 14,
+     "of": 32,
+     "pct": 58.0
+    },
+    "xg": {
+     "v": 1.4709058823529413,
+     "rank": 20,
+     "of": 25,
+     "pct": 21.0
+    },
+    "shots_ag": {
+     "v": 11.705882352941176,
+     "rank": 29,
+     "of": 32,
+     "pct": 10.0
+    },
+    "sot_ag": {
+     "v": 4.764705882352941,
+     "rank": 19,
+     "of": 32,
+     "pct": 42.0
+    },
+    "crosses_ag": {
+     "v": 14.470588235294118,
+     "rank": 24,
+     "of": 32,
+     "pct": 26.0
+    },
+    "corners_ag": {
+     "v": 3.9411764705882355,
+     "rank": 28,
+     "of": 32,
+     "pct": 13.0
+    },
+    "goals_ag": {
+     "v": 1.5294117647058822,
+     "rank": 20,
+     "of": 32,
+     "pct": 39.0
+    },
+    "xg_ag": {
+     "v": 1.396064705882353,
+     "rank": 24,
+     "of": 25,
+     "pct": 4.0
+    },
+    "ppda": {
+     "v": 13.493605547784526,
+     "rank": 17,
+     "of": 32,
+     "pct": 48.0
+    },
+    "conv": {
+     "v": 17.47081622081622,
+     "rank": 3,
+     "of": 32,
+     "pct": 94.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.3823529411764706,
+     "gf": 1.7352941176470589,
+     "ga": 1.5294117647058822,
+     "shot_diff": 0.9117647058823529
+    },
+    "last5": {
+     "ppg": 3.0,
+     "gf": 3.0,
+     "ga": 1.0,
+     "shot_diff": -7.0,
+     "results": [
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-18",
+     "opp": "FC Cincinnati",
+     "score": "2-0",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-24",
+     "opp": "Toronto FC",
+     "score": "4-2",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-29",
+     "opp": "FC Dallas",
+     "score": "2-0",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-31",
+     "opp": "D.C. United",
+     "score": "3-0",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-07",
+     "opp": "Chicago Fire FC",
+     "score": "4-3",
+     "venue": "away",
+     "playoff": false
+    }
+   ]
+  },
+  "San Diego FC": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 59.92941176470588,
+     "rank": 1,
+     "of": 32,
+     "pct": 100.0
+    },
+    "passes": {
+     "v": 642.6764705882352,
+     "rank": 1,
+     "of": 32,
+     "pct": 100.0
+    },
+    "pass_pct": {
+     "v": 88.82352941176471,
+     "rank": 2,
+     "of": 32,
+     "pct": 97.0
+    },
+    "long_pct": {
+     "v": 7.100385466411414,
+     "rank": 30,
+     "of": 32,
+     "pct": 6.0
+    },
+    "shots": {
+     "v": 12.558823529411764,
+     "rank": 23,
+     "of": 32,
+     "pct": 29.0
+    },
+    "sot": {
+     "v": 4.5588235294117645,
+     "rank": 24,
+     "of": 32,
+     "pct": 26.0
+    },
+    "crosses": {
+     "v": 15.235294117647058,
+     "rank": 19,
+     "of": 32,
+     "pct": 42.0
+    },
+    "cross_pct": {
+     "v": 25.18437394082968,
+     "rank": 20,
+     "of": 30,
+     "pct": 34.0
+    },
+    "corners": {
+     "v": 4.911764705882353,
+     "rank": 18,
+     "of": 32,
+     "pct": 45.0
+    },
+    "tackles": {
+     "v": 14.205882352941176,
+     "rank": 25,
+     "of": 32,
+     "pct": 23.0
+    },
+    "interceptions": {
+     "v": 8.676470588235293,
+     "rank": 22,
+     "of": 32,
+     "pct": 32.0
+    },
+    "fouls": {
+     "v": 10.911764705882353,
+     "rank": 22,
+     "of": 32,
+     "pct": 32.0
+    },
+    "goals": {
+     "v": 1.6764705882352942,
+     "rank": 16,
+     "of": 32,
+     "pct": 52.0
+    },
+    "xg": {
+     "v": 1.7372117647058822,
+     "rank": 9,
+     "of": 25,
+     "pct": 67.0
+    },
+    "shots_ag": {
+     "v": 13.970588235294118,
+     "rank": 11,
+     "of": 32,
+     "pct": 68.0
+    },
+    "sot_ag": {
+     "v": 5.705882352941177,
+     "rank": 7,
+     "of": 32,
+     "pct": 81.0
+    },
+    "crosses_ag": {
+     "v": 12.705882352941176,
+     "rank": 28,
+     "of": 32,
+     "pct": 13.0
+    },
+    "corners_ag": {
+     "v": 4.264705882352941,
+     "rank": 26,
+     "of": 32,
+     "pct": 19.0
+    },
+    "goals_ag": {
+     "v": 1.8529411764705883,
+     "rank": 9,
+     "of": 32,
+     "pct": 74.0
+    },
+    "xg_ag": {
+     "v": 1.8792676470588234,
+     "rank": 5,
+     "of": 25,
+     "pct": 83.0
+    },
+    "ppda": {
+     "v": 12.999489477812768,
+     "rank": 21,
+     "of": 32,
+     "pct": 35.0
+    },
+    "conv": {
+     "v": 14.865040221418841,
+     "rank": 8,
+     "of": 32,
+     "pct": 77.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.1176470588235294,
+     "gf": 1.6764705882352942,
+     "ga": 1.8529411764705883,
+     "shot_diff": -1.411764705882353
+    },
+    "last5": {
+     "ppg": 1.0,
+     "gf": 1.2,
+     "ga": 1.8,
+     "shot_diff": 1.0,
+     "results": [
+      "D",
+      "D",
+      "L",
+      "W",
+      "L"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-18",
+     "opp": "LA Galaxy",
+     "score": "2-2",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-25",
+     "opp": "Seattle Sounders FC",
+     "score": "2-2",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-29",
+     "opp": "Vancouver Whitecaps",
+     "score": "1-4",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-31",
+     "opp": "St. Louis CITY SC",
+     "score": "1-0",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-08",
+     "opp": "Sporting Kansas City",
+     "score": "0-1",
+     "venue": "home",
+     "playoff": false
+    }
+   ]
+  },
+  "CF Montréal": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 47.87352941176471,
+     "rank": 22,
+     "of": 32,
+     "pct": 32.0
+    },
+    "passes": {
+     "v": 427.79411764705884,
+     "rank": 26,
+     "of": 32,
+     "pct": 19.0
+    },
+    "pass_pct": {
+     "v": 82.94117647058823,
+     "rank": 25,
+     "of": 32,
+     "pct": 23.0
+    },
+    "long_pct": {
+     "v": 12.279057129577165,
+     "rank": 7,
+     "of": 32,
+     "pct": 81.0
+    },
+    "shots": {
+     "v": 12.5,
+     "rank": 24,
+     "of": 32,
+     "pct": 26.0
+    },
+    "sot": {
+     "v": 4.5,
+     "rank": 25,
+     "of": 32,
+     "pct": 23.0
+    },
+    "crosses": {
+     "v": 17.705882352941178,
+     "rank": 7,
+     "of": 32,
+     "pct": 81.0
+    },
+    "cross_pct": {
+     "v": 27.71073293971113,
+     "rank": 5,
+     "of": 30,
+     "pct": 86.0
+    },
+    "corners": {
+     "v": 5.0588235294117645,
+     "rank": 13,
+     "of": 32,
+     "pct": 61.0
+    },
+    "tackles": {
+     "v": 14.441176470588236,
+     "rank": 23,
+     "of": 32,
+     "pct": 29.0
+    },
+    "interceptions": {
+     "v": 9.911764705882353,
+     "rank": 6,
+     "of": 32,
+     "pct": 84.0
+    },
+    "fouls": {
+     "v": 13.029411764705882,
+     "rank": 8,
+     "of": 32,
+     "pct": 77.0
+    },
+    "goals": {
+     "v": 1.088235294117647,
+     "rank": 32,
+     "of": 32,
+     "pct": 0.0
+    },
+    "xg": {
+     "v": 1.4042617647058824,
+     "rank": 21,
+     "of": 25,
+     "pct": 17.0
+    },
+    "shots_ag": {
+     "v": 13.5,
+     "rank": 14,
+     "of": 32,
+     "pct": 58.0
+    },
+    "sot_ag": {
+     "v": 5.029411764705882,
+     "rank": 16,
+     "of": 32,
+     "pct": 52.0
+    },
+    "crosses_ag": {
+     "v": 15.147058823529411,
+     "rank": 22,
+     "of": 32,
+     "pct": 32.0
+    },
+    "corners_ag": {
+     "v": 4.794117647058823,
+     "rank": 22,
+     "of": 32,
+     "pct": 32.0
+    },
+    "goals_ag": {
+     "v": 2.0294117647058822,
+     "rank": 6,
+     "of": 32,
+     "pct": 84.0
+    },
+    "xg_ag": {
+     "v": 1.7732588235294118,
+     "rank": 8,
+     "of": 25,
+     "pct": 71.0
+    },
+    "ppda": {
+     "v": 13.283829482980334,
+     "rank": 19,
+     "of": 32,
+     "pct": 42.0
+    },
+    "conv": {
+     "v": 8.130443076327843,
+     "rank": 32,
+     "of": 32,
+     "pct": 0.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 0.7647058823529411,
+     "gf": 1.088235294117647,
+     "ga": 2.0294117647058822,
+     "shot_diff": -1.0
+    },
+    "last5": {
+     "ppg": 0.4,
+     "gf": 0.4,
+     "ga": 2.0,
+     "shot_diff": -4.2,
+     "results": [
+      "D",
+      "L",
+      "L",
+      "D",
+      "L"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-18",
+     "opp": "Seattle Sounders FC",
+     "score": "1-1",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-24",
+     "opp": "Nashville SC",
+     "score": "0-2",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-28",
+     "opp": "Charlotte FC",
+     "score": "0-4",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-31",
+     "opp": "New York City FC",
+     "score": "1-1",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-07",
+     "opp": "Vancouver Whitecaps",
+     "score": "0-2",
+     "venue": "home",
+     "playoff": false
+    }
+   ]
+  },
+  "San Jose Earthquakes": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 48.455882352941174,
+     "rank": 20,
+     "of": 32,
+     "pct": 39.0
+    },
+    "passes": {
+     "v": 417.0882352941176,
+     "rank": 28,
+     "of": 32,
+     "pct": 13.0
+    },
+    "pass_pct": {
+     "v": 80.29411764705883,
+     "rank": 28,
+     "of": 32,
+     "pct": 13.0
+    },
+    "long_pct": {
+     "v": 12.493388860120074,
+     "rank": 6,
+     "of": 32,
+     "pct": 84.0
+    },
+    "shots": {
+     "v": 13.264705882352942,
+     "rank": 14,
+     "of": 32,
+     "pct": 58.0
+    },
+    "sot": {
+     "v": 4.823529411764706,
+     "rank": 18,
+     "of": 32,
+     "pct": 45.0
+    },
+    "crosses": {
+     "v": 20.794117647058822,
+     "rank": 3,
+     "of": 32,
+     "pct": 94.0
+    },
+    "cross_pct": {
+     "v": 24.372805078308637,
+     "rank": 23,
+     "of": 30,
+     "pct": 24.0
+    },
+    "corners": {
+     "v": 6.029411764705882,
+     "rank": 3,
+     "of": 32,
+     "pct": 94.0
+    },
+    "tackles": {
+     "v": 14.323529411764707,
+     "rank": 24,
+     "of": 32,
+     "pct": 26.0
+    },
+    "interceptions": {
+     "v": 9.058823529411764,
+     "rank": 17,
+     "of": 32,
+     "pct": 48.0
+    },
+    "fouls": {
+     "v": 12.529411764705882,
+     "rank": 13,
+     "of": 32,
+     "pct": 61.0
+    },
+    "goals": {
+     "v": 1.6764705882352942,
+     "rank": 15,
+     "of": 32,
+     "pct": 55.0
+    },
+    "xg": {
+     "v": 1.8400411764705882,
+     "rank": 4,
+     "of": 25,
+     "pct": 88.0
+    },
+    "shots_ag": {
+     "v": 12.676470588235293,
+     "rank": 21,
+     "of": 32,
+     "pct": 35.0
+    },
+    "sot_ag": {
+     "v": 4.9411764705882355,
+     "rank": 17,
+     "of": 32,
+     "pct": 48.0
+    },
+    "crosses_ag": {
+     "v": 16.61764705882353,
+     "rank": 16,
+     "of": 32,
+     "pct": 52.0
+    },
+    "corners_ag": {
+     "v": 4.852941176470588,
+     "rank": 20,
+     "of": 32,
+     "pct": 39.0
+    },
+    "goals_ag": {
+     "v": 1.5,
+     "rank": 21,
+     "of": 32,
+     "pct": 35.0
+    },
+    "xg_ag": {
+     "v": 1.5497323529411764,
+     "rank": 17,
+     "of": 25,
+     "pct": 33.0
+    },
+    "ppda": {
+     "v": 12.992162180094136,
+     "rank": 22,
+     "of": 32,
+     "pct": 32.0
+    },
+    "conv": {
+     "v": 13.967650263065488,
+     "rank": 13,
+     "of": 32,
+     "pct": 61.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.5294117647058822,
+     "gf": 1.6764705882352942,
+     "ga": 1.5,
+     "shot_diff": 0.5882352941176471
+    },
+    "last5": {
+     "ppg": 1.0,
+     "gf": 1.2,
+     "ga": 2.0,
+     "shot_diff": -0.8,
+     "results": [
+      "D",
+      "L",
+      "D",
+      "W",
+      "L"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-18",
+     "opp": "Nashville SC",
+     "score": "1-1",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-25",
+     "opp": "FC Dallas",
+     "score": "0-3",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-29",
+     "opp": "Colorado Rapids",
+     "score": "2-2",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-31",
+     "opp": "Real Salt Lake",
+     "score": "2-1",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-08",
+     "opp": "Minnesota United FC",
+     "score": "1-3",
+     "venue": "away",
+     "playoff": false
+    }
+   ]
+  },
+  "Sporting Kansas City": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 44.71470588235294,
+     "rank": 30,
+     "of": 32,
+     "pct": 6.0
+    },
+    "passes": {
+     "v": 417.38235294117646,
+     "rank": 27,
+     "of": 32,
+     "pct": 16.0
+    },
+    "pass_pct": {
+     "v": 84.41176470588235,
+     "rank": 18,
+     "of": 32,
+     "pct": 45.0
+    },
+    "long_pct": {
+     "v": 11.96570848186894,
+     "rank": 8,
+     "of": 32,
+     "pct": 77.0
+    },
+    "shots": {
+     "v": 11.029411764705882,
+     "rank": 32,
+     "of": 32,
+     "pct": 0.0
+    },
+    "sot": {
+     "v": 4.205882352941177,
+     "rank": 29,
+     "of": 32,
+     "pct": 10.0
+    },
+    "crosses": {
+     "v": 14.323529411764707,
+     "rank": 25,
+     "of": 32,
+     "pct": 23.0
+    },
+    "cross_pct": {
+     "v": 20.97448154751014,
+     "rank": 27,
+     "of": 30,
+     "pct": 10.0
+    },
+    "corners": {
+     "v": 4.0,
+     "rank": 30,
+     "of": 32,
+     "pct": 6.0
+    },
+    "tackles": {
+     "v": 15.0,
+     "rank": 15,
+     "of": 32,
+     "pct": 55.0
+    },
+    "interceptions": {
+     "v": 9.117647058823529,
+     "rank": 16,
+     "of": 32,
+     "pct": 52.0
+    },
+    "fouls": {
+     "v": 12.676470588235293,
+     "rank": 12,
+     "of": 32,
+     "pct": 65.0
+    },
+    "goals": {
+     "v": 1.1764705882352942,
+     "rank": 30,
+     "of": 32,
+     "pct": 6.0
+    },
+    "xg": {
+     "v": 1.3007735294117648,
+     "rank": 23,
+     "of": 25,
+     "pct": 8.0
+    },
+    "shots_ag": {
+     "v": 15.647058823529411,
+     "rank": 5,
+     "of": 32,
+     "pct": 87.0
+    },
+    "sot_ag": {
+     "v": 5.911764705882353,
+     "rank": 6,
+     "of": 32,
+     "pct": 84.0
+    },
+    "crosses_ag": {
+     "v": 17.441176470588236,
+     "rank": 9,
+     "of": 32,
+     "pct": 74.0
+    },
+    "corners_ag": {
+     "v": 5.970588235294118,
+     "rank": 4,
+     "of": 32,
+     "pct": 90.0
+    },
+    "goals_ag": {
+     "v": 2.3823529411764706,
+     "rank": 3,
+     "of": 32,
+     "pct": 94.0
+    },
+    "xg_ag": {
+     "v": 2.054326470588235,
+     "rank": 3,
+     "of": 25,
+     "pct": 92.0
+    },
+    "ppda": {
+     "v": 14.747658747254912,
+     "rank": 8,
+     "of": 32,
+     "pct": 77.0
+    },
+    "conv": {
+     "v": 10.25458459668986,
+     "rank": 30,
+     "of": 32,
+     "pct": 6.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 0.7647058823529411,
+     "gf": 1.1764705882352942,
+     "ga": 2.3823529411764706,
+     "shot_diff": -4.617647058823529
+    },
+    "last5": {
+     "ppg": 0.8,
+     "gf": 1.0,
+     "ga": 1.8,
+     "shot_diff": -2.0,
+     "results": [
+      "L",
+      "L",
+      "L",
+      "D",
+      "W"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-18",
+     "opp": "Real Salt Lake",
+     "score": "1-3",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-25",
+     "opp": "Austin FC",
+     "score": "1-2",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-29",
+     "opp": "Minnesota United FC",
+     "score": "1-3",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-31",
+     "opp": "FC Dallas",
+     "score": "1-1",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-08",
+     "opp": "San Diego FC",
+     "score": "1-0",
+     "venue": "away",
+     "playoff": false
+    }
+   ]
+  },
+  "LA Galaxy": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 48.311764705882354,
+     "rank": 21,
+     "of": 32,
+     "pct": 35.0
+    },
+    "passes": {
+     "v": 469.38235294117646,
+     "rank": 18,
+     "of": 32,
+     "pct": 45.0
+    },
+    "pass_pct": {
+     "v": 84.41176470588235,
+     "rank": 20,
+     "of": 32,
+     "pct": 39.0
+    },
+    "long_pct": {
+     "v": 9.688652990092315,
+     "rank": 21,
+     "of": 32,
+     "pct": 35.0
+    },
+    "shots": {
+     "v": 13.058823529411764,
+     "rank": 16,
+     "of": 32,
+     "pct": 52.0
+    },
+    "sot": {
+     "v": 5.323529411764706,
+     "rank": 8,
+     "of": 32,
+     "pct": 77.0
+    },
+    "crosses": {
+     "v": 11.882352941176471,
+     "rank": 29,
+     "of": 32,
+     "pct": 10.0
+    },
+    "cross_pct": {
+     "v": 25.03777584099534,
+     "rank": 21,
+     "of": 30,
+     "pct": 31.0
+    },
+    "corners": {
+     "v": 5.147058823529412,
+     "rank": 10,
+     "of": 32,
+     "pct": 71.0
+    },
+    "tackles": {
+     "v": 15.294117647058824,
+     "rank": 12,
+     "of": 32,
+     "pct": 65.0
+    },
+    "interceptions": {
+     "v": 9.617647058823529,
+     "rank": 9,
+     "of": 32,
+     "pct": 74.0
+    },
+    "fouls": {
+     "v": 10.264705882352942,
+     "rank": 26,
+     "of": 32,
+     "pct": 19.0
+    },
+    "goals": {
+     "v": 1.4705882352941178,
+     "rank": 22,
+     "of": 32,
+     "pct": 32.0
+    },
+    "xg": {
+     "v": 1.6085676470588235,
+     "rank": 13,
+     "of": 25,
+     "pct": 50.0
+    },
+    "shots_ag": {
+     "v": 14.176470588235293,
+     "rank": 10,
+     "of": 32,
+     "pct": 71.0
+    },
+    "sot_ag": {
+     "v": 5.0588235294117645,
+     "rank": 15,
+     "of": 32,
+     "pct": 55.0
+    },
+    "crosses_ag": {
+     "v": 17.205882352941178,
+     "rank": 11,
+     "of": 32,
+     "pct": 68.0
+    },
+    "corners_ag": {
+     "v": 4.352941176470588,
+     "rank": 25,
+     "of": 32,
+     "pct": 23.0
+    },
+    "goals_ag": {
+     "v": 1.6764705882352942,
+     "rank": 16,
+     "of": 32,
+     "pct": 52.0
+    },
+    "xg_ag": {
+     "v": 1.9452852941176473,
+     "rank": 4,
+     "of": 25,
+     "pct": 88.0
+    },
+    "ppda": {
+     "v": 14.61507185287355,
+     "rank": 10,
+     "of": 32,
+     "pct": 71.0
+    },
+    "conv": {
+     "v": 12.238232739962843,
+     "rank": 21,
+     "of": 32,
+     "pct": 35.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.2941176470588236,
+     "gf": 1.4705882352941178,
+     "ga": 1.6764705882352942,
+     "shot_diff": -1.1176470588235294
+    },
+    "last5": {
+     "ppg": 1.6,
+     "gf": 2.2,
+     "ga": 1.4,
+     "shot_diff": -3.4,
+     "results": [
+      "W",
+      "D",
+      "D",
+      "W",
+      "L"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-15",
+     "opp": "Portland Timbers",
+     "score": "2-0",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-18",
+     "opp": "San Diego FC",
+     "score": "2-2",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-26",
+     "opp": "LAFC",
+     "score": "2-2",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-31",
+     "opp": "Austin FC",
+     "score": "4-1",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-08",
+     "opp": "Real Salt Lake",
+     "score": "1-2",
+     "venue": "away",
+     "playoff": false
+    }
+   ]
+  },
+  "New York City FC": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 53.96176470588235,
+     "rank": 8,
+     "of": 32,
+     "pct": 77.0
+    },
+    "passes": {
+     "v": 504.88235294117646,
+     "rank": 7,
+     "of": 32,
+     "pct": 81.0
+    },
+    "pass_pct": {
+     "v": 84.11764705882354,
+     "rank": 21,
+     "of": 32,
+     "pct": 35.0
+    },
+    "long_pct": {
+     "v": 10.677188965489718,
+     "rank": 14,
+     "of": 32,
+     "pct": 58.0
+    },
+    "shots": {
+     "v": 11.852941176470589,
+     "rank": 29,
+     "of": 32,
+     "pct": 10.0
+    },
+    "sot": {
+     "v": 4.705882352941177,
+     "rank": 22,
+     "of": 32,
+     "pct": 32.0
+    },
+    "crosses": {
+     "v": 14.264705882352942,
+     "rank": 26,
+     "of": 32,
+     "pct": 19.0
+    },
+    "cross_pct": {
+     "v": 25.406865794225435,
+     "rank": 19,
+     "of": 30,
+     "pct": 38.0
+    },
+    "corners": {
+     "v": 4.117647058823529,
+     "rank": 29,
+     "of": 32,
+     "pct": 10.0
+    },
+    "tackles": {
+     "v": 15.558823529411764,
+     "rank": 9,
+     "of": 32,
+     "pct": 74.0
+    },
+    "interceptions": {
+     "v": 8.0,
+     "rank": 26,
+     "of": 32,
+     "pct": 19.0
+    },
+    "fouls": {
+     "v": 11.852941176470589,
+     "rank": 16,
+     "of": 32,
+     "pct": 52.0
+    },
+    "goals": {
+     "v": 1.4411764705882353,
+     "rank": 23,
+     "of": 32,
+     "pct": 29.0
+    },
+    "xg": {
+     "v": 1.5310088235294117,
+     "rank": 19,
+     "of": 25,
+     "pct": 25.0
+    },
+    "shots_ag": {
+     "v": 12.147058823529411,
+     "rank": 25,
+     "of": 32,
+     "pct": 23.0
+    },
+    "sot_ag": {
+     "v": 4.705882352941177,
+     "rank": 20,
+     "of": 32,
+     "pct": 39.0
+    },
+    "crosses_ag": {
+     "v": 14.470588235294118,
+     "rank": 23,
+     "of": 32,
+     "pct": 29.0
+    },
+    "corners_ag": {
+     "v": 4.647058823529412,
+     "rank": 23,
+     "of": 32,
+     "pct": 29.0
+    },
+    "goals_ag": {
+     "v": 1.3235294117647058,
+     "rank": 28,
+     "of": 32,
+     "pct": 13.0
+    },
+    "xg_ag": {
+     "v": 1.5202529411764707,
+     "rank": 19,
+     "of": 25,
+     "pct": 25.0
+    },
+    "ppda": {
+     "v": 12.570714243448556,
+     "rank": 24,
+     "of": 32,
+     "pct": 26.0
+    },
+    "conv": {
+     "v": 13.151994103551196,
+     "rank": 16,
+     "of": 32,
+     "pct": 52.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.2352941176470589,
+     "gf": 1.4411764705882353,
+     "ga": 1.3235294117647058,
+     "shot_diff": -0.29411764705882354
+    },
+    "last5": {
+     "ppg": 1.8,
+     "gf": 1.4,
+     "ga": 1.0,
+     "shot_diff": 1.4,
+     "results": [
+      "D",
+      "D",
+      "W",
+      "D",
+      "W"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-17",
+     "opp": "LAFC",
+     "score": "1-1",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-24",
+     "opp": "Orlando City SC",
+     "score": "2-2",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-28",
+     "opp": "Atlanta United FC",
+     "score": "2-1",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-31",
+     "opp": "CF Montréal",
+     "score": "1-1",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-07",
+     "opp": "D.C. United",
+     "score": "1-0",
+     "venue": "away",
+     "playoff": false
+    }
+   ]
+  },
+  "Seattle Sounders FC": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 51.30294117647059,
+     "rank": 12,
+     "of": 32,
+     "pct": 65.0
+    },
+    "passes": {
+     "v": 497.3529411764706,
+     "rank": 8,
+     "of": 32,
+     "pct": 77.0
+    },
+    "pass_pct": {
+     "v": 85.29411764705883,
+     "rank": 13,
+     "of": 32,
+     "pct": 61.0
+    },
+    "long_pct": {
+     "v": 9.274739122302064,
+     "rank": 24,
+     "of": 32,
+     "pct": 26.0
+    },
+    "shots": {
+     "v": 13.617647058823529,
+     "rank": 12,
+     "of": 32,
+     "pct": 65.0
+    },
+    "sot": {
+     "v": 4.9411764705882355,
+     "rank": 14,
+     "of": 32,
+     "pct": 58.0
+    },
+    "crosses": {
+     "v": 17.294117647058822,
+     "rank": 8,
+     "of": 32,
+     "pct": 77.0
+    },
+    "cross_pct": {
+     "v": 25.762806833274315,
+     "rank": 18,
+     "of": 30,
+     "pct": 41.0
+    },
+    "corners": {
+     "v": 5.4411764705882355,
+     "rank": 6,
+     "of": 32,
+     "pct": 84.0
+    },
+    "tackles": {
+     "v": 14.911764705882353,
+     "rank": 17,
+     "of": 32,
+     "pct": 48.0
+    },
+    "interceptions": {
+     "v": 9.029411764705882,
+     "rank": 18,
+     "of": 32,
+     "pct": 45.0
+    },
+    "fouls": {
+     "v": 10.764705882352942,
+     "rank": 24,
+     "of": 32,
+     "pct": 26.0
+    },
+    "goals": {
+     "v": 1.2941176470588236,
+     "rank": 26,
+     "of": 32,
+     "pct": 19.0
+    },
+    "xg": {
+     "v": 1.5430735294117648,
+     "rank": 17,
+     "of": 25,
+     "pct": 33.0
+    },
+    "shots_ag": {
+     "v": 14.176470588235293,
+     "rank": 9,
+     "of": 32,
+     "pct": 74.0
+    },
+    "sot_ag": {
+     "v": 5.176470588235294,
+     "rank": 13,
+     "of": 32,
+     "pct": 61.0
+    },
+    "crosses_ag": {
+     "v": 18.558823529411764,
+     "rank": 5,
+     "of": 32,
+     "pct": 87.0
+    },
+    "corners_ag": {
+     "v": 6.0588235294117645,
+     "rank": 3,
+     "of": 32,
+     "pct": 94.0
+    },
+    "goals_ag": {
+     "v": 1.3529411764705883,
+     "rank": 27,
+     "of": 32,
+     "pct": 16.0
+    },
+    "xg_ag": {
+     "v": 1.739485294117647,
+     "rank": 11,
+     "of": 25,
+     "pct": 58.0
+    },
+    "ppda": {
+     "v": 13.698927464934528,
+     "rank": 15,
+     "of": 32,
+     "pct": 55.0
+    },
+    "conv": {
+     "v": 11.102512202741433,
+     "rank": 28,
+     "of": 32,
+     "pct": 13.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.3529411764705883,
+     "gf": 1.2941176470588236,
+     "ga": 1.3529411764705883,
+     "shot_diff": -0.5588235294117647
+    },
+    "last5": {
+     "ppg": 1.0,
+     "gf": 1.2,
+     "ga": 2.0,
+     "shot_diff": 0.6,
+     "results": [
+      "D",
+      "D",
+      "L",
+      "L",
+      "W"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-18",
+     "opp": "CF Montréal",
+     "score": "1-1",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-25",
+     "opp": "San Diego FC",
+     "score": "2-2",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-29",
+     "opp": "Houston Dynamo FC",
+     "score": "0-1",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-01",
+     "opp": "Vancouver Whitecaps",
+     "score": "1-5",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-08",
+     "opp": "LAFC",
+     "score": "2-1",
+     "venue": "home",
+     "playoff": false
+    }
+   ]
+  },
+  "Colorado Rapids": {
+   "games": 34,
+   "metrics": {
+    "poss": {
+     "v": 55.42352941176471,
+     "rank": 3,
+     "of": 32,
+     "pct": 94.0
+    },
+    "passes": {
+     "v": 486.20588235294116,
+     "rank": 12,
+     "of": 32,
+     "pct": 65.0
+    },
+    "pass_pct": {
+     "v": 87.94117647058823,
+     "rank": 4,
+     "of": 32,
+     "pct": 90.0
+    },
+    "long_pct": {
+     "v": 8.368599240856739,
+     "rank": 28,
+     "of": 32,
+     "pct": 13.0
+    },
+    "shots": {
+     "v": 12.235294117647058,
+     "rank": 26,
+     "of": 32,
+     "pct": 19.0
+    },
+    "sot": {
+     "v": 4.205882352941177,
+     "rank": 30,
+     "of": 32,
+     "pct": 6.0
+    },
+    "crosses": {
+     "v": 16.764705882352942,
+     "rank": 13,
+     "of": 32,
+     "pct": 61.0
+    },
+    "cross_pct": {
+     "v": 27.103717607865804,
+     "rank": 11,
+     "of": 30,
+     "pct": 66.0
+    },
+    "corners": {
+     "v": 5.029411764705882,
+     "rank": 15,
+     "of": 32,
+     "pct": 55.0
+    },
+    "tackles": {
+     "v": 13.294117647058824,
+     "rank": 28,
+     "of": 32,
+     "pct": 13.0
+    },
+    "interceptions": {
+     "v": 9.352941176470589,
+     "rank": 12,
+     "of": 32,
+     "pct": 65.0
+    },
+    "fouls": {
+     "v": 14.588235294117647,
+     "rank": 2,
+     "of": 32,
+     "pct": 97.0
+    },
+    "goals": {
+     "v": 1.3823529411764706,
+     "rank": 25,
+     "of": 32,
+     "pct": 23.0
+    },
+    "xg": {
+     "v": 1.5628205882352941,
+     "rank": 15,
+     "of": 25,
+     "pct": 42.0
+    },
+    "shots_ag": {
+     "v": 12.029411764705882,
+     "rank": 27,
+     "of": 32,
+     "pct": 16.0
+    },
+    "sot_ag": {
+     "v": 4.323529411764706,
+     "rank": 24,
+     "of": 32,
+     "pct": 26.0
+    },
+    "crosses_ag": {
+     "v": 14.088235294117647,
+     "rank": 26,
+     "of": 32,
+     "pct": 19.0
+    },
+    "corners_ag": {
+     "v": 4.382352941176471,
+     "rank": 24,
+     "of": 32,
+     "pct": 26.0
+    },
+    "goals_ag": {
+     "v": 1.4705882352941178,
+     "rank": 24,
+     "of": 32,
+     "pct": 26.0
+    },
+    "xg_ag": {
+     "v": 1.4452647058823531,
+     "rank": 21,
+     "of": 25,
+     "pct": 17.0
+    },
+    "ppda": {
+     "v": 10.887864956317589,
+     "rank": 30,
+     "of": 32,
+     "pct": 6.0
+    },
+    "conv": {
+     "v": 11.331601906109203,
+     "rank": 26,
+     "of": 32,
+     "pct": 19.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 1.2647058823529411,
+     "gf": 1.3823529411764706,
+     "ga": 1.4705882352941178,
+     "shot_diff": 0.20588235294117646
+    },
+    "last5": {
+     "ppg": 1.0,
+     "gf": 1.2,
+     "ga": 1.8,
+     "shot_diff": -3.8,
+     "results": [
+      "D",
+      "W",
+      "D",
+      "L",
+      "L"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-10-18",
+     "opp": "Portland Timbers",
+     "score": "0-0",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-25",
+     "opp": "Vancouver Whitecaps",
+     "score": "1-0",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-10-29",
+     "opp": "San Jose Earthquakes",
+     "score": "2-2",
+     "venue": "away",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-01",
+     "opp": "Chicago Fire FC",
+     "score": "2-4",
+     "venue": "home",
+     "playoff": false
+    },
+    {
+     "date": "2026-11-08",
+     "opp": "FC Dallas",
+     "score": "1-3",
+     "venue": "away",
+     "playoff": false
+    }
+   ]
+  },
+  "MLS All-Stars": {
+   "games": 1,
+   "metrics": {
+    "poss": {
+     "v": 45.9,
+     "rank": 29,
+     "of": 32,
+     "pct": 10.0
+    },
+    "passes": {
+     "v": 517.0,
+     "rank": 5,
+     "of": 32,
+     "pct": 87.0
+    },
+    "pass_pct": {
+     "v": 80.0,
+     "rank": 29,
+     "of": 32,
+     "pct": 10.0
+    },
+    "long_pct": {
+     "v": 0.0,
+     "rank": 31,
+     "of": 32,
+     "pct": 3.0
+    },
+    "shots": {
+     "v": 13.0,
+     "rank": 17,
+     "of": 32,
+     "pct": 48.0
+    },
+    "sot": {
+     "v": 8.0,
+     "rank": 2,
+     "of": 32,
+     "pct": 97.0
+    },
+    "crosses": {
+     "v": 0.0,
+     "rank": 31,
+     "of": 32,
+     "pct": 3.0
+    },
+    "corners": {
+     "v": 3.0,
+     "rank": 32,
+     "of": 32,
+     "pct": 0.0
+    },
+    "tackles": {
+     "v": 16.0,
+     "rank": 5,
+     "of": 32,
+     "pct": 87.0
+    },
+    "interceptions": {
+     "v": 0.0,
+     "rank": 31,
+     "of": 32,
+     "pct": 3.0
+    },
+    "fouls": {
+     "v": 7.0,
+     "rank": 32,
+     "of": 32,
+     "pct": 0.0
+    },
+    "goals": {
+     "v": 4.0,
+     "rank": 1,
+     "of": 32,
+     "pct": 100.0
+    },
+    "shots_ag": {
+     "v": 25.0,
+     "rank": 1,
+     "of": 32,
+     "pct": 100.0
+    },
+    "sot_ag": {
+     "v": 16.0,
+     "rank": 1,
+     "of": 32,
+     "pct": 100.0
+    },
+    "crosses_ag": {
+     "v": 0.0,
+     "rank": 31,
+     "of": 32,
+     "pct": 3.0
+    },
+    "corners_ag": {
+     "v": 5.0,
+     "rank": 18,
+     "of": 32,
+     "pct": 45.0
+    },
+    "goals_ag": {
+     "v": 3.0,
+     "rank": 2,
+     "of": 32,
+     "pct": 97.0
+    },
+    "ppda": {
+     "v": 26.304347826086957,
+     "rank": 2,
+     "of": 32,
+     "pct": 97.0
+    },
+    "conv": {
+     "v": 30.76923076923077,
+     "rank": 1,
+     "of": 32,
+     "pct": 100.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 3.0,
+     "gf": 4.0,
+     "ga": 3.0,
+     "shot_diff": -12.0
+    },
+    "last5": {
+     "ppg": 3.0,
+     "gf": 4.0,
+     "ga": 3.0,
+     "shot_diff": -12.0,
+     "results": [
+      "W"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-07-30",
+     "opp": "Liga MX All-Stars",
+     "score": "4-3",
+     "venue": "home",
+     "playoff": false
+    }
+   ]
+  },
+  "Liga MX All-Stars": {
+   "games": 1,
+   "metrics": {
+    "poss": {
+     "v": 54.1,
+     "rank": 7,
+     "of": 32,
+     "pct": 81.0
+    },
+    "passes": {
+     "v": 605.0,
+     "rank": 2,
+     "of": 32,
+     "pct": 97.0
+    },
+    "pass_pct": {
+     "v": 90.0,
+     "rank": 1,
+     "of": 32,
+     "pct": 100.0
+    },
+    "long_pct": {
+     "v": 0.0,
+     "rank": 32,
+     "of": 32,
+     "pct": 0.0
+    },
+    "shots": {
+     "v": 25.0,
+     "rank": 1,
+     "of": 32,
+     "pct": 100.0
+    },
+    "sot": {
+     "v": 16.0,
+     "rank": 1,
+     "of": 32,
+     "pct": 100.0
+    },
+    "crosses": {
+     "v": 0.0,
+     "rank": 32,
+     "of": 32,
+     "pct": 0.0
+    },
+    "corners": {
+     "v": 5.0,
+     "rank": 16,
+     "of": 32,
+     "pct": 52.0
+    },
+    "tackles": {
+     "v": 7.0,
+     "rank": 32,
+     "of": 32,
+     "pct": 0.0
+    },
+    "interceptions": {
+     "v": 0.0,
+     "rank": 32,
+     "of": 32,
+     "pct": 0.0
+    },
+    "fouls": {
+     "v": 12.0,
+     "rank": 15,
+     "of": 32,
+     "pct": 55.0
+    },
+    "goals": {
+     "v": 3.0,
+     "rank": 2,
+     "of": 32,
+     "pct": 97.0
+    },
+    "shots_ag": {
+     "v": 13.0,
+     "rank": 19,
+     "of": 32,
+     "pct": 42.0
+    },
+    "sot_ag": {
+     "v": 8.0,
+     "rank": 2,
+     "of": 32,
+     "pct": 97.0
+    },
+    "crosses_ag": {
+     "v": 0.0,
+     "rank": 32,
+     "of": 32,
+     "pct": 0.0
+    },
+    "corners_ag": {
+     "v": 3.0,
+     "rank": 32,
+     "of": 32,
+     "pct": 0.0
+    },
+    "goals_ag": {
+     "v": 4.0,
+     "rank": 1,
+     "of": 32,
+     "pct": 100.0
+    },
+    "ppda": {
+     "v": 27.210526315789473,
+     "rank": 1,
+     "of": 32,
+     "pct": 100.0
+    },
+    "conv": {
+     "v": 12.0,
+     "rank": 23,
+     "of": 32,
+     "pct": 29.0
+    }
+   },
+   "form": {
+    "season": {
+     "ppg": 0.0,
+     "gf": 3.0,
+     "ga": 4.0,
+     "shot_diff": 12.0
+    },
+    "last5": {
+     "ppg": 0.0,
+     "gf": 3.0,
+     "ga": 4.0,
+     "shot_diff": 12.0,
+     "results": [
+      "L"
+     ]
+    }
+   },
+   "playoff_games": 0,
+   "recent": [
+    {
+     "date": "2026-07-30",
+     "opp": "MLS All-Stars",
+     "score": "3-4",
+     "venue": "away",
+     "playoff": false
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "id": "761941",
+ "date": "2026-11-07T21:00Z",
+ "stage": "regular",
+ "home": "Philadelphia Union",
+ "away": "Toronto FC",
+ "hs": 4,
+ "as": 1,
+ "stats": {
+  "home": {
+   "possession_pct": 43.1,
+   "shots": 19.0,
+   "shots_on_target": 9.0,
+   "xg": null,
+   "passes": 267.0,
+   "pass_accuracy_pct": 70.0,
+   "long_balls": 41.0,
+   "crosses": 13.0,
+   "crosses_completed": 2.0,
+   "corners": 6.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 19.0,
+   "interceptions": 10.0,
+   "fouls": 15.0,
+   "saves": 0.0,
+   "blocked_shots": 3.0,
+   "clearances": 20.0
+  },
+  "away": {
+   "possession_pct": 56.9,
+   "shots": 6.0,
+   "shots_on_target": 1.0,
+   "xg": null,
+   "passes": 358.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 61.0,
+   "crosses": 9.0,
+   "crosses_completed": 2.0,
+   "corners": 1.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 9.0,
+   "interceptions": 8.0,
+   "fouls": 11.0,
+   "saves": 4.0,
+   "blocked_shots": 2.0,
+   "clearances": 22.0
+  }
+ }
+}

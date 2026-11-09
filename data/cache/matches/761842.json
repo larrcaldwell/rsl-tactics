@@ -1,0 +1,61 @@
+{
+ "id": "761842",
+ "date": "2026-09-27T02:30Z",
+ "stage": "regular",
+ "home": "Vancouver Whitecaps",
+ "away": "D.C. United",
+ "hs": 3,
+ "as": 3,
+ "stats": {
+  "home": {
+   "possession_pct": 63.4,
+   "shots": 16.0,
+   "shots_on_target": 9.0,
+   "xg": null,
+   "passes": 548.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 56.0,
+   "crosses": 27.0,
+   "crosses_completed": 6.0,
+   "corners": 7.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 14.0,
+   "interceptions": 8.0,
+   "fouls": 10.0,
+   "saves": 4.0,
+   "blocked_shots": 2.0,
+   "clearances": 29.0
+  },
+  "away": {
+   "possession_pct": 36.6,
+   "shots": 21.0,
+   "shots_on_target": 8.0,
+   "xg": null,
+   "passes": 309.0,
+   "pass_accuracy_pct": 70.0,
+   "long_balls": 58.0,
+   "crosses": 23.0,
+   "crosses_completed": 7.0,
+   "corners": 10.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 18.0,
+   "interceptions": 11.0,
+   "fouls": 10.0,
+   "saves": 6.0,
+   "blocked_shots": 5.0,
+   "clearances": 43.0
+  }
+ }
+}

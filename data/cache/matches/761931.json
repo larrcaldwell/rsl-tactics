@@ -1,0 +1,61 @@
+{
+ "id": "761931",
+ "date": "2026-11-01T21:30Z",
+ "stage": "regular",
+ "home": "Atlanta United FC",
+ "away": "Toronto FC",
+ "hs": 3,
+ "as": 1,
+ "stats": {
+  "home": {
+   "possession_pct": 48.3,
+   "shots": 20.0,
+   "shots_on_target": 8.0,
+   "xg": null,
+   "passes": 469.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 60.0,
+   "crosses": 9.0,
+   "crosses_completed": 3.0,
+   "corners": 3.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 16.0,
+   "interceptions": 12.0,
+   "fouls": 14.0,
+   "saves": 2.0,
+   "blocked_shots": 4.0,
+   "clearances": 17.0
+  },
+  "away": {
+   "possession_pct": 51.7,
+   "shots": 13.0,
+   "shots_on_target": 3.0,
+   "xg": null,
+   "passes": 481.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 57.0,
+   "crosses": 27.0,
+   "crosses_completed": 9.0,
+   "corners": 3.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 8.0,
+   "interceptions": 14.0,
+   "fouls": 10.0,
+   "saves": 5.0,
+   "blocked_shots": 4.0,
+   "clearances": 11.0
+  }
+ }
+}

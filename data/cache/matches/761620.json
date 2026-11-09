@@ -1,0 +1,61 @@
+{
+ "id": "761620",
+ "date": "2026-05-13T23:30Z",
+ "stage": "regular",
+ "home": "D.C. United",
+ "away": "Chicago Fire FC",
+ "hs": 1,
+ "as": 3,
+ "stats": {
+  "home": {
+   "possession_pct": 40.4,
+   "shots": 13.0,
+   "shots_on_target": 6.0,
+   "xg": null,
+   "passes": 305.0,
+   "pass_accuracy_pct": 70.0,
+   "long_balls": 50.0,
+   "crosses": 20.0,
+   "crosses_completed": 3.0,
+   "corners": 7.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 21.0,
+   "interceptions": 11.0,
+   "fouls": 14.0,
+   "saves": 5.0,
+   "blocked_shots": 3.0,
+   "clearances": 18.0
+  },
+  "away": {
+   "possession_pct": 59.6,
+   "shots": 14.0,
+   "shots_on_target": 8.0,
+   "xg": null,
+   "passes": 466.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 44.0,
+   "crosses": 17.0,
+   "crosses_completed": 6.0,
+   "corners": 8.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 8.0,
+   "interceptions": 7.0,
+   "fouls": 12.0,
+   "saves": 5.0,
+   "blocked_shots": 1.0,
+   "clearances": 39.0
+  }
+ }
+}

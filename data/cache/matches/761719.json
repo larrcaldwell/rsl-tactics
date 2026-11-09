@@ -1,0 +1,61 @@
+{
+ "id": "761719",
+ "date": "2026-08-16T01:30Z",
+ "stage": "regular",
+ "home": "Real Salt Lake",
+ "away": "Minnesota United FC",
+ "hs": 1,
+ "as": 1,
+ "stats": {
+  "home": {
+   "possession_pct": 57.1,
+   "shots": 13.0,
+   "shots_on_target": 7.0,
+   "xg": null,
+   "passes": 573.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 51.0,
+   "crosses": 15.0,
+   "crosses_completed": 1.0,
+   "corners": 7.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 13.0,
+   "interceptions": 21.0,
+   "fouls": 7.0,
+   "saves": 1.0,
+   "blocked_shots": 1.0,
+   "clearances": 27.0
+  },
+  "away": {
+   "possession_pct": 42.9,
+   "shots": 15.0,
+   "shots_on_target": 3.0,
+   "xg": null,
+   "passes": 423.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 67.0,
+   "crosses": 17.0,
+   "crosses_completed": 6.0,
+   "corners": 10.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 10.0,
+   "interceptions": 12.0,
+   "fouls": 12.0,
+   "saves": 7.0,
+   "blocked_shots": 3.0,
+   "clearances": 17.0
+  }
+ }
+}

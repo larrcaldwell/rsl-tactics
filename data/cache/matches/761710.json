@@ -1,0 +1,61 @@
+{
+ "id": "761710",
+ "date": "2026-08-15T23:30Z",
+ "stage": "regular",
+ "home": "Charlotte FC",
+ "away": "Columbus Crew",
+ "hs": 3,
+ "as": 1,
+ "stats": {
+  "home": {
+   "possession_pct": 30.1,
+   "shots": 9.0,
+   "shots_on_target": 7.0,
+   "xg": null,
+   "passes": 313.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 52.0,
+   "crosses": 8.0,
+   "crosses_completed": 3.0,
+   "corners": 1.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 16.0,
+   "interceptions": 10.0,
+   "fouls": 9.0,
+   "saves": 3.0,
+   "blocked_shots": 0.0,
+   "clearances": 27.0
+  },
+  "away": {
+   "possession_pct": 69.9,
+   "shots": 26.0,
+   "shots_on_target": 4.0,
+   "xg": null,
+   "passes": 722.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 26.0,
+   "crosses": 25.0,
+   "crosses_completed": 3.0,
+   "corners": 13.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 12.0,
+   "interceptions": 8.0,
+   "fouls": 9.0,
+   "saves": 3.0,
+   "blocked_shots": 11.0,
+   "clearances": 9.0
+  }
+ }
+}

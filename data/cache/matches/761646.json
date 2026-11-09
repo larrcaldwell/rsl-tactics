@@ -1,0 +1,61 @@
+{
+ "id": "761646",
+ "date": "2026-05-23T23:30Z",
+ "stage": "regular",
+ "home": "D.C. United",
+ "away": "CF Montréal",
+ "hs": 4,
+ "as": 4,
+ "stats": {
+  "home": {
+   "possession_pct": 43.7,
+   "shots": 18.0,
+   "shots_on_target": 10.0,
+   "xg": null,
+   "passes": 329.0,
+   "pass_accuracy_pct": 70.0,
+   "long_balls": 76.0,
+   "crosses": 20.0,
+   "crosses_completed": 6.0,
+   "corners": 6.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 15.0,
+   "interceptions": 4.0,
+   "fouls": 19.0,
+   "saves": 4.0,
+   "blocked_shots": 5.0,
+   "clearances": 32.0
+  },
+  "away": {
+   "possession_pct": 56.3,
+   "shots": 22.0,
+   "shots_on_target": 8.0,
+   "xg": null,
+   "passes": 432.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 61.0,
+   "crosses": 18.0,
+   "crosses_completed": 8.0,
+   "corners": 4.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 14.0,
+   "interceptions": 9.0,
+   "fouls": 16.0,
+   "saves": 6.0,
+   "blocked_shots": 7.0,
+   "clearances": 23.0
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "id": "761605",
+ "date": "2026-05-10T01:15Z",
+ "stage": "regular",
+ "home": "Nashville SC",
+ "away": "D.C. United",
+ "hs": 2,
+ "as": 2,
+ "stats": {
+  "home": {
+   "possession_pct": 74.0,
+   "shots": 16.0,
+   "shots_on_target": 7.0,
+   "xg": null,
+   "passes": 550.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 41.0,
+   "crosses": 24.0,
+   "crosses_completed": 5.0,
+   "corners": 8.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 9.0,
+   "interceptions": 4.0,
+   "fouls": 9.0,
+   "saves": 4.0,
+   "blocked_shots": 3.0,
+   "clearances": 20.0
+  },
+  "away": {
+   "possession_pct": 26.0,
+   "shots": 12.0,
+   "shots_on_target": 6.0,
+   "xg": null,
+   "passes": 184.0,
+   "pass_accuracy_pct": 60.0,
+   "long_balls": 46.0,
+   "crosses": 17.0,
+   "crosses_completed": 4.0,
+   "corners": 7.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 10.0,
+   "interceptions": 9.0,
+   "fouls": 15.0,
+   "saves": 5.0,
+   "blocked_shots": 3.0,
+   "clearances": 25.0
+  }
+ }
+}

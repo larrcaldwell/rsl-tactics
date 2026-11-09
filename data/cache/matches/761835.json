@@ -1,0 +1,61 @@
+{
+ "id": "761835",
+ "date": "2026-09-27T00:30Z",
+ "stage": "regular",
+ "home": "FC Dallas",
+ "away": "LAFC",
+ "hs": 1,
+ "as": 0,
+ "stats": {
+  "home": {
+   "possession_pct": 48.4,
+   "shots": 13.0,
+   "shots_on_target": 4.0,
+   "xg": null,
+   "passes": 417.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 40.0,
+   "crosses": 4.0,
+   "crosses_completed": 1.0,
+   "corners": 2.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 18.0,
+   "interceptions": 11.0,
+   "fouls": 15.0,
+   "saves": 3.0,
+   "blocked_shots": 3.0,
+   "clearances": 26.0
+  },
+  "away": {
+   "possession_pct": 51.6,
+   "shots": 11.0,
+   "shots_on_target": 3.0,
+   "xg": null,
+   "passes": 442.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 61.0,
+   "crosses": 11.0,
+   "crosses_completed": 2.0,
+   "corners": 2.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 19.0,
+   "interceptions": 13.0,
+   "fouls": 12.0,
+   "saves": 3.0,
+   "blocked_shots": 4.0,
+   "clearances": 23.0
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "id": "761914",
+ "date": "2026-10-29T00:30Z",
+ "stage": "regular",
+ "home": "Nashville SC",
+ "away": "Philadelphia Union",
+ "hs": 0,
+ "as": 0,
+ "stats": {
+  "home": {
+   "possession_pct": 62.9,
+   "shots": 9.0,
+   "shots_on_target": 1.0,
+   "xg": null,
+   "passes": 496.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 79.0,
+   "crosses": 14.0,
+   "crosses_completed": 4.0,
+   "corners": 2.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 12.0,
+   "interceptions": 14.0,
+   "fouls": 8.0,
+   "saves": 2.0,
+   "blocked_shots": 2.0,
+   "clearances": 33.0
+  },
+  "away": {
+   "possession_pct": 37.1,
+   "shots": 6.0,
+   "shots_on_target": 2.0,
+   "xg": null,
+   "passes": 282.0,
+   "pass_accuracy_pct": 70.0,
+   "long_balls": 54.0,
+   "crosses": 19.0,
+   "crosses_completed": 2.0,
+   "corners": 8.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 7.0,
+   "interceptions": 15.0,
+   "fouls": 15.0,
+   "saves": 1.0,
+   "blocked_shots": 1.0,
+   "clearances": 24.0
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "id": "761716",
+ "date": "2026-08-16T00:30Z",
+ "stage": "regular",
+ "home": "Nashville SC",
+ "away": "Inter Miami CF",
+ "hs": 4,
+ "as": 1,
+ "stats": {
+  "home": {
+   "possession_pct": 44.8,
+   "shots": 18.0,
+   "shots_on_target": 8.0,
+   "xg": null,
+   "passes": 394.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 44.0,
+   "crosses": 19.0,
+   "crosses_completed": 4.0,
+   "corners": 10.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 18.0,
+   "interceptions": 10.0,
+   "fouls": 15.0,
+   "saves": 3.0,
+   "blocked_shots": 6.0,
+   "clearances": 21.0
+  },
+  "away": {
+   "possession_pct": 55.2,
+   "shots": 16.0,
+   "shots_on_target": 4.0,
+   "xg": null,
+   "passes": 499.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 38.0,
+   "crosses": 10.0,
+   "crosses_completed": 2.0,
+   "corners": 4.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 9.0,
+   "interceptions": 6.0,
+   "fouls": 10.0,
+   "saves": 4.0,
+   "blocked_shots": 6.0,
+   "clearances": 22.0
+  }
+ }
+}

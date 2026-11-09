@@ -1,0 +1,61 @@
+{
+ "id": "761583",
+ "date": "2026-04-25T18:30Z",
+ "stage": "regular",
+ "home": "CF Montréal",
+ "away": "New York City FC",
+ "hs": 1,
+ "as": 0,
+ "stats": {
+  "home": {
+   "possession_pct": 35.3,
+   "shots": 8.0,
+   "shots_on_target": 5.0,
+   "xg": null,
+   "passes": 346.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 49.0,
+   "crosses": 8.0,
+   "crosses_completed": 3.0,
+   "corners": 3.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 17.0,
+   "interceptions": 8.0,
+   "fouls": 18.0,
+   "saves": 2.0,
+   "blocked_shots": 2.0,
+   "clearances": 18.0
+  },
+  "away": {
+   "possession_pct": 64.7,
+   "shots": 4.0,
+   "shots_on_target": 2.0,
+   "xg": null,
+   "passes": 629.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 36.0,
+   "crosses": 16.0,
+   "crosses_completed": 3.0,
+   "corners": 1.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 15.0,
+   "interceptions": 6.0,
+   "fouls": 15.0,
+   "saves": 4.0,
+   "blocked_shots": 1.0,
+   "clearances": 13.0
+  }
+ }
+}

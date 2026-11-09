@@ -1,0 +1,528 @@
+{
+ "generated_at": "2026-11-09T06:07:07+00:00",
+ "mode": "upcoming",
+ "profiles_generated_at": "2026-11-09T06:07:07+00:00",
+ "profile_source": "espn+asa",
+ "xg_available": true,
+ "match": {
+  "id": "401933555",
+  "date": "2026-11-20T03:00Z",
+  "home": "Seattle Sounders FC",
+  "away": "Real Salt Lake",
+  "rsl_is_home": false,
+  "opponent": "Seattle Sounders FC",
+  "stage": "playoff"
+ },
+ "rsl": {
+  "name": "RSL",
+  "profile_key": "Real Salt Lake",
+  "games": 34,
+  "form": {
+   "season": {
+    "ppg": 1.3235294117647058,
+    "gf": 1.5588235294117647,
+    "ga": 1.5294117647058822,
+    "shot_diff": 1.3529411764705883
+   },
+   "last5": {
+    "ppg": 2.4,
+    "gf": 2.2,
+    "ga": 1.0,
+    "shot_diff": 6.8,
+    "results": [
+     "W",
+     "W",
+     "W",
+     "L",
+     "W"
+    ]
+   }
+  },
+  "recent": [
+   {
+    "date": "2026-10-18",
+    "opp": "Sporting Kansas City",
+    "score": "3-1",
+    "venue": "away",
+    "playoff": false
+   },
+   {
+    "date": "2026-10-25",
+    "opp": "St. Louis CITY SC",
+    "score": "3-0",
+    "venue": "home",
+    "playoff": false
+   },
+   {
+    "date": "2026-10-29",
+    "opp": "Austin FC",
+    "score": "2-1",
+    "venue": "away",
+    "playoff": false
+   },
+   {
+    "date": "2026-10-31",
+    "opp": "San Jose Earthquakes",
+    "score": "1-2",
+    "venue": "away",
+    "playoff": false
+   },
+   {
+    "date": "2026-11-08",
+    "opp": "LA Galaxy",
+    "score": "2-1",
+    "venue": "home",
+    "playoff": false
+   }
+  ],
+  "cards": [
+   {
+    "id": "vuln_corners",
+    "scope": "vulnerability",
+    "confidence": "Measured",
+    "title": "RSL concede a lot of corners",
+    "data": "5.9 corners conceded per game (#6 of 32, #1 = concedes the most).",
+    "meaning": "They are pushed back and clear the ball behind. Set pieces become a real chance source.",
+    "watch": "Opponents winning corners in bunches, mark-up and second balls decide it.",
+    "impact": 0.756,
+    "numbers": [
+     {
+      "team": "RSL",
+      "key": "corners_ag",
+      "label": "Corners conceded",
+      "value": 5.85,
+      "rank": "6/32",
+      "pct": 84.0,
+      "term": "corners"
+     }
+    ],
+    "rule": "Corners conceded percentile >= 75."
+   },
+   {
+    "id": "form",
+    "scope": "form",
+    "confidence": "Measured",
+    "title": "RSL are in form",
+    "data": "Last 5: 2.4 points per game (WWWLW) vs 1.3 on the season.",
+    "meaning": "Recent results are well above their season level.",
+    "watch": "Confidence and shape. Hot teams press and attack with energy early, cold teams tighten up and wait for mistakes.",
+    "impact": 0.431,
+    "numbers": [],
+    "rule": "|last 5 ppg - season ppg| >= 0.6."
+   },
+   {
+    "id": "style_balanced",
+    "scope": "style",
+    "confidence": "Measured",
+    "title": "RSL have no extreme style",
+    "data": "Possession 49.2% (#18 of 32), long balls 11.1% of passes (#13 of 32).",
+    "meaning": "They mix short and direct play and adapt to the game.",
+    "watch": "Watch the first 15 minutes to see which approach they lean on, then see if it changes after a goal.",
+    "impact": 0.15,
+    "numbers": [
+     {
+      "team": "RSL",
+      "key": "poss",
+      "label": "Possession %",
+      "value": 49.21,
+      "rank": "18/32",
+      "pct": 45.0,
+      "term": "possession"
+     },
+     {
+      "team": "RSL",
+      "key": "long_pct",
+      "label": "Long ball share of passes %",
+      "value": 11.09,
+      "rank": "13/32",
+      "pct": 61.0,
+      "term": "long_ball_share"
+     }
+    ],
+    "rule": "Fallback when no style rule fires."
+   }
+  ],
+  "style": "balanced",
+  "press": "mid",
+  "attack_side": null
+ },
+ "opp": {
+  "name": "Seattle Sounders FC",
+  "profile_key": "Seattle Sounders FC",
+  "games": 34,
+  "form": {
+   "season": {
+    "ppg": 1.3529411764705883,
+    "gf": 1.2941176470588236,
+    "ga": 1.3529411764705883,
+    "shot_diff": -0.5588235294117647
+   },
+   "last5": {
+    "ppg": 1.0,
+    "gf": 1.2,
+    "ga": 2.0,
+    "shot_diff": 0.6,
+    "results": [
+     "D",
+     "D",
+     "L",
+     "L",
+     "W"
+    ]
+   }
+  },
+  "recent": [
+   {
+    "date": "2026-10-18",
+    "opp": "CF Montréal",
+    "score": "1-1",
+    "venue": "home",
+    "playoff": false
+   },
+   {
+    "date": "2026-10-25",
+    "opp": "San Diego FC",
+    "score": "2-2",
+    "venue": "away",
+    "playoff": false
+   },
+   {
+    "date": "2026-10-29",
+    "opp": "Houston Dynamo FC",
+    "score": "0-1",
+    "venue": "home",
+    "playoff": false
+   },
+   {
+    "date": "2026-11-01",
+    "opp": "Vancouver Whitecaps",
+    "score": "1-5",
+    "venue": "away",
+    "playoff": false
+   },
+   {
+    "date": "2026-11-08",
+    "opp": "LAFC",
+    "score": "2-1",
+    "venue": "home",
+    "playoff": false
+   }
+  ],
+  "cards": [
+   {
+    "id": "vuln_corners",
+    "scope": "vulnerability",
+    "confidence": "Measured",
+    "title": "Seattle Sounders FC concede a lot of corners",
+    "data": "6.1 corners conceded per game (#3 of 32, #1 = concedes the most).",
+    "meaning": "They are pushed back and clear the ball behind. Set pieces become a real chance source.",
+    "watch": "Opponents winning corners in bunches, mark-up and second balls decide it.",
+    "impact": 0.846,
+    "numbers": [
+     {
+      "team": "Seattle Sounders FC",
+      "key": "corners_ag",
+      "label": "Corners conceded",
+      "value": 6.06,
+      "rank": "3/32",
+      "pct": 94.0,
+      "term": "corners"
+     }
+    ],
+    "rule": "Corners conceded percentile >= 75."
+   },
+   {
+    "id": "vuln_crosses",
+    "scope": "vulnerability",
+    "confidence": "Measured",
+    "title": "Seattle Sounders FC concede a lot of crosses",
+    "data": "18.6 crosses conceded per game (#5 of 32, #1 = concedes the most).",
+    "meaning": "Opponents reach the flanks easily, and the box gets tested in the air.",
+    "watch": "Opposing fullbacks and wingers free to deliver, a long ball to the far post, set-piece pressure after blocked crosses.",
+    "impact": 0.783,
+    "numbers": [
+     {
+      "team": "Seattle Sounders FC",
+      "key": "crosses_ag",
+      "label": "Crosses conceded",
+      "value": 18.56,
+      "rank": "5/32",
+      "pct": 87.0,
+      "term": "crosses"
+     }
+    ],
+    "rule": "Crosses conceded percentile >= 75."
+   },
+   {
+    "id": "style_wide",
+    "scope": "style",
+    "confidence": "Measured",
+    "title": "Seattle Sounders FC attack wide and cross",
+    "data": "17.3 crosses per game (#8 of 32), 25.8% accurate (#18 of 30).",
+    "meaning": "They get the ball to the flanks and put it in the box rather than playing through the middle.",
+    "watch": "Fullbacks and wingers delivering early crosses, a target forward attacking the near post, clearances turning into corners.",
+    "impact": 0.77,
+    "numbers": [
+     {
+      "team": "Seattle Sounders FC",
+      "key": "crosses",
+      "label": "Crosses",
+      "value": 17.29,
+      "rank": "8/32",
+      "pct": 77.0,
+      "term": "crosses"
+     },
+     {
+      "team": "Seattle Sounders FC",
+      "key": "cross_pct",
+      "label": "Cross accuracy %",
+      "value": 25.76,
+      "rank": "18/30",
+      "pct": 41.0,
+      "term": "cross_accuracy"
+     }
+    ],
+    "rule": "Crosses per game pct >= 70."
+   },
+   {
+    "id": "finishing",
+    "scope": "finishing",
+    "confidence": "Measured",
+    "title": "Seattle Sounders FC are underperforming their chances",
+    "data": "1.29 goals vs 1.54 xG per game.",
+    "meaning": "They create more than they score, so goals may come with the same play.",
+    "watch": "Look for good chances wasted. The attack is working, the finishing is not.",
+    "impact": 0.29,
+    "numbers": [
+     {
+      "team": "Seattle Sounders FC",
+      "key": "goals",
+      "label": "Goals",
+      "value": 1.29,
+      "rank": "26/32",
+      "pct": 19.0,
+      "term": "goals"
+     },
+     {
+      "team": "Seattle Sounders FC",
+      "key": "xg",
+      "label": "xG",
+      "value": 1.54,
+      "rank": "17/25",
+      "pct": 33.0,
+      "term": "xg"
+     }
+    ],
+    "rule": "|goals - xG| per game >= 0.2."
+   }
+  ],
+  "style": "wide",
+  "press": "mid",
+  "attack_side": null
+ },
+ "compare": [
+  {
+   "key": "poss",
+   "label": "Possession %",
+   "term": "possession",
+   "rsl": 49.21,
+   "opp": 51.3,
+   "rsl_rank": "18/32",
+   "opp_rank": "12/32"
+  },
+  {
+   "key": "passes",
+   "label": "Passes",
+   "term": "passes",
+   "rsl": 469.97,
+   "opp": 497.35,
+   "rsl_rank": "17/32",
+   "opp_rank": "8/32"
+  },
+  {
+   "key": "long_pct",
+   "label": "Long ball share of passes %",
+   "term": "long_ball_share",
+   "rsl": 11.09,
+   "opp": 9.27,
+   "rsl_rank": "13/32",
+   "opp_rank": "24/32"
+  },
+  {
+   "key": "shots",
+   "label": "Shots",
+   "term": "shots",
+   "rsl": 14.56,
+   "opp": 13.62,
+   "rsl_rank": "6/32",
+   "opp_rank": "12/32"
+  },
+  {
+   "key": "sot",
+   "label": "Shots on target",
+   "term": "sot",
+   "rsl": 5.5,
+   "opp": 4.94,
+   "rsl_rank": "6/32",
+   "opp_rank": "14/32"
+  },
+  {
+   "key": "xg",
+   "label": "xG",
+   "term": "xg",
+   "rsl": 1.65,
+   "opp": 1.54,
+   "rsl_rank": "12/25",
+   "opp_rank": "17/25"
+  },
+  {
+   "key": "crosses",
+   "label": "Crosses",
+   "term": "crosses",
+   "rsl": 15.41,
+   "opp": 17.29,
+   "rsl_rank": "18/32",
+   "opp_rank": "8/32"
+  },
+  {
+   "key": "cross_pct",
+   "label": "Cross accuracy %",
+   "term": "cross_accuracy",
+   "rsl": 25.94,
+   "opp": 25.76,
+   "rsl_rank": "16/30",
+   "opp_rank": "18/30"
+  },
+  {
+   "key": "corners",
+   "label": "Corners",
+   "term": "corners",
+   "rsl": 4.94,
+   "opp": 5.44,
+   "rsl_rank": "17/32",
+   "opp_rank": "6/32"
+  },
+  {
+   "key": "ppda",
+   "label": "PPDA (approx)",
+   "term": "ppda",
+   "rsl": 13.52,
+   "opp": 13.7,
+   "rsl_rank": "16/32",
+   "opp_rank": "15/32"
+  },
+  {
+   "key": "shots_ag",
+   "label": "Shots conceded",
+   "term": "shots",
+   "rsl": 13.21,
+   "opp": 14.18,
+   "rsl_rank": "15/32",
+   "opp_rank": "9/32"
+  },
+  {
+   "key": "xg_ag",
+   "label": "xG conceded",
+   "term": "xg",
+   "rsl": 1.64,
+   "opp": 1.74,
+   "rsl_rank": "15/25",
+   "opp_rank": "11/25"
+  },
+  {
+   "key": "crosses_ag",
+   "label": "Crosses conceded",
+   "term": "crosses",
+   "rsl": 16.74,
+   "opp": 18.56,
+   "rsl_rank": "14/32",
+   "opp_rank": "5/32"
+  },
+  {
+   "key": "goals",
+   "label": "Goals",
+   "term": "goals",
+   "rsl": 1.56,
+   "opp": 1.29,
+   "rsl_rank": "19/32",
+   "opp_rank": "26/32"
+  },
+  {
+   "key": "goals_ag",
+   "label": "Goals conceded",
+   "term": "goals",
+   "rsl": 1.53,
+   "opp": 1.35,
+   "rsl_rank": "18/32",
+   "opp_rank": "27/32"
+  }
+ ],
+ "matchup": {
+  "keys": [
+   {
+    "id": "k_shots_RSL",
+    "scope": "key",
+    "confidence": "Measured",
+    "title": "RSL shoot a lot against a team that concedes shots",
+    "data": "RSL take 14.6 shots (#6 of 32). Seattle Sounders FC concede 14.2 (#9 of 32, #1 = most).",
+    "meaning": "Expect plenty of RSL attempts. Volume is likely, quality is the question.",
+    "watch": "RSL shooting from outside the box, Seattle Sounders FC goalkeeper busy, blocked shots and rebounds.",
+    "impact": 0.75,
+    "numbers": [
+     {
+      "team": "RSL",
+      "key": "shots",
+      "label": "Shots",
+      "value": 14.56,
+      "rank": "6/32",
+      "pct": 84.0,
+      "term": "shots"
+     },
+     {
+      "team": "Seattle Sounders FC",
+      "key": "shots_ag",
+      "label": "Shots conceded",
+      "value": 14.18,
+      "rank": "9/32",
+      "pct": 74.0,
+      "term": "shots"
+     }
+    ],
+    "rule": "A shots pct >= 65 and B shots conceded pct >= 60."
+   },
+   {
+    "id": "k_setp_Seattle Sounders FC",
+    "scope": "key",
+    "confidence": "Measured",
+    "title": "Seattle Sounders FC win corners and RSL give them away",
+    "data": "Seattle Sounders FC 5.4 corners per game (#6 of 32). RSL concede 5.9 (#6 of 32, #1 = most).",
+    "meaning": "Set pieces will matter in this game.",
+    "watch": "Seattle Sounders FC corners and wide free kicks into a crowded box, RSL marking tight and clearing short.",
+    "impact": 0.672,
+    "numbers": [
+     {
+      "team": "Seattle Sounders FC",
+      "key": "corners",
+      "label": "Corners",
+      "value": 5.44,
+      "rank": "6/32",
+      "pct": 84.0,
+      "term": "corners"
+     },
+     {
+      "team": "RSL",
+      "key": "corners_ag",
+      "label": "Corners conceded",
+      "value": 5.85,
+      "rank": "6/32",
+      "pct": 84.0,
+      "term": "corners"
+     }
+    ],
+    "rule": "A corners pct >= 70 and B corners conceded pct >= 60."
+   }
+  ],
+  "script": "RSL average 49% possession and Seattle Sounders FC average 51%, so expect RSL to see roughly 49% of the ball. Expect an even split of possession. RSL look like a balanced side, Seattle Sounders FC like a crossing side. The main battle: RSL shoot a lot against a team that concedes shots. This is a playoff match. Season numbers are regular season, and knockout games usually play tighter and cagier, with the team that scores first protecting the lead. Extra time and penalties are possible.",
+  "all_candidates": 2
+ }
+}

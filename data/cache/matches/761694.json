@@ -1,0 +1,61 @@
+{
+ "id": "761694",
+ "date": "2026-07-26T02:30Z",
+ "stage": "regular",
+ "home": "LAFC",
+ "away": "Sporting Kansas City",
+ "hs": 4,
+ "as": 0,
+ "stats": {
+  "home": {
+   "possession_pct": 46.3,
+   "shots": 8.0,
+   "shots_on_target": 5.0,
+   "xg": null,
+   "passes": 600.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 34.0,
+   "crosses": 14.0,
+   "crosses_completed": 1.0,
+   "corners": 5.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 11.0,
+   "interceptions": 7.0,
+   "fouls": 8.0,
+   "saves": 1.0,
+   "blocked_shots": 2.0,
+   "clearances": 27.0
+  },
+  "away": {
+   "possession_pct": 53.7,
+   "shots": 8.0,
+   "shots_on_target": 1.0,
+   "xg": null,
+   "passes": 692.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 20.0,
+   "crosses": 19.0,
+   "crosses_completed": 3.0,
+   "corners": 1.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 12.0,
+   "interceptions": 11.0,
+   "fouls": 11.0,
+   "saves": 1.0,
+   "blocked_shots": 3.0,
+   "clearances": 19.0
+  }
+ }
+}

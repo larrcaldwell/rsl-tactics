@@ -1,0 +1,61 @@
+{
+ "id": "761696",
+ "date": "2026-08-01T23:30Z",
+ "stage": "regular",
+ "home": "Red Bull New York",
+ "away": "Orlando City SC",
+ "hs": 3,
+ "as": 2,
+ "stats": {
+  "home": {
+   "possession_pct": 40.4,
+   "shots": 19.0,
+   "shots_on_target": 8.0,
+   "xg": null,
+   "passes": 399.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 29.0,
+   "crosses": 9.0,
+   "crosses_completed": 4.0,
+   "corners": 5.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 14.0,
+   "interceptions": 10.0,
+   "fouls": 10.0,
+   "saves": 5.0,
+   "blocked_shots": 6.0,
+   "clearances": 23.0
+  },
+  "away": {
+   "possession_pct": 59.6,
+   "shots": 20.0,
+   "shots_on_target": 7.0,
+   "xg": null,
+   "passes": 599.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 40.0,
+   "crosses": 11.0,
+   "crosses_completed": 2.0,
+   "corners": 4.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 18.0,
+   "interceptions": 16.0,
+   "fouls": 10.0,
+   "saves": 5.0,
+   "blocked_shots": 7.0,
+   "clearances": 12.0
+  }
+ }
+}

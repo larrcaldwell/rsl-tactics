@@ -1,0 +1,61 @@
+{
+ "id": "761772",
+ "date": "2026-09-05T23:30Z",
+ "stage": "regular",
+ "home": "Philadelphia Union",
+ "away": "CF Montréal",
+ "hs": 2,
+ "as": 0,
+ "stats": {
+  "home": {
+   "possession_pct": 50.7,
+   "shots": 19.0,
+   "shots_on_target": 8.0,
+   "xg": null,
+   "passes": 435.0,
+   "pass_accuracy_pct": 70.0,
+   "long_balls": 55.0,
+   "crosses": 16.0,
+   "crosses_completed": 5.0,
+   "corners": 6.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 18.0,
+   "interceptions": 9.0,
+   "fouls": 15.0,
+   "saves": 2.0,
+   "blocked_shots": 4.0,
+   "clearances": 19.0
+  },
+  "away": {
+   "possession_pct": 49.3,
+   "shots": 5.0,
+   "shots_on_target": 2.0,
+   "xg": null,
+   "passes": 423.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 58.0,
+   "crosses": 15.0,
+   "crosses_completed": 5.0,
+   "corners": 1.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 11.0,
+   "interceptions": 14.0,
+   "fouls": 8.0,
+   "saves": 6.0,
+   "blocked_shots": 0.0,
+   "clearances": 32.0
+  }
+ }
+}

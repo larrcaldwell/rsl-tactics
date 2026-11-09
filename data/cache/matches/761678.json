@@ -1,0 +1,61 @@
+{
+ "id": "761678",
+ "date": "2026-07-23T02:30Z",
+ "stage": "regular",
+ "home": "LA Galaxy",
+ "away": "St. Louis CITY SC",
+ "hs": 1,
+ "as": 3,
+ "stats": {
+  "home": {
+   "possession_pct": 46.8,
+   "shots": 11.0,
+   "shots_on_target": 3.0,
+   "xg": null,
+   "passes": 432.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 44.0,
+   "crosses": 10.0,
+   "crosses_completed": 3.0,
+   "corners": 4.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 11.0,
+   "interceptions": 10.0,
+   "fouls": 11.0,
+   "saves": 6.0,
+   "blocked_shots": 5.0,
+   "clearances": 14.0
+  },
+  "away": {
+   "possession_pct": 53.2,
+   "shots": 15.0,
+   "shots_on_target": 9.0,
+   "xg": null,
+   "passes": 491.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 45.0,
+   "crosses": 14.0,
+   "crosses_completed": 3.0,
+   "corners": 7.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 16.0,
+   "interceptions": 17.0,
+   "fouls": 16.0,
+   "saves": 2.0,
+   "blocked_shots": 3.0,
+   "clearances": 20.0
+  }
+ }
+}

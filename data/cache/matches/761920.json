@@ -1,0 +1,61 @@
+{
+ "id": "761920",
+ "date": "2026-11-01T21:30Z",
+ "stage": "regular",
+ "home": "Nashville SC",
+ "away": "Red Bull New York",
+ "hs": 3,
+ "as": 2,
+ "stats": {
+  "home": {
+   "possession_pct": 61.3,
+   "shots": 21.0,
+   "shots_on_target": 7.0,
+   "xg": null,
+   "passes": 504.0,
+   "pass_accuracy_pct": 90.0,
+   "long_balls": 66.0,
+   "crosses": 27.0,
+   "crosses_completed": 9.0,
+   "corners": 12.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 9.0,
+   "interceptions": 6.0,
+   "fouls": 5.0,
+   "saves": 2.0,
+   "blocked_shots": 4.0,
+   "clearances": 21.0
+  },
+  "away": {
+   "possession_pct": 38.7,
+   "shots": 14.0,
+   "shots_on_target": 4.0,
+   "xg": null,
+   "passes": 323.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 49.0,
+   "crosses": 10.0,
+   "crosses_completed": 3.0,
+   "corners": 3.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 22.0,
+   "interceptions": 3.0,
+   "fouls": 13.0,
+   "saves": 6.0,
+   "blocked_shots": 6.0,
+   "clearances": 41.0
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "id": "761641",
+ "date": "2026-05-17T02:30Z",
+ "stage": "regular",
+ "home": "San Jose Earthquakes",
+ "away": "FC Dallas",
+ "hs": 2,
+ "as": 3,
+ "stats": {
+  "home": {
+   "possession_pct": 54.6,
+   "shots": 16.0,
+   "shots_on_target": 7.0,
+   "xg": null,
+   "passes": 388.0,
+   "pass_accuracy_pct": 80.0,
+   "long_balls": 39.0,
+   "crosses": 38.0,
+   "crosses_completed": 6.0,
+   "corners": 12.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 20.0,
+   "interceptions": 9.0,
+   "fouls": 9.0,
+   "saves": 6.0,
+   "blocked_shots": 3.0,
+   "clearances": 25.0
+  },
+  "away": {
+   "possession_pct": 45.4,
+   "shots": 16.0,
+   "shots_on_target": 9.0,
+   "xg": null,
+   "passes": 339.0,
+   "pass_accuracy_pct": 70.0,
+   "long_balls": 53.0,
+   "crosses": 12.0,
+   "crosses_completed": 3.0,
+   "corners": 4.0,
+   "attack_side": {
+    "left_pct": null,
+    "center_pct": null,
+    "right_pct": null
+   },
+   "final_third_entries": null,
+   "box_touches": null,
+   "tackles": 16.0,
+   "interceptions": 8.0,
+   "fouls": 17.0,
+   "saves": 5.0,
+   "blocked_shots": 5.0,
+   "clearances": 41.0
+  }
+ }
+}
