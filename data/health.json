@@ -8,7 +8,7 @@
   },
   "espn": {
    "ok": true,
-   "last_ok": "2026-11-12T18:35:34+00:00",
+   "last_ok": "2026-11-13T18:03:18+00:00",
    "last_fail": "2026-11-09T05:57:50+00:00",
    "detail": "schedule 35 RSL matches"
   },
@@ -361,7 +361,13 @@
    "source": "espn",
    "ok": true,
    "detail": "schedule 35 RSL matches"
+  },
+  {
+   "t": "2026-11-13T18:03:18+00:00",
+   "source": "espn",
+   "ok": true,
+   "detail": "schedule 35 RSL matches"
   }
  ],
- "updated_at": "2026-11-12T18:35:34+00:00"
+ "updated_at": "2026-11-13T18:03:18+00:00"
 }
