@@ -2,15 +2,15 @@
  "sources": {
   "asa": {
    "ok": true,
-   "last_ok": "2026-11-09T19:46:39+00:00",
+   "last_ok": "2026-11-16T19:34:26+00:00",
    "last_fail": null,
    "detail": "30 teams"
   },
   "espn": {
    "ok": true,
-   "last_ok": "2026-11-15T17:24:08+00:00",
+   "last_ok": "2026-11-16T19:34:25+00:00",
    "last_fail": "2026-11-09T05:57:50+00:00",
-   "detail": "schedule 35 RSL matches"
+   "detail": "537 events"
   },
   "fotmob": {
    "ok": false,
@@ -26,18 +26,6 @@
   }
  },
  "events": [
-  {
-   "t": "2026-11-09T05:52:09+00:00",
-   "source": "asa",
-   "ok": true,
-   "detail": "31 teams, xG rows for 30 teams"
-  },
-  {
-   "t": "2026-11-09T05:52:19+00:00",
-   "source": "espn",
-   "ok": false,
-   "detail": "scoreboard 2026-01-01: HTTP 400 for https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/scoreboard"
-  },
   {
    "t": "2026-11-09T05:52:28+00:00",
    "source": "espn",
@@ -379,7 +367,25 @@
    "source": "espn",
    "ok": true,
    "detail": "schedule 35 RSL matches"
+  },
+  {
+   "t": "2026-11-16T19:34:24+00:00",
+   "source": "espn",
+   "ok": true,
+   "detail": "schedule 35 RSL matches"
+  },
+  {
+   "t": "2026-11-16T19:34:25+00:00",
+   "source": "espn",
+   "ok": true,
+   "detail": "537 events"
+  },
+  {
+   "t": "2026-11-16T19:34:26+00:00",
+   "source": "asa",
+   "ok": true,
+   "detail": "30 teams"
   }
  ],
- "updated_at": "2026-11-15T17:24:08+00:00"
+ "updated_at": "2026-11-16T19:34:26+00:00"
 }
