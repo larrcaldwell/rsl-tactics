@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T18:01:52+00:00",
+ "generated_at": "2026-11-23T21:18:22+00:00",
  "season": 2026,
  "matches": [
   {
@@ -429,9 +429,9 @@
    "season_slug": "western-conference-playoffs---round-one",
    "home": "Vancouver Whitecaps",
    "away": "Real Salt Lake",
-   "state": "pre",
-   "name": "STATUS_SCHEDULED",
-   "hs": 0,
+   "state": "post",
+   "name": "STATUS_FULL_TIME",
+   "hs": 2,
    "as": 0
   },
   {
@@ -460,27 +460,27 @@
   }
  ],
  "next": {
-  "id": "401933729",
-  "date": "2026-11-23T01:30Z",
+  "id": "401933725",
+  "date": "2026-11-28T03:00Z",
   "stage": "playoff",
   "season_slug": "western-conference-playoffs---round-one",
-  "home": "Vancouver Whitecaps",
-  "away": "Real Salt Lake",
+  "home": "Real Salt Lake",
+  "away": "Vancouver Whitecaps",
   "state": "pre",
   "name": "STATUS_SCHEDULED",
   "hs": 0,
   "as": 0
  },
  "last_completed": {
-  "id": "401933555",
-  "date": "2026-11-20T03:00Z",
+  "id": "401933729",
+  "date": "2026-11-23T01:30Z",
   "stage": "playoff",
-  "season_slug": "western-conference-playoffs---wild-card",
-  "home": "Seattle Sounders FC",
+  "season_slug": "western-conference-playoffs---round-one",
+  "home": "Vancouver Whitecaps",
   "away": "Real Salt Lake",
   "state": "post",
-  "name": "STATUS_FINAL_PEN",
-  "hs": 1,
-  "as": 1
+  "name": "STATUS_FULL_TIME",
+  "hs": 2,
+  "as": 0
  }
 }
