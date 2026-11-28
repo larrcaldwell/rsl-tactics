@@ -14,7 +14,7 @@
  "snapshot": {
   "match_id": "401933725",
   "source": "espn",
-  "fetched_at": "2026-11-28T02:47:38+00:00",
+  "fetched_at": "2026-11-28T02:50:10+00:00",
   "status": "pre",
   "minute": null,
   "teams": {
@@ -100,5 +100,5 @@
    "ok": true
   }
  ],
- "updated_at": "2026-11-28T02:47:38+00:00"
+ "updated_at": "2026-11-28T02:50:10+00:00"
 }
